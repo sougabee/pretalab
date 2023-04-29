@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Bankovni način"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Standardna radna površina"
+   },
+   "blankButtonDEF": {
+      "message": "Ponovno otvori karticu zadanog načina"
+   },
+   "blankButtonNG": {
+      "message": "Ponovno otvori karticu u zaštićenom prozoru"
+   },
+   "blankButtonSZ": {
+      "message": "Vrati me u bankovni način"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Pokušajte ponovno"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Preglednik SafeZone stavio je tu karticu na čekanje radi zaštite od mogućih programa za praćenje i drugog zlonamjernog softvera koji se možda krije na vašem računalu."
+   },
+   "blankPageDescDEF": {
+      "message": "Trenutna kartica otvorena je i dostupna u zadanom načinu preglednika SafeZone."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Učitava se bankovni način. Pričekajte trenutak."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Pričekajte. Potrajat će još nekoliko sekundi."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Nešto je pošlo po zlu prilikom učitavanja bankovnog načina. Da biste nastavili s radom, pokušajte ponovno učitati bankovni način."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Ponovno otvori zadani način"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Ponovno otvori u zaštićenom prozoru"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Bankovni je način na čekanju..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Učitavanje zadanog načina..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Učitava se zaštićeni prozor..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Učitava se bankovni način..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Bankovni način"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Ako vam se to često prikazuje, isprobajte ove \u003Ca>prijedloge\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Kartica zadanog načina"
+   },
+   "blankPageTitleNG": {
+      "message": "Kartica zaštićenog prozora"
+   },
+   "blankPageTitleSZ": {
+      "message": "Kartica bankovnog načina"
+   },
+   "emptyList": {
+      "message": "Popis je prazan"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "To se web-mjesto već nalazi na popisu"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "To nije valjana URL adresa"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Imate problema prilikom pokretanja bankovnog načina? Pokušajte ponovno pokrenuti bankovni način ili potražite odgovor u \u003Ca target='blank' href='$link$'>najčešćim pitanjima\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Omogućivanje/onemogućivanje bankovnog načina"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Bankovni način"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Uključi bankovni način"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Postavlja se bankovni način"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Bankovni način nije se uspio pokrenuti"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Isključi bankovni način"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Aktivan je bankovni način"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Ne prikazuj više ovu poruku"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Bankovni način štiti vašu aktivnost od programa za praćenje i špijuna te vaše osobne podatke"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Idi na prečace"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Aktivan je bankovni način"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Novi anoniman prozor"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Novi prozor bankovnog načina"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Novi zaštićeni prozor"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "To nije valjana web-adresa"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ignoriraj"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "OTVORI U BANKOVNOM NAČINU"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Ne prikazuj ponovno na ovom web-mjestu"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Bankovni način na siguran način izdvaja sesije kupnje i bankovnih transakcija radi sprječavanja hakera\u003C/b> u pokušajima krađe \u003Cb>brojeva kreditnih kartica, zaporki\u003C/b> i \u003Cb>ostalih privatnih podataka.\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Zapamti za ovo web-mjesto"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Drugi korisnici možda mogu vidjeti vaše financijske podatke."
+   },
+   "openInIncognitoMode": {
+      "message": "Otvori vezu u anonimnom prozoru"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Otvori vezu u prozoru bankovnog načina"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Otvori vezu u zaštićenom prozoru"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Ovo web-mjesto automatski smo otvorili u bankovnom načinu radi zaštite vaše privatnosti prilikom internetskog bankarstva"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Zatvori"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Ne prikazuj više ovu poruku"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Ova je stranica otvorena u bankovnom načinu"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Uvijek otvori ovu stranicu u bankovnom načinu"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "ZATVORI"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Bankovni način štiti vaše osobne podatke od programa za praćenje i špijuna."
+   },
+   "option_switcher_auto": {
+      "message": "Vaša prilagođena web-mjesta automatski će prijeći u bankovni način"
+   },
+   "option_switcher_disabled": {
+      "message": "Popis web-mjesta koja ste izuzeli iz prikaza obavijesti o bankovnom načinu"
+   },
+   "option_switcher_hidden": {
+      "message": "Onemogući obavijest o bankovnom načinu"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Instaliranje podrške za zaštićeni prozor..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Zaštitite svoju privatnost prilikom plaćanja ili bankovnih transakcija na internetu."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Novi prozor bankovnog načina"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Zaštitite računalo prilikom pristupa zaraženom web-sadržaju."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Saznajte više"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Podrška za zaštićeni prozor nije dostupna"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Novi zaštićeni prozor"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Dodavanje web-mjesta"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Dodavanje privremenog pravila"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Uređivanje web-mjesta"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Uređivanje privremenog pravila"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Web-mjesto"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "dodaj"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Automatski otvori bankovni način na sljedećim web-mjestima"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Odustani"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Zaštiti moje financijske podatke prilikom kupnje i bankovnih transakcija na internetu"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Nemoj prikazati obavijest o bankovnom načinu na sljedećim web-mjestima"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Uredi"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Prikaži obavijest o bankovnom načinu na web-mjestima za bankovne transakcije"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "otvori"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Ukloni"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Napredne postavke za bankovni način"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "BANKOVNI NAČIN"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Preglednik SafeZone automatski otvara sumnjiva web-mjesta u zaštićenom prozoru, čime se web-mjesto izdvaja s računala pa u njega ne može prodrijeti zlonamjeran sadržaj.\u003C/p>\u003Cp>Zaštićeni prozor možete i vlastoručno otvoriti da biste bili nevidljivi prilikom pregledavanja te da ne bi postojao zapis o posjećenim web-mjestima ni preuzetim datotekama\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Preglednik SafeZone automatski otvara sva bankovna mjesta u bankovnom načinu. Na taj se način sesija izdvaja i štiti od mogućih programa za praćenje i drugog zlonamjernog softvera koji se možda krije na vašem računalu.\u003C/p>\u003Cp>Bankovni način omogućuje mirno obavljanje svih financijskih transakcija, bez straha da će vam netko ukrasti lozinku ili druge osobne podatke.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Bankovni način"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Bankovni način"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Povratak u bankovni način"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Savjet"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Bankovni način štiti vaše osobne podatke od programa za praćenje i ostalih prijetnji koje se možda kriju na PC-ju"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Saznajte više"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "U redu, shvaćam"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Dobro došli u bankovni način"
+   }
+}

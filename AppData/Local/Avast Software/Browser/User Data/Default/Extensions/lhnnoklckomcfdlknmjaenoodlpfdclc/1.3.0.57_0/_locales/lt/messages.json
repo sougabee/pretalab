@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Banko režimas"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Standartinis darbalaukis"
+   },
+   "blankButtonDEF": {
+      "message": "Iš naujo atverti numatytojo režimo ąselę"
+   },
+   "blankButtonNG": {
+      "message": "Iš naujo atverti ąselę apsaugotame lange"
+   },
+   "blankButtonSZ": {
+      "message": "Grąžinkite mane į banko režimą"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Bandykite dar kartą"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Naršyklė „SafeZone“ sustabdė šią ąselę, kad apsaugotų ją nuo galimų klaviatūros paspaudimų registravimo programų ar kitos kenkimo programinės įrangos, kuri gali būti paslėpta jūsų kompiuteryje."
+   },
+   "blankPageDescDEF": {
+      "message": "Dabartinė ąselė yra atverta ir pateikiama naršyklės „SafeZone“ numatytuoju režimu."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Banko režimas įkeliamas. Truputį palaukite."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Palaukite. Tai užtruks dar keletą sekundžių."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Dėl kažkokios priežasties nepavyko įkelti banko režimo. Norėdami tęsti, pamėginkite iš naujo įkelti banko režimą."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Iš naujo atverti numatytąjį režimą"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Iš naujo atverti apsaugotame lange"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Banko režimas atidėtas..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Įkeliamas numatytasis režimas..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Apsaugotas langas įkeliamas..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Banko režimas įkeliamas..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Banko režimas"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Jei jūs dažnai tai matote, pamėginkite šiuos \u003Ca>pasiūlymus\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Numatytojo režimo ąselė"
+   },
+   "blankPageTitleNG": {
+      "message": "Apsaugoto lango ąselė"
+   },
+   "blankPageTitleSZ": {
+      "message": "Banko režimo ąselė"
+   },
+   "emptyList": {
+      "message": "Sąrašas tuščias"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Interneto svetainė jau sąraše"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Klaidingas URL adresas"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Ar kyla sunkumų paleidžiant banko režimą? Pamėginkite iš naujo paleisti naršyklę arba skaitykite \u003Ca target='blank' href='$link$'>DUK\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Banko režimo įjungimas (išjungimas)"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Banko režimas"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Įjungti banko režimą"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Banko režimas ruošiamas"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Banko režimo nepavyko įkelti"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Išjungti banko režimą"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Banko režimas įjungtas"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Daugiau neberodyti šio pranešimo"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Banko režimas apsaugo jus nuo klaviatūros paspaudimų registravimo programų ir šnipinėjimo programų, kad jūsų asmens duomenys būtų saugūs"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Eiti į skiltį „Šaukiniai“"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Banko režimas įjungtas"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Naujas inkognito langas"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Naujas banko režimo langas"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Naujas apsaugotas langas"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Netinkamas interneto svetainės adresas"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ignoruoti"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ATVERTI NAUDOJANT BANKO REŽIMĄ"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Daugiau neberodyti šioje interneto svetainėje"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Banko režimas saugiai izoliuoja pirkimų ir bankines sesijas nuo programišių\u003C/b>, kad nebūtų pavogti \u003Cb>kredito kortelių numeriai, slaptažodžiai,\u003C/b> ir \u003Cb>kiti privatūs duomenys\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Atsiminti parinktį šioje interneto svetainėje"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Jūsų finansiniai duomenys gali būti matomi kitiems."
+   },
+   "openInIncognitoMode": {
+      "message": "Atidaryti nuorodą inkognito lange"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Atverti nuorodą banko režimo lange"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Atverti nuorodą apsaugotame lange"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Automatiškai atvėrėme šią svetainę banko režimu, kad apsaugotume jūsų privatumą, kol naudojatės elektronine bankininkyste"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Užverti"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Daugiau neberodyti šio pranešimo"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Šis tinklalapis atvertas naudojant banko režimą"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Visada atverti šį tinklalapį naudojant banko režimą"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "UŽVERTI"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Banko režimas apsaugo jūsų asmeninę informaciją nuo klaviatūros paspaudimų registravimo programų ir šnipinėjimo programų."
+   },
+   "option_switcher_auto": {
+      "message": "Jūsų nurodytos svetainės, kuriose lankantis automatiškai įjungiamas banko režimas"
+   },
+   "option_switcher_disabled": {
+      "message": "Svetainių, kuriose lankantis nerodomas banko režimo pranešimas, sąrašas"
+   },
+   "option_switcher_hidden": {
+      "message": "Išjungti banko režimo pranešimus"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Diegiamas apsaugoto lango palaikymas..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Apsaugokite savo privatumą mokėdami arba naudodamiesi bankų paslaugomis internete."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Naujas banko režimo langas"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Apsaugokite savo kompiuterį, kai peržiūrite užkrėstą žiniatinklio turinį."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Sužinoti daugiau"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Apsaugoto lango palaikymo nėra"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Naujas apsaugotas langas"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Pridėti svetainę"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Pridėti laikinąją taisyklę"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Redaguoti svetainę"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Redaguoti laikinąją taisyklę"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Interneto svetainė"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "pridėti"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Automatiškai atverti banko režimą toliau nurodytose interneto svetainėse"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Atšaukti"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Apsaugoti mano finansinius duomenis perkant ir naudojantis banko paslaugomis internetu"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Nerodyti banko režimo pranešimo toliau nurodytose svetainėse"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Redaguoti"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Rodyti banko režimo pranešimą bankų interneto svetainėse"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "atidaryti"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Pašalinti"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Papildomos banko režimo nuostatos"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "BANKO REŽIMAS"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Naršyklė „SafeZone“ automatiškai atveria visas įtartinas svetaines apsaugotame lange, izoliuodama jas nuo jūsų kompiuterio, kad į jį nepatektų kenkimo turinys.\u003C/p>\u003Cp>Apsaugotą langą taip pat galite atverti rankiniu būdu, kad naršydami būtumėte nematomi, t. y. nebus jokių įrašų apie aplankytas svetaines ar atsisiųstus failus.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Naršyklė „SafeZone“ automatiškai atveria visas bankininkystės svetaines banko režimu. Taip sesija izoliuojama ir apsaugoma nuo galimų paspaudimų registravimo programų ar kitos kenkimo programinės įrangos, galbūt besislepiančios jūsų kompiuteryje.\u003C/p>\u003Cp>Naudodami banko režimą, galite ramiai atlikti visas finansines operacijas, nebijodami, kad bus pavogtas jūsų slaptažodis ar kita asmeninė informacija.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Banko režimas"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Banko režimas"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Grįžti atgal į banko režimą"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Patarimas"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Banko režimas apsaugo jūsų asmeninę informaciją nuo klaviatūros paspaudimų registravimo programų ir kitų grėsmių, galbūt besislepiančių jūsų AK"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Sužinoti daugiau"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "Gerai, supratau"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Pristatome banko režimą"
+   }
+}

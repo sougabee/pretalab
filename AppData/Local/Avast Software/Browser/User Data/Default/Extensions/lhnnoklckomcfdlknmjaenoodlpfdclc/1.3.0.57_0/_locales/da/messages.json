@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Banktilstand"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Standardskrivebord"
+   },
+   "blankButtonDEF": {
+      "message": "Genåbner Standardtilstand-faneblad"
+   },
+   "blankButtonNG": {
+      "message": "Genåbn faneblad i Beskyttet vindue"
+   },
+   "blankButtonSZ": {
+      "message": "Tag mig tilbage til Banktilstand"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Prøv igen"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "SikkerZone-browser har sat dette faneblad i venteposition for at beskytte det mod eventuelle keyloggers elelr andre skadelige software, som kan være tilstede på din computer."
+   },
+   "blankPageDescDEF": {
+      "message": "Aktuelt faneblad er åbnet og tilgængeligt i SikkerZone-browser med Standardtilstand."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Banktilstand indlæses. Vent et øjeblik."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Vent venligst. Det vil tage et par sekunder mere."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Der opstod en fejl under indlæsning af Banktilstand. Indlæs Banktilstand igen for at fortsætte."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Genåbn Standardtilstand"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Genåbn i Beskyttet vindue"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Banktilstand er i venteposition..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Indlæser Standardtilstand..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Beskyttet vindue indlæses..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Banktilstand indlæses..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Banktilstand"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Hvis du ofte ser dette, så prøv disse\u003Ca>løsningsforslag\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Standardtilstand-faneblad"
+   },
+   "blankPageTitleNG": {
+      "message": "Beskytte vindue-faneblad"
+   },
+   "blankPageTitleSZ": {
+      "message": "Banktilstand-faneblad"
+   },
+   "emptyList": {
+      "message": "Listen er tom"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Webstedet er allerede på listen"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Denne URL-adresse er ikke gyldig"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Har du problemer med at start Banktilstand? Prøv at genstarte browseren, eller besøg \u003Ca target='blank' href='$link$'>FAQ\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Skift af Banktilstand"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Banktilstand"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Slå Banktilstand til"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Banktilstand opsættes"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Banktilstand kunne ikke indlæses"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Slå Banktilstand fra"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Banktilstand er aktiv"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Vis ikke denne besked igen"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Banktilstand beskytter dine aktiviteter mod keyloggers og spioner, så dine personlige data er sikre"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Gå til Genveje"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Banktilstand er aktiveret"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Nyt Inkognito-vindue"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Nyt Banktilstand-vindue"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Nyt Beskyttet vindue"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Ikke en gyldig webadresse"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ignorer"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ÅBN I BANKTILSTAND"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Vis ikke på dette websted igen"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Banktilstand isolerer sikkert shopping- og banksessioner for at forhindre hackere\u003C/b> i at stjæle dine \u003Cb>kreditkortnumre, adgangskoder\u003C/b> og \u003Cb>andre private data\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Husk for dette websted"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Dine finansielle data kan muligvis ses af andre."
+   },
+   "openInIncognitoMode": {
+      "message": "Åbn link i Inkognito-vindue"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Åbn link i Banktilstand-faneblad"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Åbn link i Beskyttet vindue"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Vi har automatisk åbnet denne side i Banktilstand for at beskytte dine personlige oplysninger ved brug af netbank"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Luk"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Vis ikke denne besked igen"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Denne side er blevet åbnet i Banktilstand"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Åbn altid denne side i Banktilstand"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "LUK"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Banktilstand beskytter dine personlige oplysninger mod keyloggere og spioner."
+   },
+   "option_switcher_auto": {
+      "message": "Dine brugerdefinerede websteder skifter automatisk til Banktilstand"
+   },
+   "option_switcher_disabled": {
+      "message": "Liste over websteder, du valgte ikke skal vises i Banktilstand-notifikationer"
+   },
+   "option_switcher_hidden": {
+      "message": "Deaktiver Banktilstand-notifikation"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Installerer support til Beskyttet vindue..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Beskyt dine personlige oplysninger, når du betaler online eller bruger netbank."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Nyt Banktilstand-vindue"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Beskyt din computer, når du åbner inficeret webindhold"
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Find ud af mere"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Support til Beskyttet vindue er ikke tilgængelig"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Nyt Beskyttet vindue"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Tilføj websted"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Tilføj midlertidig regel"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Rediger websted"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Rediger midlertidig regel"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Websted"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "tilføj"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Åbn automatisk Banktilstand på følgende websteder"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Annuller"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Beskyt mine økonomiske oplysninger, når jeg handler online og bruger netbank"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Vis ikke notifikationer fra Banktilstand på følgende websteder"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Rediger"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Vis notifikationer fra Banktilstand på bankwebsteder"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "åbn"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Fjern"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Banktilstand – avancerede indstillinger"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "BANKTILSTAND"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SikkerZone-browser åbner automatisk mistænkelig sider i et Beskyttet vindue, og isolerer siden fra din computer, så skadeligt indhold ikke kan trænge ind.\u003C\\/p>\u003Cp>Du kan også åbne et Beskyttet vindue manuelt for gøre dig usynlig, når du browser på nettet. På den måde er den ingen oversigt over, hvilke sider du har besøgt, eller filer du har downloadet.\u003C\\/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SikkerZone-browser åbner automatisk alle netbank-sider i Banktilstand. Dette isolerer sessionen og beskytter den mod eventuelly keyloggers og andre skadelige programmer, der kan være tilstede på din computer.\u003C\\/p>\u003Cp>Med Banktilstand kan du udføre alle dine finansielle transaktioner i ro og mag, uden bekymring om at din adgangskode eller dine personlige oplysninger opfanges.\u003C\\/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Banktilstand"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Banktilstand"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Skift tilbage til Banktilstand"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Tip"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Banktilstand beskytter din personlige oplysninger mod keyloggers og andre trusler, der kan være skjult på din pc"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Læs mere"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "OK, jeg forstår"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Velkommen til Banktilstand"
+   }
+}

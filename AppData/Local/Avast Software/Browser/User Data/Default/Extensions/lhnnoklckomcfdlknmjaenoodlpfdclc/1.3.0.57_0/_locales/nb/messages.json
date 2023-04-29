@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Bankmodus"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Standard skrivebord"
+   },
+   "blankButtonDEF": {
+      "message": "Åpne fanen på nytt i standardmodus"
+   },
+   "blankButtonNG": {
+      "message": "Åpne fanen på nytt i skjermet vindu"
+   },
+   "blankButtonSZ": {
+      "message": "Få meg tilbake til bankmodus"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Prøv igjen"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "SafeZone-nettleseren har satt denne fanen på vent for å beskytte den mot loggføring av tastetrykk eller annen skadelig programvare som kan være skjult på datamaskinen din."
+   },
+   "blankPageDescDEF": {
+      "message": "Den gjeldende fanen er åpnet og tilgjengelig i standardmodusen for SafeZone-nettleseren."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Bankmodus blir lastet inn. Vent litt."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Vent litt. Det tar noen få sekunder til."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Noe gikk galt under innlastingen av Bankmodus. Prøv å laste inn Bankmodus på nytt."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Åpne standardmodus på nytt"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Åpne på nytt i skjermet vindu"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Bankmodus venter..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Laster standardmodus..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Skjermet vindu lastes inn..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Bankmodus lastes inn..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Bankmodus"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Hvis du opplever dette ofte, kan du prøve disse \u003Ca>forslagene\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Fane for standardmodus"
+   },
+   "blankPageTitleNG": {
+      "message": "Fane for skjermet vindu"
+   },
+   "blankPageTitleSZ": {
+      "message": "Fane for bankmodus"
+   },
+   "emptyList": {
+      "message": "Listen er tom."
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Nettstedet er allerede på listen."
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Dette er ikke en gyldig nettadresse."
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Har du problemer med å starte bankmodusen? Start nettleseren på nytt eller se i \u003Ca target='blank' href='$link$'>spørsmål og svar\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Bankmodus-veksling"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Bankmodus"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Slå på bankmodus"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Bankmodus startes"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Bankmodus kunne ikke startes"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Slå av bankmodus"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Bankmodus er aktiv"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Ikke vis denne meldingen igjen"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Bankmodus beskytter de personlige opplysningene dine mot registrering av tastetrykk og spioner."
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Gå til snarveier"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Bankmodus er aktivert"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Nytt privat vindu"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Nytt vindu for bankmodus"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Nytt skjermet vindu"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Nettadressen er ikke gyldig"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ignorer"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ÅPNE I BANKMODUS"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Ikke vis for dette nettstedet igjen"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Bankmodus isolerer økter med netthandel og nettbank for å stoppe hackere\u003C/b> fra å stjele \u003Cb>kredittkortnumre, passord\u003C/b> og \u003Cb>andre private data\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Husk for dette nettstedet"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Økonomidataene dine kan være synlige for andre."
+   },
+   "openInIncognitoMode": {
+      "message": "Åpne kobling i privat vindu"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Åpne lenke i vindu for bankmodus"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Åpne lenke i skjermet vindu"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Vi åpnet dette nettstedet i bankmodus for å beskytte persondataene dine når du bruker nettbanken."
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Lukk"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Ikke vis denne meldingen igjen"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Denne siden er åpnet i bankmodus"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Åpne alltid denne siden i bankmodus"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "LUKK"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Bankmodus beskytter de personlige opplysningene dine mot registrering av tastetrykk og spioner."
+   },
+   "option_switcher_auto": {
+      "message": "Nettsteder som du vil skal bytte til bankmodus automatisk"
+   },
+   "option_switcher_disabled": {
+      "message": "Nettsteder som du ikke vil ha spørsmål om bankmodus på"
+   },
+   "option_switcher_hidden": {
+      "message": "Deaktiver spørsmål om bankmodus"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Installerer støtte for skjermet vindu..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Beskytt private opplysninger når du betaler på nettet eller bruker nettbank."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Nytt bankmodusvindu"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Beskytt datamaskinen når du treffer på infisert innhold på nettet."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Finn ut mer"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Støtte for skjermet vindu er ikke tilgjengelig"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Nytt skjermet vindu"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Legg til nettsted"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Legg til midlertidig regel"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Rediger nettsted"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Rediger midlertidig regel"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Nettsted"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "legg til"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Åpne bankmodus automatisk på følgende nettsteder"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Avbryt"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Beskytt økonomisk informasjon ved netthandel og bruk av nettbank"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Ikke vis spørsmål om bankmodus på følgende nettsteder"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Rediger"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Vis spørsmål om bankmodus på nettbanker"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "åpne"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Fjern"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Avanserte innstillinger for bankmodus"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "BANKMODUS"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone-nettleseren åpner automatisk mistenkelige nettsider i et skjermet vindu som isolerer nettstedet fra datamaskinen, slik at skadelig innhold ikke kan trenge seg inn.\u003C\\/p>\u003Cp>Du kan også åpne det skjermede vinduet manuelt for å gjøre deg usynlig når du er på nettet, slik at ingen registrerer hvor du har vært eller hva du laster ned. \u003C\\/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone-nettleseren åpner automatisk alle nettbanker i bankmodus. Den sørger for at økten isoleres og beskyttes mot logging av tastetrykk og annen skadelig programvare som kan være skjult på datamaskinen din.\u003C\\/p>\u003Cp>Ved hjelp av bankmodusen kan du trygt utføre alle økonomiske transaksjoner uten å bekymre deg for at passord eller andre personlige opplysninger blir stjålet.\u003C\\/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Bankmodus"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Bankmodus"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Gå tilbake til bankmodus"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Tips"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Bankmodus beskytter de personlige opplysningene dine mot registrering av tastetrykk og andre trusler som kan skjule seg på datamaskinen."
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Les mer"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "OK, jeg skjønner"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Velkommen til bankmodus"
+   }
+}

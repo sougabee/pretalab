@@ -1,0 +1,374 @@
+{
+	"product_name": {
+		"message": "Avast SecureLine VPN",
+		"description": "Product name which is used for this application."
+	},
+	"product_description": {
+		"message": "Шыфраванне падключэння да інтэрнэту ў адзін націск для сапраўднай канфідэнцыяльнасці ў Сетцы.",
+		"description": "Extension description."
+	},
+	"extension_icon_overlay_text_disconnected": {
+		"message": "Avast SecureLine VPN: адключана",
+		"description": "Extension icon tooltip text in disconnected state."
+	},
+	"extension_icon_overlay_text_connecting": {
+		"message": "Avast SecureLine VPN: падключэнне",
+		"description": "Extension icon tooltip text in connecting state."
+	},
+	"extension_icon_overlay_text_reconnecting": {
+		"message": "Avast SecureLine VPN: паўторнае падключэнне",
+		"description": "Extension icon tooltip text in reconnecting state."
+	},
+	"extension_icon_overlay_text_connected": {
+		"message": "Avast SecureLine VPN: падключана",
+		"description": "Extension icon tooltip text in connected state."
+	},
+	"extension_icon_overlay_text_disconnecting": {
+		"message": "Avast SecureLine VPN: адключэнне",
+		"description": "Extension icon tooltip text in disconnecting state."
+	},
+	"optimal_location": {
+		"message": "Аптымальнае месцазнаходжанне",
+		"description": "Used to prepend name of location which is optimal."
+	},
+	"offline": {
+		"message": "Не ў сетцы",
+		"description": "Text which is displayed instead of Public IP address when host is offline."
+	},
+	"your_computer_seems_to_be_offline": {
+		"message": "Здаецца, камп’ютар не падключаны да інтэрнэту",
+		"description": "IP Address tooltip text when host is offline."
+	},
+	"vpn_location": {
+		"message": "VPN-месцазнаходжанне:",
+		"description": "Text above the currently selected location in dashboard popup."
+	},
+	"your_ip_address": {
+		"message": "Ваш IP-адрас:",
+		"description": "Text before the current IP address, in Disconnected state, at the footer of the dashboard popup."
+	},
+	"locating": {
+		"message": "Вызначэнне месцазнаходжання",
+		"description": "Text displayed instead of public IP address during fetching it via GeoIp service."
+	},
+	"this_is_your_current_ip_address": {
+		"message": "Гэта ваш бягучы IP-адрас.",
+		"description": "Text that appears in a tooltip above current IP address in notification popups."
+	},
+	"learn_more": {
+		"message": "Даведацца больш",
+		"description": "Text that appears in a tooltip above Info buitton (i) in a dashboard popup."
+	},
+	"connecting": {
+		"message": "Падключэнне",
+		"description": "Text displayed on main dashboard to show that current VPN state is Connecting."
+	},
+	"reconnecting": {
+		"message": "Паўторнае падключэнне",
+		"description": "Text displayed on main dashboard to show that current VPN state is Reconnecting."
+	},
+	"connected": {
+		"message": "Падключана",
+		"description": "Text displayed on main dashboard to show that current VPN state is Connected."
+	},
+	"disconnecting": {
+		"message": "Адключэнне",
+		"description": "Text displayed on main dashboard to show that current VPN state is Disconnecting."
+	},
+	"disconnected": {
+		"message": "Адключана",
+		"description": "Text displayed on main dashboard to show that current VPN state is Disconnected."
+	},
+	"connection_failed": {
+		"message": "Збой падключэння",
+		"description": "Text displayed on main dashboard to show that current VPN state is Connection failed."
+	},
+	"virtual_ip_address": {
+		"message": "Віртуальны IP-адрас:",
+		"description": "Text before the current IP address, in Connected state, at the footer of the dashboard popup."
+	},
+	"waiting_for_ip_address_to_be_assigned_to_your_computer": {
+		"message": "Чакаецца прызначэнне IP-адраса вашаму камп’ютару.",
+		"description": "Text that appears in the tooltop above the 'Locating...' string at the footer of the dashboard popup."
+	},
+	"turn_on_vpn_reason": {
+		"message": "Гэта ваш бягучы IP-адрас. З яго дапамогай вэб-сайты ідэнтыфікуюць вас. Уключыце VPN, каб зрабіць сваё падключэнне ананімным.",
+		"description": "Text that appears in the tooltop above the current IP address, in Disconnected state, at the footer of the dashboard popup."
+	},
+	"virtual_ip_address_explanation": {
+		"message": "Для сайтаў адлюстроўваецца віртуальны IP-адрас, гэта значыць ваша фактычнае месцазнаходжанне зараз схавана, а трафік зашыфраваны.",
+		"description": "Text that appears in the tooltop above the current IP address, in Connected state, at the footer of the dashboard popup."
+	},
+	"activate_vpn_product": {
+		"message": "Для выкарыстання гэтай функцыі неабходна актываваць кліент Avast SecureLine VPN.",
+		"description": "Message shown to user when extension detects that VPN license has not been activated."
+	},
+	"activate_vpn_product_avast_one": {
+		"message": "Для выкарыстання гэтай функцыі неабходна актываваць кліент Avast One VPN.",
+		"description": "Message shown to user when extension detects that VPN license has not been activated."
+	},
+	"install_vpn_product": {
+		"message": "Для выкарыстання гэтай функцыі вам неабходна ўсталяваць апошнюю версію Avast SecureLine VPN.",
+		"description": "Message shown to user when extension detects that VPN client has not been installed."
+	},
+	"install_vpn_product_avast_one": {
+		"message": "Для выкарыстання гэтай функцыі вам неабходна ўсталяваць апошнюю версію Avast One",
+		"description": "Message shown to user when extension detects that VPN client has not been installed."
+	},
+	"make_sure_your_internet_connection_works_properly": {
+		"message": "Здаецца, вы не падключаны да інтэрнэту. Пераканайцеся, што ў вас ёсць падключэнне да інтэрнэту.",
+		"description": "Message shown to user when extension detects that there is no Internet connection."
+	},
+	"something_is_not_right": {
+		"message": "Выяўлена праблема",
+		"description": "Message shown to user when extension detects an error."
+	},
+	"please_try_reinstalling_vpn_product": {
+		"message": "Паспрабуйце пераўсталяваць кліент Avast SecureLine VPN",
+		"description": "Message shown to user when extension suggests user to reinstall VPN client."
+	},
+	"please_try_reinstalling_vpn_product_avast_one": {
+		"message": "Паспрабуйце пераўсталяваць кліент Avast One VPN",
+		"description": "Message shown to user when extension suggests user to reinstall VPN client."
+	},
+	"see_how": {
+		"message": "даведацца як",
+		"description": "Text of the hyperlink with URL of the Help page."
+	},
+	"if_that_does_not_work_try_reinstalling_browser_product": {
+		"message": "Калі гэта не дапаможа, паспрабуйце пераўсталяваць Avast Secure Browser",
+		"description": "Message shown to user when extension suggests user to reinstall Secure browser."
+	},
+	"something_not_right_please_restart": {
+		"message": "Адбылася памылка Avast SecureLine VPN. Перазагрузіце камп’ютар.",
+		"description": "Message shown to user when extension suggests user to restart their computer."
+	},
+	"something_not_right_please_restart_avast_one": {
+		"message": "Адбылася памылка Avast One VPN. Перазагрузіце камп’ютар.",
+		"description": "Message shown to user when extension suggests user to restart their computer."
+	},
+	"update_browser_product_to_use_this_feature": {
+		"message": "Для выкарыстання гэтай функцыі неабходна абнавіць Avast Secure Browser.",
+		"description": "Message shown to user when extension suggests user to update Secure browser."
+	},
+	"update_vpn_product_to_use_this_feature": {
+		"message": "Для выкарыстання гэтай функцыі неабходна абнавіць кліент Avast SecureLine VPN.",
+		"description": "Message shown to user when extension suggests user to update VPN client."
+	},
+	"update_vpn_product_to_use_this_feature_avast_one": {
+		"message": "Для выкарыстання гэтай функцыі неабходна абнавіць кліент Avast One VPN.",
+		"description": "Message shown to user when extension suggests user to update VPN client."
+	},
+	"update_now": {
+		"message": "абнавіць",
+		"description": "Message shown on the button in a popup suggesting user to update browser or VPN client."
+	},
+	"you_need_to_update_your_vpn_product_extension": {
+		"message": "Вам неабходна абнавіць пашырэнне Avast VPN.",
+		"description": "Message shown to user when extension suggests user to update VPN extension."
+	},
+	"loading": {
+		"message": "Загрузка",
+		"description": "Message shown to user when extension is loading data (upon launch)."
+	},
+	"dismiss": {
+		"message": "Адхіліць",
+		"description": "Caption on the button displayed on the error notification view."
+	},
+	"your_location_connected": {
+		"message": "Цяпер іншыя бачаць ваша месцазнаходжанне так:",
+		"description": "Text displayed on main dashboard on top of the selected location when the user is connected."
+	},
+	"your_location_disconnected": {
+		"message": "Месцазнаходжанне будзе адлюстроўвацца як:",
+		"description": "Text displayed on main dashboard on top of the selected location when the user is disconnected."
+	},
+	"fastest_location": {
+		"message": "Месцазнаходжанне з максімальнай хуткасцю",
+		"description": "Text displayed on main dashboard if the user selected the optimal location."
+	},
+	"select_location": {
+		"message": "Выберыце месцазнаходжанне",
+		"description": "Text displayed on locations dashboard for the user to select a new location."
+	},
+	"secure_connection": {
+		"message": "БЯСПЕЧНАЕ ПАДКЛЮЧЭННЕ",
+		"description": "Text displayed on locations dashboard"
+	},
+	"connection_status_connected_title": {
+		"message": "Ваша служба VPN <span class=\"marker-green\">актыўна</span>",
+		"description": "Title displayed on locations dashboard when the user is connected. (Please use short text in the marker html code)"
+	},
+	"connection_status_connected_text": {
+		"message": "Падключэнне зашыфравана, а ваша месцазнаходжанне схавана.",
+		"description": "Text displayed on locations dashboard when the user is connected."
+	},
+	"connection_status_disconnected_title": {
+		"message": "Ваша служба VPN <span class=\"marker-red\">неактыўна</span>",
+		"description": "Title displayed on locations dashboard when the user is disconnected. (Please use short text in the marker html code)"
+	},
+	"connection_status_disconnected_text": {
+		"message": "Падключэнне не зашыфравана, а ваша месцазнаходжанне бачна.",
+		"description": "Text displayed on locations dashboard when the user is disconnected."
+	},
+	"connection_status_disconnected_free_title": {
+		"message": "Эфектыўная <span class=\"marker-orange\">абарона</span> для вашых дзеянняў у Сетцы",
+		"description": "Title displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.  (Please use short text in the marker html code)"
+	},
+	"connection_status_disconnected_free_text": {
+		"message": "Атрымайце да <b>5 ГБ</b> трафіка службы VPN для абароны вашых дзеянняў у Сетцы <b>бясплатна</b>",
+		"description": "Text displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free."
+	},
+	"connection_status_limit_reached_title": {
+		"message": "Вы <span class=\"marker-orange\">дасягнулі</span> абмежавання",
+		"description": "Text displayed on locations dashboard when the user is on trial and has reach the limit. (Please use short text in the marker html code)"
+	},
+	"connection_status_limit_reached_text": {
+		"message": "Вы выкарысталі ўвесь бясплатны трафік службы VPN, даступны на гэтым тыдні.",
+		"description": "Text displayed on locations dashboard when the user is on trial and has reach the limit."
+	},
+	"connection_status_limit_reached_promotion_text": {
+		"message": "Платная версія службы VPN без абмежаванняў дазволіць вам атрымаць больш канфідэнцыяльнасці, бяспекі і доступу да патокавага змесціва, дзе б вы ні былі.",
+		"description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit."
+	},
+	"connection_status_limit_reached_promotion_list_item_1": {
+		"message": "Атрымайце паўнавартасную канфідэнцыяльнасць у Сетцы адным націскам кнопкі",
+		"description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 1"
+	},
+	"connection_status_limit_reached_promotion_list_item_2": {
+		"message": "Падключайцеся бяспечна з дапамогай VPN у любы час",
+		"description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 2"
+	},
+	"connection_status_limit_reached_promotion_list_item_3": {
+		"message": "Даведвайцеся пра крадзеж вашых пароляў",
+		"description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 3"
+	},
+	"promotion_button": {
+		"message": "Перайсці на версію прэміум",
+		"description": "Button for the promotion text displayed on locations dashboard when the user is on trial."
+	},
+	"promotion_title": {
+		"message": "Неабмежаваны трафік і 55 месцазнаходжанняў",
+		"description": "Title for the promotion text displayed at the bottom of the on locations dashboard when the user is on trial and do not reach the limit."
+	},
+	"promotion_text": {
+		"message": "Атрымайце доступ да ўсіх магчымасцей службы VPN і павысьце сваю канфідэнцыяльнасць.",
+		"description": "Text for the promotion text displayed at the bottom of locations dashboard when the user is on trial and do not reach the limit."
+	},
+	"free_data_free": {
+		"message": "Бясплатны трафік VPN",
+		"description": "Text on top of the bar with the free data displayed in locations dashboard when the user is on trial."
+	},
+	"free_data_renew_in": {
+		"message": "Абнаўленне праз $DAYS$ сут.",
+		"description": "Text on top of the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"days": {
+				"content": "$1",
+				"example": "3"
+			}
+		}
+	},
+	"free_data_used": {
+		"message": "Выкарыстана $DATA$",
+		"description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "5.0 GB"
+			}
+		}
+	},
+	"free_data_allowed_day": {
+		"message": "$DATA$ у дзень",
+		"description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "5.0 GB"
+			}
+		}
+	},
+	"free_data_allowed_week": {
+		"message": "$DATA$ у тыдзень",
+		"description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "5.0 GB"
+			}
+		}
+	},
+	"free_data_allowed_month": {
+		"message": "$DATA$ у месяц",
+		"description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "5.0 GB"
+			}
+		}
+	},
+	"free_data_allowed_year": {
+		"message": "$DATA$ у год",
+		"description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "5.0 GB"
+			}
+		}
+	},
+	"ip_info_connected": {
+		"message": "Вы атрымалі канфідэнцыяльнасць.",
+		"description": "Text after the selected location when the user is connected."
+	},
+	"ip_info_disconnected": {
+		"message": "Уключыце VPN, каб зашыфраваць даныя аб праглядзе інтэрнэт-старонак",
+		"description": "Text after the selected location when the user is disconnected."
+	},
+	"information": {
+		"message": "Інфармацыя",
+		"description": "Text to show in the tooltip."
+	},
+	"ip_address": {
+		"message": "Зыходны IP-адрас: $IP$",
+		"description": "The real IP of the user. Text to show in the tooltip.",
+		"placeholders": {
+			"ip": {
+				"content": "$1",
+				"example": "12.123.123.12 "
+			}
+		}
+	},
+	"virtual_ip": {
+		"message": "Новы IP-адрас: $IP$",
+		"description": "The virtual IP. Text to show in the tooltip.",
+		"placeholders": {
+			"ip": {
+				"content": "$1",
+				"example": "12.123.123.12"
+			}
+		}
+	},
+	"time_connected": {
+		"message": "Час падключэння: $TIME$",
+		"description": "The time the user is connected to the VPN. Text to show in the tooltip.",
+		"placeholders": {
+			"time": {
+				"content": "$1",
+				"example": "01:12:34"
+			}
+		}
+	},
+	"location": {
+		"message": "Месцазнаходжанне: $DATA$",
+		"description": "The location the user is connected to. Text to show in the tooltip.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "USA, Las Vegas"
+			}
+		}
+	}
+}

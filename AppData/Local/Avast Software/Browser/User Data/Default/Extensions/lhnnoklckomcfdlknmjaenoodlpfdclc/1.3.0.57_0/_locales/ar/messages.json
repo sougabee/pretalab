@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "وضع البنك"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "سطح المكتب القياسي"
+   },
+   "blankButtonDEF": {
+      "message": "إعادة فتح علامة تبويب الوضع الافتراضي"
+   },
+   "blankButtonNG": {
+      "message": "إعادة فتح علامة التبويب في النافذة المحمية"
+   },
+   "blankButtonSZ": {
+      "message": "إرجاعي إلى وضع البنك"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "حاول مرة أخرى"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "وضع مستعرض SafeZone علامة التبويب هذه قيد الانتظار لحمايتها من مراقبي لوحات المفاتيح المحتملين أو البرامج الضارة الأخرى التي قد تكون مُخفاة على جهاز الكمبيوتر الخاص بك."
+   },
+   "blankPageDescDEF": {
+      "message": "علامة التبويب الحالية مفتوحة ومتوفرة في الوضع الافتراضي لمستعرض SafeZone."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "جارٍ تحميل وضع البنك. يرجى الانتظار لحظة."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "يرجى الانتظار. سيستغرق الأمر بضع ثوانٍ."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "حدث خطأ ما أثناء تحميل وضع البنك. للمتابعة، حاول تحميل وضع البنك مرة أخرى."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "إعادة فتح الوضع الافتراضي"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "إعادة الفتح في النافذة المحمية"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "وضع البنك قيد الانتظار..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "جارٍ تحميل الوضع الافتراضي..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "جارٍ تحميل النافذة المحمية..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "جارٍ تحميل وضع البنك..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "وضع البنك"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "إذا تكرر هذا الأمر أكثر من مرة، يمكنك تجربة هذه \u003Ca>الاقتراحات\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "علامة تبويب الوضع الافتراضي"
+   },
+   "blankPageTitleNG": {
+      "message": "علامة تبويب نافذة محمية"
+   },
+   "blankPageTitleSZ": {
+      "message": "علامة تبويب وضع البنك"
+   },
+   "emptyList": {
+      "message": "القائمة فارغة"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "يوجد موقع الويب هذا بالفعل في القائمة"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "عنوان URL هذا غير صالح"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "هل تواجه مشكلات عند تشغيل وضع البنك؟ أعد تشغيل المستعرض أو تحقق من \u003Ca target='blank' href='$link$'>الأسئلة المتداولة\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "مبدل وضع البنك"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "وضع البنك"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "تشغيل وضع البنك"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "وضع البنك قيد الإعداد"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "تعذر تحميل وضع البنك"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "إيقاف تشغيل وضع البنك"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "وضع البنك نشط"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "عدم إظهار هذه الرسالة مرة أخرى"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "يعمل وضع البنك على حماية نشاطك من راصدي لوحات المفاتيح والجواسيس، لإبقاء بياناتك الشخصية آمنة"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "انتقال إلى الاختصارات"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "وضع البنك نشط"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "نافذة تصفح خفي جديدة"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "نافذة جديدة لوضع البنك"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "النافذة المحمية الجديدة"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "عنوان ويب غير صالح"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "تجاهل"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "فتح في وضع البنك"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "عدم إظهاره في هذا الموقع مرة أخرى"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>يعمل وضع البنك على عزل جلسات المعاملات المصرفية والتسوق بأمان لمنع المتطفلين\u003C/b> من سرقة \u003Cb>أرقام بطاقتك الائتمانية، وكلمات مرورك،\u003C/b> و\u003Cb>بياناتك الخاصة الأخرى\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "تذكر لهذا الموقع"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "قد تكون بياناتك المالية مرئية للآخرين."
+   },
+   "openInIncognitoMode": {
+      "message": "فتح الرابط في نافذة الاستعراض الخاص (Incognito)"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "فتح رابط في نافذة وضع البنك"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "فتح رابط في نافذة محمية"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "لقد فتحنا هذا الموقع تلقائيًّا في وضع البنك لحماية خصوصيتك أثناء قيامك بالخدمات المصرفية عبر الإنترنت"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "إغلاق"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "عدم إظهار هذه الرسالة مرة أخرى"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "لقد كانت هذه الصفحة مفتوحة في وضع البنك"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "فتح هذه الصفحة في وضع البنك دائمًا"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "إغلاق"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "يعمل وضع البنك على إبقاء معلوماتك الشخصية آمنة من راصدي لوحات المفاتيح والجواسيس."
+   },
+   "option_switcher_auto": {
+      "message": "مواقع الويب المخصصة لديك للتبديل إلى وضع البنك تلقائيًّا"
+   },
+   "option_switcher_disabled": {
+      "message": "قائمة بمواقع الويب التي استبعدتها من عرض إشعار وضع البنك الفوري"
+   },
+   "option_switcher_hidden": {
+      "message": "تعطيل إشعار وضع البنك الفوري"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "جارٍ تثبيت دعم النافذة المحمية..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "احمِ خصوصيتك عند القيام بالخدمات المصرفية أو الدفع عبر الإنترنت."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "نافذة وضع البنك الجديدة"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "احمِ جهاز الكمبيوتر الخاص بك عند الوصول إلى محتوى الويب المصاب."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "التعرف على المزيد"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "دعم النافذة المحمية غير متوفر"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "نافذة محمية جديدة"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "إضافة موقع"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "إضافة قاعدة مؤقتة"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "تحرير موقع"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "تحرير قاعدة مؤقتة"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "موقع"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "إضافة"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "فتح وضع البنك تلقائيًا على مواقع الويب التالية"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "إلغاء"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "حماية بياناتي المالية أثناء التسوق واستخدام الخدمات المصرفية عبر الإنترنت"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "عدم إظهار إشعار وضع البنك فوريًا على مواقع الويب التالية"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "تحرير"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "إظهار إشعار وضع البنك فوريًا على مواقع الويب المصرفية"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "افتح"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "إزالة"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "إعدادات وضع البنك المتقدمة"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "وضع البنك"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>يفتح مستعرض SafeZone المواقع المشبوهة في النافذة المحمية تلقائيًّا، مما يعمل على عزل الموقع عن جهاز الكمبيوتر الخاص بك حتى لا يخترقه أي محتوى من المحتويات الضارة.\u003C/p>\u003Cp>يمكنك أيضًا فتح النافذة المحمية يدويًّا لتُبقي نفسك غير مرئي أثناء الاستعراض، حتى لا يكون هناك أي سجل للمواقع التي زرتها أو الملفات التي نزَّلتها.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>يعمل مستعرض SafeZone على فتح جميع مواقع الخدمات المصرفية في وضع البنك تلقائيًّا. وهذا يعزل جلسة العمل ويحميها من راصدي لوحات المفاتيح المحتملين أو البرامج الضارة الأخرى التي قد تكون مُخفاة في جهاز الكمبيوتر الخاص بك.\u003C/p>\u003Cp>من خلال وضع البنك يمكنك تنفيذ جميع معاملاتك المالية بأمان، دون أي خوف من سرقة كلمة مرورك أو بياناتك الشخصية.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "وضع البنك"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "وضع البنك"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "العودة إلى وضع البنك"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "تلميح"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "يعمل وضع البنك على إبقاء معلوماتك الشخصية آمنة من مراقبي لوحات المفاتيح ومن التهديدات الأخرى التي قد تكون مُخفاة على جهاز الكمبيوتر الشخصي"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "التعرف على المزيد"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "حسنًا، فهمت الأمر"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "مرحبًا بك في وضع البنك"
+   }
+}

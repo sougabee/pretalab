@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "बैंक मोड"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "मानक डेस्कटॉप"
+   },
+   "blankButtonDEF": {
+      "message": "डिफ़ॉल्ट मोड टैब पुनः खोलें"
+   },
+   "blankButtonNG": {
+      "message": "शील्डेड विंडो में टैब पुनः खोलें"
+   },
+   "blankButtonSZ": {
+      "message": "मुझे बैंक मोड में वापस ले जाएँ"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "इसका फिर से प्रयास करें"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "SafeZone ब्राउज़र ने संभावित कीलॉगर या अन्य छुपे हुए संभावित दुर्भावनापूर्ण सॉफ़्टवेयर से इस टैब को सुरक्षित रखने के लिए इसे होल्ड पर रखा है।"
+   },
+   "blankPageDescDEF": {
+      "message": "मौजूदा टैब खुला है और SafeZone ब्राउज़र डिफ़ॉल्ट मोड में उपलब्ध है।"
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "बैंक मोड लोड किया जा रहा है। कृपया कुछ समय प्रतीक्षा करें।"
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "कृपया रुकें। इसमें कुछ समय और लगेगा।"
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "बैंक मोड लोड करते समय कुछ ग़लत हुआ। जारी रखने के लिए, बैंक मोड को फिर से लोड करके देखें।"
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "डिफ़ॉल्ट मोड पुनः खोलें"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "शील्डेड विंडो में पुनः खोलें"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "बैंक मोड होल्ड पर प्रतीक्षारत है..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "डिफ़ॉल्ट मोड लोड कर रहा है..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "शील्डेड विंडो लोड हो रही है..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "बैंक मोड लोड हो रहा है..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "बैंक मोड"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "अगर आपको यह बार-बार दिखाई दे रहा है, तो इन \u003Ca>सुझावों\u003C/a> को आज़माएँ।"
+   },
+   "blankPageTitleDEF": {
+      "message": "डिफ़ॉल्ट मोड टैब"
+   },
+   "blankPageTitleNG": {
+      "message": "शील्डेड विंडो टैब"
+   },
+   "blankPageTitleSZ": {
+      "message": "बैंक मोड टैब"
+   },
+   "emptyList": {
+      "message": "सूची रिक्त है"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "वेबसाइट पहले से ही सूची में है"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "यह मान्य URL पता नहीं है"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "बैंक मोड लॉन्च करने में समस्याएँ आ रही हैं? ब्राउज़र पुनः प्रारंभ करके देखें या \u003Ca target='blank' href='$link$'>FAQ\u003C/a> को जांचें",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "बैंक मोड स्विचर"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "बैंक मोड"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "बैंक मोड चालू करें"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "बैंक मोड सेट हो रहा है"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "बैंक मोड लोड होने में विफल रहा"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "बैंक मोड बंद करें"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "बैंक मोड सक्रिय है"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "यह संदेश फिर से न दिखाएँ"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "बैंक मोड की-लॉगर और गुप्तचरों से आपकी गतिविधि की सुरक्षा करता है, ताकि आपका व्यक्तिगत डेटा सुरक्षित रहे"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "शॉर्टकट पर जाएँ"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "बैंक मोड सक्रिय है"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "नई गुप्त विंडो"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "नई बैंक मोड विंडो"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "नई शील्डेड विंडो"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "वैध वेब पता नहीं"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ध्यान न दें"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "बैंक मोड में खोलें"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "यह संदेश फिर से न दिखाएँ"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>बैंक मोड आपके\u003Cb>क्रेडिट कार्ड नंबर, पासवर्ड\u003C/b>और\u003Cb>अन्य निजी डेटा को हैकर्स\u003C/b> से चोरी करने से रोकने के लिए शॉपिंग और बैंकिंग सत्रों को सुरक्षित रूप से अलग कर देता है।\u003C/b>"
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "इस साइट के लिए याद रखें"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "आपका वित्तीय डेटा अन्य लोगों को दृश्यमान हो सकता है।"
+   },
+   "openInIncognitoMode": {
+      "message": "गुप्त विंडो में लिंक खोलें"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "बैंक मोड विंडो में लिंक खोलें"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "शील्डेड विंडो में लिंक खोलें"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "हमने इस साइट को स्वचालित रूप से बैंक मोड में खोल दिया है ताकि ऑनलाइन बैंकिंग के दौरान आपकी गोपनीयता की सुरक्षा की जा सके"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "बंद करें"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "यह संदेश फिर से न दिखाएँ"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "यह पृष्ठ बैंक मोड में खोला गया है"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "इस पृष्ठ को हमेशा बैंक मोड में खोलें"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "बंद करें"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "बैंक मोड आपकी व्यक्तिगत जानकारी को की-लॉगर और जासूसों से सुरक्षित रखता है।"
+   },
+   "option_switcher_auto": {
+      "message": "आपकी कस्टम वेबसाइटें बैंक मोड में स्वचालित रूप से स्विच करेंगी"
+   },
+   "option_switcher_disabled": {
+      "message": "बैंक मोड सूचना संकेत प्रदर्शित होने से बाहर रखी गई वेबसाइटों की सूची"
+   },
+   "option_switcher_hidden": {
+      "message": "बैंक मोड सूचना संकेत को अक्षम करें"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "शील्डेड विंडो समर्थन स्थापित कर रहा है..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "भुगतान करते समय या ऑनलाइन बैंकिंग करते समय अपनी गोपनीयता सुरक्षित रखें।"
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "नई बैंक मोड विंडो"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "संक्रमित वेब सामग्री को एक्सेस करते समय अपना कंप्यूटर सुरक्षित रखें।"
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "अधिक जानें"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "शील्डेड विंडो समर्थन उपलब्ध नहीं है"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "नई शील्डेड विंडो"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "साइट जोड़ें"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "अस्थायी नियम जोड़ें"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "साइट एडिट करें"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "अस्थायी नियम एडिट करें"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "साइट"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "जोड़ें"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "निम्नलिखित वेबसाइटों पर स्वचालित रूप से बैंक मोड खोलें"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "रद्द करें"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "ऑनलाइन बैंकिंग और खरीददारी करते समय मेरे वित्तीय डेटा को सुरक्षित रखें"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "निम्नलिखित वेबसाइटों पर बैंक मोड सूचना न दिखाएं"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "संपादित करें"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "बैंकिंग वेबसाइटों पर बैंक मोड सूचना दिखाएं"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "खोलें"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "निकालें"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "बैंक मोड एडवांस सेटिंग्स"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "बैंक मोड"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone ब्राउज़र संदिग्ध साइटों को स्वचालित रूप से शील्डेड विंडो में खोलता है, साइट को आपके कंप्यूटर से अलग करता है ताकि कोई भी दुर्भावनापूर्ण सामग्री उस पर हमला न कर सके।\u003C/p>\u003Cp>आप ब्राउज़िंग करते समय शील्डेड विंडो को मैन्युअल रूप से भी खोल सकते हैं जिससे कि आपके द्वारा देखी गई साइटों या आपके द्वारा डाउनलोड की गई फ़ाइलों का कोई रिकॉर्ड न रहे।\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone ब्राउज़र सभी बैंकिंग साइटों को स्वचालित रूप से बैंक मोड में खोलता है। इससे सत्र अलग हो जाता है और वह उसे संभावित कीलॉगर या आपके कंप्यूटर पर संभावित रूप से छुपे हुए अन्य दुर्भावनापूर्ण सॉफ़्टवेयर से सुरक्षित रखता है।\u003C/p>\u003Cp>बैंक मोड के साथ आप अपने सभी वित्तीय लेन-देन शांति से, आपके पासवर्ड या व्यक्तिगत विवरणों की चोरी के भय के बिना निष्पादित कर सकते हैं।\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "बैंक मोड"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "बैंक मोड"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "बैंक मोड में वापस जाएं"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "युक्ति"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "बैंक मोड की-लॉगर से और आपके PC पर छिपे होने वाले अन्य ख़तरों से आपकी व्यक्तिगत जानकारी सुरक्षित रखता है"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "अधिक जानें"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "ठीक है, समझ में आ गया"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "बैंक मोड में आपका स्वागत है"
+   }
+}

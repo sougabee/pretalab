@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Chế độ Ngân hàng"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Màn hình thông thường"
+   },
+   "blankButtonDEF": {
+      "message": "Mở lại tab Chế độ Mặc định"
+   },
+   "blankButtonNG": {
+      "message": "Mở lại thẻ trong cửa sổ Được bảo vệ"
+   },
+   "blankButtonSZ": {
+      "message": "Quay lại Chế độ Ngân hàng"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Thử lại"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Trình duyệt SafeZone đã tạm dừng tab này để ngăn chặn các chương trình theo dõi thao tác bàn phím hoặc phần mềm độc hại khác tiềm ẩn trong máy tính."
+   },
+   "blankPageDescDEF": {
+      "message": "Thẻ hiện tại đang mở và có sẵn ở Chế độ Mặc định Trình duyệt SafeZone."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Đang tải Chế độ ngân hàng. Vui lòng chờ trong giây lát."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Hãy chờ một lát. Quá trình sẽ mất thêm vài giây nữa."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Đã xảy ra lỗi khi tải Chế độ Ngân hàng. Để tiếp tục, hãy tìm cách tải lại Chế độ Ngân hàng."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Mở lại Chế độ Mặc định"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Mở lại trong cửa sổ Được bảo vệ"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Chế độ Ngân hàng đang tạm thời dừng lại..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Tải Chế độ Mặc định..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Đang tải cửa sổ Được bảo vệ..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Đang tải Chế độ Ngân hàng..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Chế độ Ngân hàng"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Nếu tình huống này xảy ra thường xuyên, hãy thử \u003Ca>các đề xuất\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Tab Chế độ Mặc định"
+   },
+   "blankPageTitleNG": {
+      "message": "Tab cửa sổ Được bảo vệ"
+   },
+   "blankPageTitleSZ": {
+      "message": "Tab Chế độ Ngân hàng"
+   },
+   "emptyList": {
+      "message": "Danh sách trống"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Trang web này đã có trong danh sách"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Địa chỉ URL này không hợp lệ"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Bạn gặp sự cố khởi chạy Chế độ Ngân hàng? Hãy tìm cách khởi động lại trình duyệt hoặc xem \u003Ca target='blank' href='$link$'>FAQ\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Nút chuyển đổi Chế độ Ngân hàng"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Chế độ ngân hàng"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Bật Chế độ Ngân hàng"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Đang thiết lập Chế độ Ngân hàng"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Không tải được Chế độ Ngân hàng"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Tắt Chế độ Ngân hàng"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Chế độ Ngân hàng đang hoạt động"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Không hiển thị lại thông báo này"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Chế độ Ngân hàng sẽ bảo vệ hoạt động của bạn trước các trình theo dõi thao tác bàn phím và gián điệp, để dữ liệu cá nhân của bạn luôn an toàn"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Đi tới Phím tắt"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Chế độ Ngân hàng đã được kích hoạt"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Cửa sổ Ẩn danh mới"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Cửa sổ Chế độ Ngân hàng mới"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Cửa sổ Được bảo vệ mới"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Không phải là địa chỉ web hợp lệ"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Bỏ qua"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "MỞ TRONG CHẾ ĐỘ NGÂN HÀNG"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Không hiển thị lại trên trang này"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Chế độ Ngân hàng sẽ tách biệt các phiên mua sắm và giao dịch ngân hàng một cách an toàn để ngăn tin tặc\u003C/b> đánh cắp \u003Cb>số thẻ tín dụng, mật khẩu\u003C/b> và \u003Cb>dữ liệu riêng tư khác của bạn.\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Lưu lại cho trang này"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Người khác có thể nhìn thấy dữ liệu tài chính của bạn."
+   },
+   "openInIncognitoMode": {
+      "message": "Mở liên kết trong cửa sổ Ẩn danh mới"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Mở liên kết trong cửa sổ Chế độ Ngân hàng"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Mở liên kết trong cửa sổ Được bảo vệ"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Chúng tôi đã tự động mở trang này trong Chế độ Ngân hàng để bảo vệ quyền riêng tư của bạn khi giao dịch trực tuyến"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Đóng"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Không hiển thị lại thông báo này"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Trang này đã được mở ở Chế độ Ngân hàng"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Luôn mở trang này ở Chế độ Ngân hàng"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "ĐÓNG"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Chế độ Ngân hàng bảo vệ an toàn cho thông tin cá nhân của bạn tránh các trình theo dõi thao tác và gián điệp."
+   },
+   "option_switcher_auto": {
+      "message": "Trang web tùy chỉnh của bạn sẽ tự động chuyển sang Chế độ Ngân hàng"
+   },
+   "option_switcher_disabled": {
+      "message": "Danh sách các trang web bạn đã chặn hiển thị lời nhắc thông báo ở Chế độ Ngân hàng"
+   },
+   "option_switcher_hidden": {
+      "message": "Tắt lời nhắc thông báo ở Chế độ Ngân hàng"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Cài đặt hỗ trợ cửa sổ an toàn..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Bảo vệ quyền riêng tư của bạn khi thanh toán hoặc giao dịch ngân hàng trực tuyến."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Cửa sổ Chế độ Ngân hàng mới"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Bảo vệ máy tính khi bạn truy cập nội dung trang web không an toàn."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Tìm hiểu thêm"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Không có hỗ trợ cửa sổ Được bảo vệ"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Cửa sổ Được bảo vệ mới"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Thêm trang web"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Thêm quy tắc tạm thời"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Chỉnh sửa trang web"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Chỉnh sửa quy tắc tạm thời"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Trang web"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "thêm"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Tự động mở Chế độ Ngân hàng trên các trang web sau"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Hủy"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Bảo vệ dữ liệu tài chính của tôi khi mua sắm và giao dịch ngân hàng trực tuyến"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Không hiển thị lời nhắc thông báo Chế độ Ngân hàng trên các trang web sau"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Chỉnh sửa"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Hiển thị lời nhắc thông báo Chế độ Ngân hàng trên các trang web có giao dịch ngân hàng"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "mở"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Gỡ bỏ"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Thiết lập Nâng cao của Chế độ Ngân hàng"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "CHẾ ĐỘ NGÂN HÀNG"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Trình duyệt SafeZone sẽ tự động mở các trang đáng ngờ trong cửa sổ Được bảo vệ, cách ly trang đó khỏi máy tính của bạn để không nội dung độc hại nào có thể xâm nhập.\u003C/p>\u003Cp>Bạn cũng có thể mở thủ công cửa sổ Được bảo vệ để ẩn mình trong khi duyệt, nhờ đó sẽ không có bản ghi nào về các trang bạn đã truy cập hoặc các tập tin mà bạn đã tải xuống.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Trình duyệt SafeZone tự động mở tất cả các trang web ngân hàng trong Chế độ Ngân hàng. Điều này giúp cách ly phiên làm việc và ngăn chặn các trình theo dõi thao tác bàn phím hoặc phần mềm độc hại khác ẩn náu trên máy tính.\u003C/p>\u003Cp>Với Chế độ ngân hàng, bạn có thể an tâm thực hiện mọi giao dịch tài chính mà không lo mật khẩu hay các thông tin cá nhân khác bị đánh cắp.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Chế độ Ngân hàng"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Chế độ Ngân hàng"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Quay lại Chế độ Ngân hàng"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Mẹo"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Chế độ Ngân hàng sẽ bảo vệ thông tin cá nhân của bạn an toàn trước các trình theo dõi thao tác bàn phím và mối đe dọa khác, tiềm ẩn trên máy tính của bạn"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/vi-vn/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Tìm hiểu thêm"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "OK, đã hiểu"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Chào mừng đến với Chế độ Ngân hàng"
+   }
+}

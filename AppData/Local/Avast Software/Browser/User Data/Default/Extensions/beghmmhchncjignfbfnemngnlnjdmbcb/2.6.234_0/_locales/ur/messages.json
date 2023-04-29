@@ -1,0 +1,28 @@
+{
+   "appDescription": {
+      "message": "آپ کے براؤزر کی فنگر پرنٹ کو چھپاتا ہے اور آن لائن ٹریکنگ کو محدود کرتا ہے"
+   },
+   "appName": {
+      "message": "اینٹی-فنگر پرنٹنگ"
+   },
+   "popupStatusDisabled": {
+      "description": "Popup label shown when afp is disabled for current website",
+      "message": "اس سائٹ پر فنگر پرنٹ تحفظ غیر فعال ہے"
+   },
+   "popupStatusEnabled": {
+      "description": "Popup label shown when afp is enabled for current website",
+      "message": "اس سائٹ پر فنگر پرنٹ تحفّظ فعال ہے"
+   },
+   "popupTotalFingerprintsAttemptsDetected": {
+      "description": "Popup total fingerprints attempts detected label",
+      "message": "کل فنگر پرنٹ کی کوششوں کی شناخت ہوئی"
+   },
+   "settingsAdvanced": {
+      "description": "Settings page title",
+      "message": "اینٹی-فنگر پرنٹنگ ایڈوانسڈ سیٹنگز"
+   },
+   "settingsSocialMediaLoginDetectionPrevention": {
+      "description": "Settings page social media login detection prevention title",
+      "message": "سوشل میڈیا لاگ ان شناخت روک"
+   }
+}

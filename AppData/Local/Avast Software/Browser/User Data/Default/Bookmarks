@@ -1,0 +1,685 @@
+{
+   "checksum": "d43cb33bc38ee8e741fbf4c4d3b229d0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13302630258000000",
+            "date_last_used": "0",
+            "guid": "931635ad-8442-496a-a533-6c320a0d53c5",
+            "id": "194",
+            "meta_info": {
+               "disable-domain-matching": "false",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "99999",
+               "index": "0",
+               "keyword": "addons-com-ww",
+               "omnibox-min-chars": "3",
+               "parent": "1",
+               "redirect-url": "https://client.avastbrowser.com/addons/?cid={campaignId}",
+               "sponsored": "false"
+            },
+            "name": "Addons Store",
+            "type": "url",
+            "url": "http://addons.avast.com/"
+         }, {
+            "date_added": "13308237015000000",
+            "date_last_used": "0",
+            "guid": "6a2a8acc-ea78-4cb7-aabe-58b54890bddf",
+            "id": "195",
+            "meta_info": {
+               "description": "Smarter Shopping, Better Living!",
+               "description-separator": " - ",
+               "disable-domain-matching": "false",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "1400",
+               "index": "1",
+               "keyword": "aliexpress-com-row-bkm-vig-dir-ggl-sponsored",
+               "omnibox-min-chars": "3",
+               "parent": "1",
+               "redirect-url": "https://redirect.viglink.com/?u=http%3A%2F%2Faliexpress.com&key=c82c03cb19e78099638724fd7ba2f63f&prodOvrd=WRA&fbu=https://s.click.aliexpress.com/e/_Ao4Yar&bf=0.05",
+               "sponsored": "true"
+            },
+            "name": "AliExpress",
+            "type": "url",
+            "url": "https://www.aliexpress.com/"
+         }, {
+            "date_added": "13311163205000000",
+            "date_last_used": "0",
+            "guid": "e4d3eb38-bf09-433a-9008-5a0d0b997514",
+            "id": "196",
+            "meta_info": {
+               "description": "The best hotels & accommodations",
+               "description-separator": " | ",
+               "disable-domain-matching": "false",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "1389",
+               "index": "2",
+               "keyword": "booking-com-row-bkm-sponsored",
+               "omnibox-min-chars": "4",
+               "parent": "1",
+               "redirect-url": "http://www.booking.com/index.html?aid=935088&label=bookmark-row",
+               "sponsored": "true"
+            },
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://www.booking.com/"
+         }, {
+            "date_added": "13227054360000000",
+            "date_last_used": "0",
+            "guid": "322ca61d-582e-476f-b69c-0025c3ef1873",
+            "id": "197",
+            "meta_info": {
+               "description": "Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+               "description-separator": " – ",
+               "disable-domain-matching": "false",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "1003",
+               "index": "3",
+               "keyword": "facebook-com",
+               "omnibox-min-chars": "2",
+               "parent": "1",
+               "sponsored": "false"
+            },
+            "name": "Facebook",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13299594063000000",
+            "date_last_used": "0",
+            "guid": "6b5fed7c-ba61-40e4-b161-413fd68e2fa5",
+            "id": "198",
+            "meta_info": {
+               "disable-domain-matching": "false",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "1999",
+               "index": "4",
+               "keyword": "google-com-tagged",
+               "omnibox-min-chars": "3",
+               "parent": "1",
+               "providers": "1,1001",
+               "sponsored": "false"
+            },
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/?{google:client}"
+         }, {
+            "date_added": "13227055076000000",
+            "date_last_used": "0",
+            "guid": "005b5b56-391d-47f0-91d0-6b67178c1d66",
+            "id": "199",
+            "meta_info": {
+               "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+               "disable-domain-matching": "false",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "1004",
+               "index": "5",
+               "keyword": "youtube-com",
+               "omnibox-min-chars": "2",
+               "parent": "1",
+               "sponsored": "false"
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13254972448865759",
+            "date_last_used": "0",
+            "guid": "ea3bb6fb-b766-409f-b051-2261a275f130",
+            "id": "10",
+            "name": "Roundcube Webmail :: Caixa de entrada",
+            "type": "url",
+            "url": "https://webmail.viapaxbio.com.br/cpsess3657457759/3rdparty/roundcube/?_task=mail&_mbox=INBOX"
+         }, {
+            "date_added": "13255027356143815",
+            "date_last_used": "0",
+            "guid": "97397178-c1f1-464b-8cd8-a7e61214a96c",
+            "id": "11",
+            "name": "Aliamos princípios alimentares antigos com a inovação da culinária moderna para oferecer alimentos e bebidas naturalmente funcionais",
+            "type": "url",
+            "url": "https://www.urbanremedy.com.br/"
+         }, {
+            "date_added": "13255468400960230",
+            "date_last_used": "0",
+            "guid": "69b4da9f-e6a7-4f8c-91e0-1e6d4dc7ffc0",
+            "id": "12",
+            "name": "",
+            "type": "url",
+            "url": "https://www.comprimirvideo.com.br/"
+         }, {
+            "date_added": "13255064978169440",
+            "date_last_used": "0",
+            "guid": "03413007-ee26-444b-a20c-3482060bf201",
+            "id": "13",
+            "name": "Como organizar pedidos pelo Whatsapp Business",
+            "type": "url",
+            "url": "https://www.conferecartoes.com.br/blog/organizar-pedidos-whatsapp-business"
+         }, {
+            "date_added": "13256274839105656",
+            "date_last_used": "0",
+            "guid": "1f44aea1-3521-470b-b970-b78030a3139b",
+            "id": "14",
+            "name": "Vendas globais de alimentos orgânicos crescem de 25 a 100% devido à pandemia – Organis",
+            "type": "url",
+            "url": "https://organis.org.br/pensando_organico/vendas-globais-de-alimentos-organicos-crescem-de-25-a-100-devido-a-pandemia/"
+         }, {
+            "date_added": "13256304862440073",
+            "date_last_used": "0",
+            "guid": "6555889f-e300-44a5-a73b-a496f5977030",
+            "id": "15",
+            "name": "Natural Food on Behance",
+            "type": "url",
+            "url": "https://www.behance.net/gallery/84753031/Natural-Food?tracking_source=search_projects_recommended"
+         }, {
+            "date_added": "13256305454511878",
+            "date_last_used": "0",
+            "guid": "34e3b350-da9e-40da-8dc8-cb1fac815372",
+            "id": "16",
+            "name": "ViaPaxBio - OrganicsNet",
+            "type": "url",
+            "url": "https://www.organicsnet.com.br/portfolio/viapaxbio/"
+         }, {
+            "date_added": "13256308006741239",
+            "date_last_used": "0",
+            "guid": "c3c0b4ee-3e52-4873-ab6c-65abf0ced6cb",
+            "id": "17",
+            "name": "Flourish_case_Verde_Campo1.pdf",
+            "type": "url",
+            "url": "http://flourishnegocios.com.br/wp-content/uploads/2015/12/Flourish_case_Verde_Campo1.pdf"
+         }, {
+            "date_added": "13256311574476745",
+            "date_last_used": "0",
+            "guid": "408e5582-2bde-4776-bfee-4d39be981c77",
+            "id": "18",
+            "name": "23 receitas de cappuccino melhores que as de cafeterias",
+            "type": "url",
+            "url": "https://www.receiteria.com.br/receitas-de-cappuccino/"
+         }, {
+            "date_added": "13256334060530476",
+            "date_last_used": "0",
+            "guid": "a76d90b8-f519-4ef6-89f0-dbaf882c1288",
+            "id": "19",
+            "name": "Bethai – Original Thailand Beverage",
+            "type": "url",
+            "url": "http://bethai.com.br/"
+         }, {
+            "date_added": "13256334076801229",
+            "date_last_used": "0",
+            "guid": "d490f889-505b-44b3-873d-1aa64118fc8e",
+            "id": "20",
+            "name": "Design de Embalagens Chia Aqua — Oito Sete Estúdio Criativo",
+            "type": "url",
+            "url": "https://www.oitosete.com/chiaaqua"
+         }, {
+            "date_added": "13256485584343720",
+            "date_last_used": "0",
+            "guid": "793b488e-1ab2-487d-aa5c-6098f42c7161",
+            "id": "21",
+            "name": "Oléo Essencial auá concentração e foco",
+            "type": "url",
+            "url": "https://www.auanatural.com.br/oleo-essencial-concentracao-foco"
+         }, {
+            "date_added": "13256681484310966",
+            "date_last_used": "0",
+            "guid": "577e7a96-ea91-433f-9e95-8484387caa66",
+            "id": "22",
+            "name": "WordPress Themes & Website Templates from ThemeForest",
+            "type": "url",
+            "url": "https://themeforest.net/"
+         }, {
+            "date_added": "13256709494060726",
+            "date_last_used": "0",
+            "guid": "e9654ef8-f998-4374-8748-4f60d3a6fec5",
+            "id": "23",
+            "name": "Galeria Árvore - Festival de Arte Digital",
+            "type": "url",
+            "url": "https://www.arvore.com.br/festival"
+         }, {
+            "date_added": "13257292876623623",
+            "date_last_used": "0",
+            "guid": "73ec6848-b9c6-49c9-8551-48f5617adbca",
+            "id": "24",
+            "name": "Download Instagram Stories and Highlights - StorySaver.net",
+            "type": "url",
+            "url": "https://www.storysaver.net/"
+         }, {
+            "date_added": "13257306264845857",
+            "date_last_used": "0",
+            "guid": "289a9546-f467-49d1-94df-fdcbcf071bb8",
+            "id": "25",
+            "name": "Catálogo Viapax 2020 - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1FNXPgvknAdZ7Ocsp9zJIywOdhsuRDd8q"
+         }, {
+            "date_added": "13258683695028214",
+            "date_last_used": "0",
+            "guid": "24596a6e-3c55-4aca-b544-2949a9ab1579",
+            "id": "26",
+            "name": "Assinatura de Lentes de Contato – e-lens – Blog de Lentes de Contato",
+            "type": "url",
+            "url": "https://blog.e-lens.com.br/assinatura-de-lentes-de-contato/"
+         }, {
+            "date_added": "13259132367805304",
+            "date_last_used": "0",
+            "guid": "bffc21ee-9adf-4cf5-824b-fb7d4c0cee8e",
+            "id": "27",
+            "name": "https://superopa.com/about_us_page.html#duvidas",
+            "type": "url",
+            "url": "https://superopa.com/about_us_page.html#duvidas"
+         }, {
+            "date_added": "13259430592879143",
+            "date_last_used": "0",
+            "guid": "63a72310-ec40-46ef-8bda-4c18a3ec7a02",
+            "id": "28",
+            "name": "Alimentação Saudável - Saúde Brasil",
+            "type": "url",
+            "url": "https://saudebrasil.saude.gov.br/alimentacao-saudavel"
+         }, {
+            "date_added": "13259529630857555",
+            "date_last_used": "0",
+            "guid": "10a84146-5232-4a51-b0dc-a05eae05234e",
+            "id": "29",
+            "name": "Currículo do Sistema de Currículos Lattes (Danielle de Carla Divardin)",
+            "type": "url",
+            "url": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4301607P1"
+         }, {
+            "date_added": "13259986218993174",
+            "date_last_used": "0",
+            "guid": "ad4a59cb-4777-4799-82d5-713178839e79",
+            "id": "30",
+            "name": "DownloadGram - Instagram photo, video, IGTV, and Reels downloader online",
+            "type": "url",
+            "url": "https://downloadgram.com/"
+         }, {
+            "date_added": "13261805573205862",
+            "date_last_used": "0",
+            "guid": "473fde3a-d258-41b4-89ba-d136098f77dd",
+            "id": "31",
+            "name": "Será que você nasceu inteligente? - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=s07UdIXXVdY"
+         }, {
+            "date_added": "13262487368289150",
+            "date_last_used": "0",
+            "guid": "64502e55-79e0-4cf4-856a-a3da03153de9",
+            "id": "32",
+            "name": "Nova guia",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13263940584537173",
+            "date_last_used": "0",
+            "guid": "f09677ac-426a-4c8f-ae0f-a7493643e19b",
+            "id": "33",
+            "name": "Plano de comunicação - Suco de soja do bem",
+            "type": "url",
+            "url": "https://pt.slideshare.net/heloisafelix/plano-de-comunicacao-suco-de-soja-do-bem"
+         }, {
+            "date_added": "13263952685716031",
+            "date_last_used": "0",
+            "guid": "7261d7ea-ee18-4242-9691-52c08e8080a7",
+            "id": "34",
+            "name": "Escolas fechadas na pandemia: Crianças explicam: o ensino remoto não é brincadeira | Atualidade | EL PAÍS Brasil",
+            "type": "url",
+            "url": "https://brasil.elpais.com/brasil/2021-04-18/criancas-explicam-o-ensino-remoto-nao-e-brincadeira.html#?sma=newsletter_brasil_diaria20210419"
+         }, {
+            "date_added": "13264090563694648",
+            "date_last_used": "0",
+            "guid": "8f3292a7-bcf3-42e7-a406-5023f7239281",
+            "id": "35",
+            "name": "10º Congresso Brasileiro de Avaliação Psicológica - Programação",
+            "type": "url",
+            "url": "https://www.congresso2021.ibapnet.org.br/programacao"
+         }, {
+            "date_added": "13264224173749844",
+            "date_last_used": "0",
+            "guid": "70862add-8f03-426d-a6ef-a89a2e43ecff",
+            "id": "36",
+            "name": "viapaxbio ~ Financeiro ~ Dooca Commerce",
+            "type": "url",
+            "url": "https://viapaxbio.dooca.store/dc-admin/configuracoes/financeiro"
+         }, {
+            "date_added": "13264224178273112",
+            "date_last_used": "0",
+            "guid": "605be4ce-e4d1-47a1-b7d5-e26bc36a9cb7",
+            "id": "37",
+            "name": "Franquia de Comida Saudável - Vida Leve",
+            "type": "url",
+            "url": "https://www.redevidaleve.com.br/franquia/comida-saudavel?gclid=Cj0KCQjwsqmEBhDiARIsANV8H3Zy7N2YTsjo2lmPPhop9W1ruIFCFk873xZV2SCBf9Y1cTIxbU8ZSDoaAtCbEALw_wcB"
+         }, {
+            "date_added": "13265504727685399",
+            "date_last_used": "0",
+            "guid": "eaec5f73-e3cd-4163-8371-311fdf43946f",
+            "id": "38",
+            "name": "Um em cada cinco brasileiros afirma dirigir usando o celular",
+            "type": "url",
+            "url": "https://www.portaldotransito.com.br/noticias/um-em-cada-cinco-brasileiros-afirma-dirigir-usando-o-celular-2/"
+         }, {
+            "date_added": "13265512760407221",
+            "date_last_used": "0",
+            "guid": "1443cb0a-9b74-4e79-9789-baee55dd8028",
+            "id": "39",
+            "name": "Nova lei de trânsito entra em vigor em abril: veja tabela com antes e depois das principais mudanças - Portal do Trânsito",
+            "type": "url",
+            "url": "https://www.portaldotransito.com.br/noticias/nova-lei-de-transito-entra-em-vigor-em-abril-veja-tabela-com-antes-e-depois-das-principais-mudancas/"
+         }, {
+            "date_added": "13265512976748723",
+            "date_last_used": "0",
+            "guid": "8188ca16-b237-485e-aa53-b52b5eef6a51",
+            "id": "40",
+            "name": "ONU define período de 2021 a 2030 como Segunda Década de Ação pela Segurança no Trânsito - ABRAMET",
+            "type": "url",
+            "url": "https://www.abramet.com.br/noticias/onu-define-periodo-de-2021-a-2030-como-segunda-decada-de-acao-pela-seguranca-no-transito/"
+         }, {
+            "date_added": "13265515290189917",
+            "date_last_used": "0",
+            "guid": "45811326-59e4-4d12-9a5c-8381ba01b6eb",
+            "id": "41",
+            "name": "Psicologia do Trânsito - Como ela age na prevenção de acidentes",
+            "type": "url",
+            "url": "https://veltec.com.br/psicologia-do-transito-prevencao-acidentes/"
+         }, {
+            "date_added": "13266457025316764",
+            "date_last_used": "0",
+            "guid": "502153cc-4ec9-4cf8-8ea0-f0c3884365e5",
+            "id": "42",
+            "name": "Como desenvolver habilidades socioemocionais",
+            "type": "url",
+            "url": "https://www.proposito21.com.br/blog/como-desenvolver-habilidades-socioemocionais"
+         }, {
+            "date_added": "13267851846998230",
+            "date_last_used": "0",
+            "guid": "83886f4a-4b15-479f-bf4b-36ba35551a82",
+            "id": "43",
+            "name": "Experimente o livro O Caminho dos Justos",
+            "type": "url",
+            "url": "https://materiais.sefer.com.br/degustacao-o-caminho-dos-justos"
+         }, {
+            "date_added": "13268448249202383",
+            "date_last_used": "0",
+            "guid": "9ec4b8f8-49f3-4b40-b888-7e1f05abcbdc",
+            "id": "44",
+            "name": "Ebook | Autismo: Escola e família como aliados na educação",
+            "type": "url",
+            "url": "https://materiais.agendaedu.com/autismo-escola-e-familia-como-aliados-na-educacao"
+         }, {
+            "date_added": "13268465551044680",
+            "date_last_used": "0",
+            "guid": "d41267ae-f2db-49d1-90a7-a01c8ba80c7c",
+            "id": "45",
+            "name": "Ligaponto | MailerLite",
+            "type": "url",
+            "url": "https://app.mailerlite.com/sites/template/4281037"
+         }, {
+            "date_added": "13268890219978889",
+            "date_last_used": "0",
+            "guid": "a0064627-f093-4b51-8a3d-709ea722c866",
+            "id": "46",
+            "name": "E-Books | Revelo",
+            "type": "url",
+            "url": "https://www.revelo.com.br/recursos/e-books?_ga=2.233326555.452200963.1624415741-1717930620.1624415741"
+         }, {
+            "date_added": "13269648046910601",
+            "date_last_used": "0",
+            "guid": "88726017-1c62-4d26-8275-2771ed371c0a",
+            "id": "47",
+            "name": "Gravador de tela grátis da Apowersoft – Grava Grátis a Tela do PC",
+            "type": "url",
+            "url": "https://www.apowersoft.com.br/gravador-de-tela-gratis"
+         }, {
+            "date_added": "13272738332274193",
+            "date_last_used": "0",
+            "guid": "2c1afccc-1848-4070-87cb-a52abda1300d",
+            "id": "49",
+            "name": "Word Art - Edit - WordArt.com",
+            "type": "url",
+            "url": "https://wordart.com/create"
+         } ],
+         "date_added": "13271979082809912",
+         "date_last_used": "0",
+         "date_modified": "13272738332274193",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13271979082809921",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "sponsored": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13308237064000000",
+               "date_last_used": "0",
+               "guid": "a91e9992-0365-401b-bda3-7b741cfb37ad",
+               "id": "193",
+               "meta_info": {
+                  "description": "Free Online Writing Assistant",
+                  "description-separator": " : ",
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1412",
+                  "index": "0",
+                  "keyword": "grammarly-dir-com-obx-sponsored",
+                  "omnibox-min-chars": "4",
+                  "parent": "0",
+                  "redirect-url": "https://grammarly.go2cloud.org/aff_c?offer_id=182&aff_id=99464&source=omnibox",
+                  "sponsored": "true"
+               },
+               "name": "Grammarly",
+               "type": "url",
+               "url": "https://www.grammarly.com/"
+            }, {
+               "date_added": "13272025503000000",
+               "date_last_used": "0",
+               "guid": "070ec03c-7a98-4d52-abfe-b6ca76948a63",
+               "id": "191",
+               "meta_info": {
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1995",
+                  "index": "0",
+                  "keyword": "google-com-tagged-obx",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://www.google.com/?{google:client}",
+                  "sponsored": "false"
+               },
+               "name": "Google",
+               "type": "url",
+               "url": "http://www.google.com/"
+            }, {
+               "date_added": "13288445656000000",
+               "date_last_used": "0",
+               "guid": "80e473f4-2e0e-49be-b0b2-e7908353b13f",
+               "id": "190",
+               "meta_info": {
+                  "description": "Freelance Services Marketplace for Businesses",
+                  "description-separator": " | ",
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1356",
+                  "index": "0",
+                  "keyword": "fiverr-vig-com-row-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-vig.avastbrowser.com/?u=https://fiverr.com/&cid={campaignId}&country=row&src=obx&provider=ggl",
+                  "sponsored": "true"
+               },
+               "name": "Fiverr",
+               "type": "url",
+               "url": "https://fiverr.com/"
+            }, {
+               "date_added": "13311163415000000",
+               "date_last_used": "0",
+               "guid": "23af10c0-e6db-4394-b456-7dd86f186a6b",
+               "id": "189",
+               "meta_info": {
+                  "description": "The best hotels & accommodations",
+                  "description-separator": " | ",
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "9203",
+                  "index": "0",
+                  "keyword": "booking-com-row-obx-sponsored",
+                  "omnibox-min-chars": "3",
+                  "parent": "0",
+                  "redirect-url": "http://www.booking.com/index.html?aid=935088&label=omniboxbookmark-row",
+                  "sponsored": "true"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://www.booking.com/"
+            }, {
+               "date_added": "13308237042000000",
+               "date_last_used": "0",
+               "guid": "bac1e499-f984-491e-9a01-b7d52aacde4a",
+               "id": "188",
+               "meta_info": {
+                  "description": "Smarter Shopping, Better Living!",
+                  "description-separator": " - ",
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1353",
+                  "index": "0",
+                  "keyword": "aliexpress-com-row-obx-vig-dir-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "parent": "0",
+                  "redirect-url": "https://redirect.viglink.com/?u=http%3A%2F%2Faliexpress.com&key=c82c03cb19e78099638724fd7ba2f63f&prodOvrd=WRA&fbu=https://s.click.aliexpress.com/e/_Ao4Yar&bf=0.05",
+                  "sponsored": "true"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://www.aliexpress.com/"
+            }, {
+               "date_added": "13311158633000000",
+               "date_last_used": "0",
+               "guid": "cbf1c62e-09da-4f5a-b901-b813bc15eb44",
+               "id": "187",
+               "meta_info": {
+                  "description": "Free Cancellation & Booking Deals | Over 2 Million Hotel",
+                  "description-separator": " - ",
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1354",
+                  "index": "0",
+                  "keyword": "agoda-com-row-obx-vig-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "parent": "0",
+                  "redirect-url": "https://redirect.viglink.com?u=http%3A%2F%2Fagoda.com&key=72c9452c8f0884782143625df8316984",
+                  "sponsored": "true"
+               },
+               "name": "Agoda",
+               "type": "url",
+               "url": "https://www.agoda.com/"
+            } ],
+            "date_added": "13271979083248734",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "83a61e67-12cc-414b-a4b8-ea091c34060e",
+            "id": "6",
+            "name": "ActiveUrls",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13272025496000000",
+               "date_last_used": "0",
+               "guid": "2f62deb9-fa6d-4677-9799-d461b4b3c362",
+               "id": "192",
+               "meta_info": {
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1997",
+                  "index": "0",
+                  "keyword": "google-com-tagged-bing-obx",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "2,3,1002,1003",
+                  "parent": "0",
+                  "redirect-url": "https://www.google.com/?{google:client}",
+                  "sponsored": "false"
+               },
+               "name": "Google",
+               "type": "url",
+               "url": "http://www.google.com/"
+            } ],
+            "date_added": "13271979083248749",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "0ba31ff9-55e1-4e62-a48a-bee282374aff",
+            "id": "7",
+            "name": "HiddenUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13271979083248754",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "4c8aa3d4-0bdc-4715-aab3-d1b5d9fa8693",
+            "id": "8",
+            "name": "RemovedUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13271979083248758",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "321de66e-113d-4850-8fb7-fd872bba80f5",
+            "id": "9",
+            "name": "AllSubfolders",
+            "type": "folder"
+         } ],
+         "date_added": "13271979082809930",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000099",
+         "id": "4",
+         "name": "Patrocinado",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13271979082809924",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

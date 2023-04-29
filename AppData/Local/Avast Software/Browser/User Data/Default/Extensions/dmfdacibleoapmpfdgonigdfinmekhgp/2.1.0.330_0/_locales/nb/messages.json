@@ -1,0 +1,374 @@
+{
+   "activate_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "Du må aktivere Avast SecureLine VPN for å bruke denne funksjonen."
+   },
+   "activate_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "Du må aktivere Avast One VPN for å bruke denne funksjonen."
+   },
+   "connected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connected.",
+      "message": "Tilkoblet"
+   },
+   "connecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connecting.",
+      "message": "Kobler til"
+   },
+   "connection_failed": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connection failed.",
+      "message": "Tilkobling mislyktes"
+   },
+   "connection_status_connected_text": {
+      "description": "Text displayed on locations dashboard when the user is connected.",
+      "message": "Tilkoblingen er kryptert, og plasseringen din er skjult."
+   },
+   "connection_status_connected_title": {
+      "description": "Title displayed on locations dashboard when the user is connected. (Please use short text in the marker html code)",
+      "message": "VPN er \u003Cspan class=\"marker-green\">aktiv\u003C/span>"
+   },
+   "connection_status_disconnected_free_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.",
+      "message": "Få opptil \u003Cb>5 GB\u003C/b> med VPN-beskyttelse \u003Cb>gratis\u003C/b>"
+   },
+   "connection_status_disconnected_free_title": {
+      "description": "Title displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.  (Please use short text in the marker html code)",
+      "message": "Kraftig \u003Cspan class=\"marker-orange\">beskyttelse\u003C/span> for internettbruk"
+   },
+   "connection_status_disconnected_text": {
+      "description": "Text displayed on locations dashboard when the user is disconnected.",
+      "message": "Tilkoblingen er ikke kryptert, og plasseringen din er synlig."
+   },
+   "connection_status_disconnected_title": {
+      "description": "Title displayed on locations dashboard when the user is disconnected. (Please use short text in the marker html code)",
+      "message": "VPN er \u003Cspan class=\"marker-red\">ikke aktiv\u003C/span>"
+   },
+   "connection_status_limit_reached_promotion_list_item_1": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 1",
+      "message": "Få komplett personvern med ett klikk"
+   },
+   "connection_status_limit_reached_promotion_list_item_2": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 2",
+      "message": "Koble til sikkert med VPN døgnet rundt"
+   },
+   "connection_status_limit_reached_promotion_list_item_3": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 3",
+      "message": "Finn ut om passord er lekket"
+   },
+   "connection_status_limit_reached_promotion_text": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "Få mer privatliv og sikkerhet overalt samt tilgang til strømmeinnhold, med ubegrenset VPN i premiumversjonen."
+   },
+   "connection_status_limit_reached_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "Du har brukt all gratis VPN som var tilgjengelig denne uken."
+   },
+   "connection_status_limit_reached_title": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit. (Please use short text in the marker html code)",
+      "message": "Du har \u003Cspan class=\"marker-orange\">nådd\u003C/span> grensen"
+   },
+   "disconnected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnected.",
+      "message": "Frakoblet"
+   },
+   "disconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnecting.",
+      "message": "Kobler fra"
+   },
+   "dismiss": {
+      "description": "Caption on the button displayed on the error notification view.",
+      "message": "Lukk"
+   },
+   "extension_icon_overlay_text_connected": {
+      "description": "Extension icon tooltip text in connected state.",
+      "message": "Avast SecureLine VPN – tilkoblet"
+   },
+   "extension_icon_overlay_text_connecting": {
+      "description": "Extension icon tooltip text in connecting state.",
+      "message": "Avast SecureLine VPN – kobler til"
+   },
+   "extension_icon_overlay_text_disconnected": {
+      "description": "Extension icon tooltip text in disconnected state.",
+      "message": "Avast SecureLine VPN – frakoblet"
+   },
+   "extension_icon_overlay_text_disconnecting": {
+      "description": "Extension icon tooltip text in disconnecting state.",
+      "message": "Avast SecureLine VPN – kobler fra"
+   },
+   "extension_icon_overlay_text_reconnecting": {
+      "description": "Extension icon tooltip text in reconnecting state.",
+      "message": "Avast SecureLine VPN – kobler til på nytt"
+   },
+   "fastest_location": {
+      "description": "Text displayed on main dashboard if the user selected the optimal location.",
+      "message": "Raskeste plassering"
+   },
+   "free_data_allowed_day": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ per dag",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_month": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ per måned",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_week": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ per uke",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_year": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ per år",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_free": {
+      "description": "Text on top of the bar with the free data displayed in locations dashboard when the user is on trial.",
+      "message": "Gratis VPN-data"
+   },
+   "free_data_renew_in": {
+      "description": "Text on top of the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "Fornyes om $DAYS$ dag(er)",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "free_data_used": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ brukt",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "if_that_does_not_work_try_reinstalling_browser_product": {
+      "description": "Message shown to user when extension suggests user to reinstall Secure browser.",
+      "message": "Hvis det ikke fungerer, prøv å installere Secure Browser på nytt."
+   },
+   "information": {
+      "description": "Text to show in the tooltip.",
+      "message": "Informasjon"
+   },
+   "install_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "Du må installere den nyeste versjonen av Avast SecureLine VPN for å bruke denne funksjonen."
+   },
+   "install_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "Du må installere den nyeste versjonen av Avast One for å bruke denne funksjonen"
+   },
+   "ip_address": {
+      "description": "The real IP of the user. Text to show in the tooltip.",
+      "message": "Opprinnelig IP-adresse: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12 "
+         }
+      }
+   },
+   "ip_info_connected": {
+      "description": "Text after the selected location when the user is connected.",
+      "message": "Personvernet er ivaretatt."
+   },
+   "ip_info_disconnected": {
+      "description": "Text after the selected location when the user is disconnected.",
+      "message": "Slå på VPN for å kryptere nettbruken"
+   },
+   "learn_more": {
+      "description": "Text that appears in a tooltip above Info buitton (i) in a dashboard popup.",
+      "message": "Les mer"
+   },
+   "loading": {
+      "description": "Message shown to user when extension is loading data (upon launch).",
+      "message": "Laster inn"
+   },
+   "locating": {
+      "description": "Text displayed instead of public IP address during fetching it via GeoIp service.",
+      "message": "Søker"
+   },
+   "location": {
+      "description": "The location the user is connected to. Text to show in the tooltip.",
+      "message": "Plassering: $DATA$",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "USA, Las Vegas"
+         }
+      }
+   },
+   "make_sure_your_internet_connection_works_properly": {
+      "description": "Message shown to user when extension detects that there is no Internet connection.",
+      "message": "Det ser ut til at du er frakoblet. Kontroller at Internett-forbindelsen din fungerer som den skal, og prøv på nytt."
+   },
+   "offline": {
+      "description": "Text which is displayed instead of Public IP address when host is offline.",
+      "message": "Frakoblet"
+   },
+   "optimal_location": {
+      "description": "Used to prepend name of location which is optimal.",
+      "message": "Optimal plassering"
+   },
+   "please_try_reinstalling_vpn_product": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "Prøv å installere Avast SecureLine VPN-klienten på nytt."
+   },
+   "please_try_reinstalling_vpn_product_avast_one": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "Prøv å installere Avast One VPN-klienten på nytt."
+   },
+   "product_description": {
+      "description": "Extension description.",
+      "message": "Internettforbindelsen krypteres med et knappeklikk og gir deg ekte personvern på nett."
+   },
+   "product_name": {
+      "description": "Product name which is used for this application.",
+      "message": "Avast SecureLine VPN"
+   },
+   "promotion_button": {
+      "description": "Button for the promotion text displayed on locations dashboard when the user is on trial.",
+      "message": "Få premium"
+   },
+   "promotion_text": {
+      "description": "Text for the promotion text displayed at the bottom of locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "Få best mulig utbytte av VPN, og styrk personvernet."
+   },
+   "promotion_title": {
+      "description": "Title for the promotion text displayed at the bottom of the on locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "Ubegrenset data og 55 plasseringer"
+   },
+   "reconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Reconnecting.",
+      "message": "Kobler til på nytt"
+   },
+   "secure_connection": {
+      "description": "Text displayed on locations dashboard",
+      "message": "SIKKER TILKOBLING"
+   },
+   "see_how": {
+      "description": "Text of the hyperlink with URL of the Help page.",
+      "message": "se hvordan"
+   },
+   "select_location": {
+      "description": "Text displayed on locations dashboard for the user to select a new location.",
+      "message": "Velg plassering"
+   },
+   "something_is_not_right": {
+      "description": "Message shown to user when extension detects an error.",
+      "message": "Det er noe som er galt"
+   },
+   "something_not_right_please_restart": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Det er noe som er galt med Avast SecureLine VPN. Start datamaskinen på nytt."
+   },
+   "something_not_right_please_restart_avast_one": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Noe er galt med Avast One VPN. Start datamaskinen på nytt."
+   },
+   "this_is_your_current_ip_address": {
+      "description": "Text that appears in a tooltip above current IP address in notification popups.",
+      "message": "Dette er din gjeldende IP-adresse."
+   },
+   "time_connected": {
+      "description": "The time the user is connected to the VPN. Text to show in the tooltip.",
+      "message": "Tid tilkoblet: $TIME$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "01:12:34"
+         }
+      }
+   },
+   "turn_on_vpn_reason": {
+      "description": "Text that appears in the tooltop above the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "Dette er din gjeldende IP-adresse. Med den kan nettsider enkelt identifisere deg. Slå på VPN for å gjøre tilkoblingen privat."
+   },
+   "update_browser_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update Secure browser.",
+      "message": "Du må oppdatere Avast Secure Browser for å bruke denne funksjonen."
+   },
+   "update_now": {
+      "description": "Message shown on the button in a popup suggesting user to update browser or VPN client.",
+      "message": "oppdater nå"
+   },
+   "update_vpn_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "Du må oppdatere Avast SecureLine VPN for å bruke denne funksjonen."
+   },
+   "update_vpn_product_to_use_this_feature_avast_one": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "Du må oppdatere Avast One VPN-klienten for å bruke denne funksjonen."
+   },
+   "virtual_ip": {
+      "description": "The virtual IP. Text to show in the tooltip.",
+      "message": "Ny IP-adresse: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12"
+         }
+      }
+   },
+   "virtual_ip_address": {
+      "description": "Text before the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "Virtuell IP-adresse:"
+   },
+   "virtual_ip_address_explanation": {
+      "description": "Text that appears in the tooltop above the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "Den virtuelle IP-adressen er den andre nettsteder ser, og det betyr at den virkelige plasseringen din er skjult og at trafikken din er kryptert."
+   },
+   "vpn_location": {
+      "description": "Text above the currently selected location in dashboard popup.",
+      "message": "VPN-plassering:"
+   },
+   "waiting_for_ip_address_to_be_assigned_to_your_computer": {
+      "description": "Text that appears in the tooltop above the 'Locating...' string at the footer of the dashboard popup.",
+      "message": "Venter på at IP-adresse skal tilordnes til datamaskinen din."
+   },
+   "you_need_to_update_your_vpn_product_extension": {
+      "description": "Message shown to user when extension suggests user to update VPN extension.",
+      "message": "Du må oppdatere Avast VPN-utvidelsen."
+   },
+   "your_computer_seems_to_be_offline": {
+      "description": "IP Address tooltip text when host is offline.",
+      "message": "Datamaskinen din ser ut til å være frakoblet"
+   },
+   "your_ip_address": {
+      "description": "Text before the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "IP-adresse:"
+   },
+   "your_location_connected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is connected.",
+      "message": "For andre vises plasseringen din nå som:"
+   },
+   "your_location_disconnected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is disconnected.",
+      "message": "Plassering som blir vist:"
+   }
+}

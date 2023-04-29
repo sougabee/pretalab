@@ -1,0 +1,374 @@
+{
+   "activate_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "이 기능을 사용하려면 Avast SecureLine VPN을 활성화해야 합니다."
+   },
+   "activate_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "이 기능을 사용하려면 Avast One VPN을 활성화해야 합니다."
+   },
+   "connected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connected.",
+      "message": "연결됨"
+   },
+   "connecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connecting.",
+      "message": "연결 중"
+   },
+   "connection_failed": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connection failed.",
+      "message": "연결 실패"
+   },
+   "connection_status_connected_text": {
+      "description": "Text displayed on locations dashboard when the user is connected.",
+      "message": "연결이 암호화되고 위치가 숨겨집니다."
+   },
+   "connection_status_connected_title": {
+      "description": "Title displayed on locations dashboard when the user is connected. (Please use short text in the marker html code)",
+      "message": "사용 중인 VPN이 \u003Cspan class=\"marker-green\">활성\u003C/span> 상태임"
+   },
+   "connection_status_disconnected_free_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.",
+      "message": "검색 시 최대 \u003Cb>5GB\u003C/b>의 VPN 보호 기능을 \u003Cb>무료\u003C/b>로 사용할 수 있습니다."
+   },
+   "connection_status_disconnected_free_title": {
+      "description": "Title displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.  (Please use short text in the marker html code)",
+      "message": "강력한 검색 \u003Cspan class=\"marker-orange\">보호\u003C/span> 기능"
+   },
+   "connection_status_disconnected_text": {
+      "description": "Text displayed on locations dashboard when the user is disconnected.",
+      "message": "연결이 암호화되지 않으며 위치가 표시됩니다."
+   },
+   "connection_status_disconnected_title": {
+      "description": "Title displayed on locations dashboard when the user is disconnected. (Please use short text in the marker html code)",
+      "message": "사용 중인 VPN이 \u003Cspan class=\"marker-red\">비활성\u003C/span> 상태임"
+   },
+   "connection_status_limit_reached_promotion_list_item_1": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 1",
+      "message": "클릭 한 번으로 완전한 온라인 개인정보 보호"
+   },
+   "connection_status_limit_reached_promotion_list_item_2": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 2",
+      "message": "VPN으로 연중무휴 안전한 연결"
+   },
+   "connection_status_limit_reached_promotion_list_item_3": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 3",
+      "message": "비밀번호가 유출되었는지 확인"
+   },
+   "connection_status_limit_reached_promotion_text": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "프리미엄의 무제한 VPN을 사용하면 어디서나 더욱 안전하게 보호하고 스트리밍 콘텐츠에 액세스할 수 있습니다."
+   },
+   "connection_status_limit_reached_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "이번주에 사용 가능한 무료 VPN을 모두 사용했습니다."
+   },
+   "connection_status_limit_reached_title": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit. (Please use short text in the marker html code)",
+      "message": "한도에 \u003Cspan class=\"marker-orange\">도달함\u003C/span>"
+   },
+   "disconnected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnected.",
+      "message": "연결 해제됨"
+   },
+   "disconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnecting.",
+      "message": "연결 끊는 중"
+   },
+   "dismiss": {
+      "description": "Caption on the button displayed on the error notification view.",
+      "message": "무시"
+   },
+   "extension_icon_overlay_text_connected": {
+      "description": "Extension icon tooltip text in connected state.",
+      "message": "Avast SecureLine VPN - 연결됨"
+   },
+   "extension_icon_overlay_text_connecting": {
+      "description": "Extension icon tooltip text in connecting state.",
+      "message": "Avast SecureLine VPN - 연결 중"
+   },
+   "extension_icon_overlay_text_disconnected": {
+      "description": "Extension icon tooltip text in disconnected state.",
+      "message": "Avast SecureLine VPN - 연결 끊김"
+   },
+   "extension_icon_overlay_text_disconnecting": {
+      "description": "Extension icon tooltip text in disconnecting state.",
+      "message": "Avast SecureLine VPN - 연결을 끊는 중"
+   },
+   "extension_icon_overlay_text_reconnecting": {
+      "description": "Extension icon tooltip text in reconnecting state.",
+      "message": "Avast SecureLine VPN - 다시 연결 중"
+   },
+   "fastest_location": {
+      "description": "Text displayed on main dashboard if the user selected the optimal location.",
+      "message": "가장 빠른 위치"
+   },
+   "free_data_allowed_day": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/일",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_month": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/월",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_week": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/주",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_year": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/년",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_free": {
+      "description": "Text on top of the bar with the free data displayed in locations dashboard when the user is on trial.",
+      "message": "무료 VPN 데이터"
+   },
+   "free_data_renew_in": {
+      "description": "Text on top of the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DAYS$일 후 갱신",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "free_data_used": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ 사용됨",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "if_that_does_not_work_try_reinstalling_browser_product": {
+      "description": "Message shown to user when extension suggests user to reinstall Secure browser.",
+      "message": "제대로 작동하지 않는 경우 Avast Secure Browser를 다시 설치해보십시오"
+   },
+   "information": {
+      "description": "Text to show in the tooltip.",
+      "message": "정보"
+   },
+   "install_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "이 기능을 사용하려면 최신 버전의 Avast SecureLine VPN이 설치되어 있어야 합니다."
+   },
+   "install_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "이 기능을 사용하려면 최신 버전의 Avast One이 설치되어 있어야 합니다"
+   },
+   "ip_address": {
+      "description": "The real IP of the user. Text to show in the tooltip.",
+      "message": "원래 IP: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12 "
+         }
+      }
+   },
+   "ip_info_connected": {
+      "description": "Text after the selected location when the user is connected.",
+      "message": "개인정보를 보호하세요."
+   },
+   "ip_info_disconnected": {
+      "description": "Text after the selected location when the user is disconnected.",
+      "message": "검색 암호화를 위해 VPN 켜기"
+   },
+   "learn_more": {
+      "description": "Text that appears in a tooltip above Info buitton (i) in a dashboard popup.",
+      "message": "자세히 알아보기"
+   },
+   "loading": {
+      "description": "Message shown to user when extension is loading data (upon launch).",
+      "message": "로드 중"
+   },
+   "locating": {
+      "description": "Text displayed instead of public IP address during fetching it via GeoIp service.",
+      "message": "찾는 중"
+   },
+   "location": {
+      "description": "The location the user is connected to. Text to show in the tooltip.",
+      "message": "위치: $DATA$",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "USA, Las Vegas"
+         }
+      }
+   },
+   "make_sure_your_internet_connection_works_properly": {
+      "description": "Message shown to user when extension detects that there is no Internet connection.",
+      "message": "오프라인 상태인 것으로 보입니다. 인터넷 연결이 올바르게 작동되는지 확인하십시오."
+   },
+   "offline": {
+      "description": "Text which is displayed instead of Public IP address when host is offline.",
+      "message": "오프라인"
+   },
+   "optimal_location": {
+      "description": "Used to prepend name of location which is optimal.",
+      "message": "최적의 위치"
+   },
+   "please_try_reinstalling_vpn_product": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "Avast SecureLine VPN 클라이언트를 다시 설치해 보십시오"
+   },
+   "please_try_reinstalling_vpn_product_avast_one": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "Avast One VPN 클라이언트를 다시 설치해 보십시오"
+   },
+   "product_description": {
+      "description": "Extension description.",
+      "message": "진정한 온라인 개인 정보 보호를 위해 버튼 클릭으로 인터넷 연결을 암호화합니다."
+   },
+   "product_name": {
+      "description": "Product name which is used for this application.",
+      "message": "Avast SecureLine VPN"
+   },
+   "promotion_button": {
+      "description": "Button for the promotion text displayed on locations dashboard when the user is on trial.",
+      "message": "프리미엄으로 전환"
+   },
+   "promotion_text": {
+      "description": "Text for the promotion text displayed at the bottom of locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "VPN을 최대한 활용하고 개인정보를 보호하십시오."
+   },
+   "promotion_title": {
+      "description": "Title for the promotion text displayed at the bottom of the on locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "무제한 데이터 및 55개 위치"
+   },
+   "reconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Reconnecting.",
+      "message": "다시 연결 중"
+   },
+   "secure_connection": {
+      "description": "Text displayed on locations dashboard",
+      "message": "안전한 연결"
+   },
+   "see_how": {
+      "description": "Text of the hyperlink with URL of the Help page.",
+      "message": "방법 보기"
+   },
+   "select_location": {
+      "description": "Text displayed on locations dashboard for the user to select a new location.",
+      "message": "위치 선택"
+   },
+   "something_is_not_right": {
+      "description": "Message shown to user when extension detects an error.",
+      "message": "문제가 발생했습니다"
+   },
+   "something_not_right_please_restart": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Avast SecureLine VPN에 문제가 발생했습니다. 컴퓨터를 다시 시작하십시오."
+   },
+   "something_not_right_please_restart_avast_one": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Avast One VPN에 문제가 발생했습니다. 컴퓨터를 다시 시작하십시오."
+   },
+   "this_is_your_current_ip_address": {
+      "description": "Text that appears in a tooltip above current IP address in notification popups.",
+      "message": "현재 IP 주소입니다."
+   },
+   "time_connected": {
+      "description": "The time the user is connected to the VPN. Text to show in the tooltip.",
+      "message": "연결 시간: $TIME$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "01:12:34"
+         }
+      }
+   },
+   "turn_on_vpn_reason": {
+      "description": "Text that appears in the tooltop above the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "현재 IP 주소입니다. 웹사이트가 이 주소를 이용하면 쉽게 사용자를 식별할 수 있습니다. 연결을 비공개로 유지하려면 VPN을 켜십시오."
+   },
+   "update_browser_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update Secure browser.",
+      "message": "이 기능을 사용하려면 Avast Secure Browser를 업데이트해야 합니다."
+   },
+   "update_now": {
+      "description": "Message shown on the button in a popup suggesting user to update browser or VPN client.",
+      "message": "지금 업데이트"
+   },
+   "update_vpn_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "이 기능을 사용하려면 Avast SecureLine VPN 클라이언트를 업데이트해야 합니다."
+   },
+   "update_vpn_product_to_use_this_feature_avast_one": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "이 기능을 사용하려면 Avast One VPN 클라이언트를 업데이트해야 합니다."
+   },
+   "virtual_ip": {
+      "description": "The virtual IP. Text to show in the tooltip.",
+      "message": "새 IP: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12"
+         }
+      }
+   },
+   "virtual_ip_address": {
+      "description": "Text before the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "가상 IP 주소:"
+   },
+   "virtual_ip_address_explanation": {
+      "description": "Text that appears in the tooltop above the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "가상 IP 주소는 다른 사람에게 보이는 주소로, 사용자의 실제 주소는 숨겨지며 트래픽은 암호화됩니다."
+   },
+   "vpn_location": {
+      "description": "Text above the currently selected location in dashboard popup.",
+      "message": "VPN 위치:"
+   },
+   "waiting_for_ip_address_to_be_assigned_to_your_computer": {
+      "description": "Text that appears in the tooltop above the 'Locating...' string at the footer of the dashboard popup.",
+      "message": "컴퓨터에 IP 주소가 할당되기를 기다리는 중입니다."
+   },
+   "you_need_to_update_your_vpn_product_extension": {
+      "description": "Message shown to user when extension suggests user to update VPN extension.",
+      "message": "Avast VPN 확장 기능을 업데이트해야 합니다."
+   },
+   "your_computer_seems_to_be_offline": {
+      "description": "IP Address tooltip text when host is offline.",
+      "message": "컴퓨터가 오프라인 상태로 보입니다"
+   },
+   "your_ip_address": {
+      "description": "Text before the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "IP 주소:"
+   },
+   "your_location_connected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is connected.",
+      "message": "사용자의 위치가 다른 사람에게 다음과 같이 표시됩니다."
+   },
+   "your_location_disconnected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is disconnected.",
+      "message": "위치가 다음과 같이 표시됩니다."
+   }
+}

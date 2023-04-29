@@ -1,0 +1,38 @@
+{
+   "action": {
+      "default_icon": "img/icons/icon16.png",
+      "default_title": "__MSG_ExtName__"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "webstore.js" ],
+      "matches": [ "https://chrome.google.com/webstore/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_ExtShortDesc__",
+   "differential_fingerprint": "",
+   "externally_connectable": {
+      "ids": [ "*" ],
+      "matches": [ "*://*.avastbrowser.com/*", "*://*.avgbrowser.com/*", "*://*.ccleanerbrowser.com/*", "*://*.avast.com/*", "*://*.securebrowser.com/*" ]
+   },
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "img/icons/icon128.png",
+      "16": "img/icons/icon16.png",
+      "48": "img/icons/icon48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvNUhT8/5lI0jgIHkW5TTLrjQIUUQH422BZpQSQIaY5v9oSpXPrqR6/ArjzXHYFn1XGO/Re1wVrLvBN+gOclgT2XA9doCX2rQWqXC5s7CQppGBZq5BtPL/AQZ73JlNYy2cwHNyFpGP8+E6LPxz5bgxPtp02NZE6rGhnA0oimhfiQ//GuS9LI9ww+eu2Kfz69GhdRR4Efdz/kRtRpVPfz0r6FaD0JSA0ZUBxUxQhV7WhQOzRTtThTTmz9ZzP94Kz1ggfh8YkhA5R9G3//znqiFfK/dP1t1rEvFLDYIh63PFdEp00wC8fnbfZ7sq2XfUMKHUgbUcpSED1WoBzlyav6jOQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_ExtName__",
+   "permissions": [ "management", "tabs", "storage", "notifications", "unlimitedStorage", "webNavigation", "webRequest", "scripting", "nativeMessaging", "alarms" ],
+   "version": "1.15.0.468",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "popup.*", "img/logos/*" ]
+   } ]
+}

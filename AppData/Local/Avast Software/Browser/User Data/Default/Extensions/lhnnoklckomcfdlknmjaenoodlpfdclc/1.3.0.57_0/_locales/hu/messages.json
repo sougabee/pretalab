@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Bank mód"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Normál asztal"
+   },
+   "blankButtonDEF": {
+      "message": "Alapértelmezett mód fül újranyitása"
+   },
+   "blankButtonNG": {
+      "message": "Fül újranyitása Védett ablakban"
+   },
+   "blankButtonSZ": {
+      "message": "Vissza a Bank módhoz"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Újrapróbálkozás"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "A SafeZone böngésző várakoztatja ezt a fület, hogy megvédje az esetleges billentyűzetfigyelőktől vagy más rosszindulatú szoftverektől, amelyek a számítógépén rejtőzhetnek."
+   },
+   "blankPageDescDEF": {
+      "message": "A jelenlegi fül nyitva van és elérhető a SafeZone böngésző alapértelmezett módjában."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "A Bank mód betöltése folyamatban van. Kis türelmet."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Kis türelmet. Még néhány másodpercre lesz szükség."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "A Bank mód betöltésekor hiba történt. A folytatáshoz próbálja meg újra betölteni a Bank módot."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Alapértelmezett mód újranyitása"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Újranyitás Védett ablakban"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "A Bank mód várakozik..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Alapértelmezett mód betöltése..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "A Védett ablak betöltése folyamatban van..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "A Bank mód betöltése folyamatban van..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Bank mód"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Ha ez gyakran előfordul, próbálja ki a következő \u003Ca>javaslatokat\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Alapértelmezett mód fül"
+   },
+   "blankPageTitleNG": {
+      "message": "Védett ablak fül"
+   },
+   "blankPageTitleSZ": {
+      "message": "Bank mód fül"
+   },
+   "emptyList": {
+      "message": "A lista üres"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "A webhely már szerepel a listán"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Ez nem egy érvényes URL-cím"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Problémába ütközik a Bank mód elindítésakor? Próbálja újraindítani a böngészőt, vagy ellenőrizze a \u003Ca target='blank' href='$link$'>gyakori kérdéseket\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Bank mód választója"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Bank mód"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Bank mód bekapcsolása"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "A Bank mód beállítása folyamatban van"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "A Bank mód betöltése nem sikerült"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Bank mód kikapcsolása"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "A Bank mód aktív"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Ne mutassa újra ezt az üzenetet"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "A Bank mód megvédi tevékenységeit a billentyűzetfigyelőktől és a kíváncsi szemektől, hogy személyes adatai biztonságban legyenek"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Ugrás a Parancsikonokra"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Bank mód aktiválva"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Új inkognitóablak"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Új Bank mód fül"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Új Védett ablak"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Nem érvényes webcím"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Figyelmen kívül hagyás"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "MEGNYITÁS BANK MÓDBAN"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Ne mutassa többet ezen az oldalon"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "A \u003Cb>Bank mód biztonságosan elszigeteli a vásárlási és banki munkameneteket, hogy megakadályozza a hackereket\u003C/b> az Ön \u003Cb>hitelkártyaszámainak, jelszavainak,\u003C/b> és \u003Cb>egyéb bizalmas adatainak\u003C/b> ellopásában."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Jegyezze meg ezen az oldalon"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Előfordulhat, hogy pénzügyi adatait mások is láthatják."
+   },
+   "openInIncognitoMode": {
+      "message": "Hivatkozás megnyitása inkognitóablakban"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Hivatkozás megnyitása a Bank mód fülön"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Hivatkozás megnyitása a Védett ablak fülön"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Ezt az oldalt automatikusan Bank módban nyitottuk meg, hogy online bankolás közben megvédjük az adatait"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Bezárás"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Ne mutassa újra ezt az üzenetet"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Ez az oldal Bank módban lett megnyitva"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Az oldal mindig Bank módban legyen megnyitva"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "BEZÁRÁS"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "A Bank mód biztonságosan, a billentyűzetfigyelőktől és kíváncsi szemektől védve tárolja a személyes adatait."
+   },
+   "option_switcher_auto": {
+      "message": "Egyéni webhelyek, amelyek automatikusan Bank módra váltanak"
+   },
+   "option_switcher_disabled": {
+      "message": "A Bank mód értesítési üzenetének megjelenítése alól kizárt webhelyek listája"
+   },
+   "option_switcher_hidden": {
+      "message": "A Bank mód értesítő üzenetének letiltása"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "A Védett ablak támogatásának telepítése..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Védje magánszféráját online fizetéskor és online bankoláskor."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Új Bank mód ablak"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Megvédheti a számítógépét, amikor fertőzött webes tartalomhoz fér hozzá."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "További információ"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "A Védett ablak támogatása nem érhető el"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Új Védett ablak"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Webhely hozzáadása"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Ideiglenes szabály hozzáadása"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Webhely szerkesztése"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Ideiglenes szabály szerkesztése"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Webhely"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "hozzáadás"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "A Bank mód automatikus megnyitása a következő webhelyeken"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Mégse"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Pénzügyi adatok védelme az online vásárlás és banki ügyintézés közben"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "A Bank mód értesítési kérdés elrejtése a következő webhelyeken"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Szerkesztés"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "A Bank mód értesítési kérdés megjelenítése a bankok webhelyein"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "megnyitás"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Eltávolítás"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "A Bank mód speciális beállításai"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "BANK MÓD"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>A SafeZone böngésző automatikusan Védett ablakban nyit meg gyanús oldalakat, ezáltal elkülöníti az oldalt a számítógépétől, hogy semmilyen rosszindulatú tartalom ne férjen hozzá.\u003C/p>\u003Cp>Ön a Védett ablakot megnyithatja manuálisan is, ha szeretne láthatatlan maradni, és szeretné, hogy ne maradjon feljegyzés arról, hogy milyen oldalakat keresett fel és milyen fájlokat töltött le.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>A SafeZone böngésző automatikusan Bank módban nyit meg bankolási oldalakat. Ez elkülöníti a munkamenetet, és megvédi Önt az esetleges billentyűzetfigyelőktől vagy más rosszindulatú szoftverektől, amelyek a számítógépén rejtőzhetnek.\u003C/p>\u003Cp>Bank módban nyugodtan elvégezheti az összes pénzügyi tranzakcióját, anélkül, hogy jelszava vagy más személyes adatai veszélyben lennének.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Bank mód"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Bank mód"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Visszaváltás a Bank módra"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Tipp"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "A Bank mód biztonságban tartja a személyes információit a keyloggerektől és más fenyegetésekből, amelyek megbújhatnak a számítógépén"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "További információ"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "Rendben, értem"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Üdvözöljük a Bank módban"
+   }
+}

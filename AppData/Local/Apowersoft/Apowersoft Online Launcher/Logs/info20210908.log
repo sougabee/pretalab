@@ -1,0 +1,6 @@
+﻿2021-09-08 16:58:17,483 [5] INFO  WebSocketServer-4032828 - The server instance WebSocketServer-4032828 has been started!
+2021-09-08 16:58:17,586 [5] INFO  WebSocketServer-12053474 - The server instance WebSocketServer-12053474 has been started!
+2021-09-08 16:58:17,639 [12] INFO  WebSocketServer-12053474 - Session: 94b61754-15ef-4c8a-bfc2-3e09e7ac30dc/127.0.0.1:59609
+A new session connected!
+2021-09-08 16:58:24,496 [12] INFO  WebSocketServer-12053474 - Session: 94b61754-15ef-4c8a-bfc2-3e09e7ac30dc/127.0.0.1:59609
+This session was closed for ClientClosing!

@@ -1,0 +1,374 @@
+{
+   "activate_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "Da biste koristili tu značajku, morate aktivirati Avast SecureLine VPN."
+   },
+   "activate_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "Da biste koristili tu značajku, morate aktivirati Avast One VPN."
+   },
+   "connected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connected.",
+      "message": "Povezani ste"
+   },
+   "connecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connecting.",
+      "message": "Povezivanje"
+   },
+   "connection_failed": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connection failed.",
+      "message": "Veza nije uspjela"
+   },
+   "connection_status_connected_text": {
+      "description": "Text displayed on locations dashboard when the user is connected.",
+      "message": "Veza je šifrirana, a lokacija skrivena."
+   },
+   "connection_status_connected_title": {
+      "description": "Title displayed on locations dashboard when the user is connected. (Please use short text in the marker html code)",
+      "message": "Vaš je VPN \u003Cspan class=\"marker-green\">aktivan\u003C/span>"
+   },
+   "connection_status_disconnected_free_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.",
+      "message": "Iskoristite do \u003Cb>5 GB\u003C/b> VPN zaštite prilikom pregledavanja interneta \u003Cb>besplatno\u003C/b>"
+   },
+   "connection_status_disconnected_free_title": {
+      "description": "Title displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.  (Please use short text in the marker html code)",
+      "message": "Napredna \u003Cspan class=\"marker-orange\">zaštita\u003C/span> prilikom pregledavanja interneta"
+   },
+   "connection_status_disconnected_text": {
+      "description": "Text displayed on locations dashboard when the user is disconnected.",
+      "message": "Veza nije šifrirana i lokacija nije skrivena."
+   },
+   "connection_status_disconnected_title": {
+      "description": "Title displayed on locations dashboard when the user is disconnected. (Please use short text in the marker html code)",
+      "message": "Vaš VPN \u003Cspan class=\"marker-red\">nije aktivan\u003C/span>"
+   },
+   "connection_status_limit_reached_promotion_list_item_1": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 1",
+      "message": "Potpuna privatnost na internetu pomoću samo jednog klika"
+   },
+   "connection_status_limit_reached_promotion_list_item_2": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 2",
+      "message": "Sigurno povezivanje uz VPN 24 sata dnevno, 7 dana u tjednu"
+   },
+   "connection_status_limit_reached_promotion_list_item_3": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 3",
+      "message": "Otkrijte ako dođe do proboja lozinki"
+   },
+   "connection_status_limit_reached_promotion_text": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "Više privatnosti i zaštite na bilo kojem mjestu, uz internetski prijenos sadržaja, dobivate u premium pretplati s neograničenim VPN-om."
+   },
+   "connection_status_limit_reached_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "Iskoristili ste sav besplatni VPN koji ste imali ovaj tjedan."
+   },
+   "connection_status_limit_reached_title": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit. (Please use short text in the marker html code)",
+      "message": "\u003Cspan class=\"marker-orange\">Dostigli ste\u003C/span> ograničenje"
+   },
+   "disconnected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnected.",
+      "message": "Niste povezani"
+   },
+   "disconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnecting.",
+      "message": "Prekidanje veze"
+   },
+   "dismiss": {
+      "description": "Caption on the button displayed on the error notification view.",
+      "message": "Odbaci"
+   },
+   "extension_icon_overlay_text_connected": {
+      "description": "Extension icon tooltip text in connected state.",
+      "message": "Avast SecureLine VPN – povezano"
+   },
+   "extension_icon_overlay_text_connecting": {
+      "description": "Extension icon tooltip text in connecting state.",
+      "message": "Avast SecureLine VPN – povezivanje"
+   },
+   "extension_icon_overlay_text_disconnected": {
+      "description": "Extension icon tooltip text in disconnected state.",
+      "message": "Avast SecureLine VPN – nije povezano"
+   },
+   "extension_icon_overlay_text_disconnecting": {
+      "description": "Extension icon tooltip text in disconnecting state.",
+      "message": "Avast SecureLine VPN – prekidanje veze u tijeku"
+   },
+   "extension_icon_overlay_text_reconnecting": {
+      "description": "Extension icon tooltip text in reconnecting state.",
+      "message": "Avast SecureLine VPN – ponovno povezivanje"
+   },
+   "fastest_location": {
+      "description": "Text displayed on main dashboard if the user selected the optimal location.",
+      "message": "Najbrža lokacija"
+   },
+   "free_data_allowed_day": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ dnevno",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_month": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ mjesečno",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_week": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ tjedno",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_year": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ godišnje",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_free": {
+      "description": "Text on top of the bar with the free data displayed in locations dashboard when the user is on trial.",
+      "message": "Besplatni VPN podaci"
+   },
+   "free_data_renew_in": {
+      "description": "Text on top of the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "Obnavlja se za sljedeći broj dana: $DAYS$",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "free_data_used": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "Iskorišteno je $DATA$",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "if_that_does_not_work_try_reinstalling_browser_product": {
+      "description": "Message shown to user when extension suggests user to reinstall Secure browser.",
+      "message": "Ako to ne pomogne, pokušajte ponovno instalirati Avast Secure Browser"
+   },
+   "information": {
+      "description": "Text to show in the tooltip.",
+      "message": "Informacije"
+   },
+   "install_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "Da biste koristili tu značajku, morate instalirati najnoviji Avast SecureLine VPN."
+   },
+   "install_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "Da biste koristili tu značajku, morate instalirati najnoviji Avast One"
+   },
+   "ip_address": {
+      "description": "The real IP of the user. Text to show in the tooltip.",
+      "message": "Izvorni IP: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12 "
+         }
+      }
+   },
+   "ip_info_connected": {
+      "description": "Text after the selected location when the user is connected.",
+      "message": "Vaša je privatnost zaštićena."
+   },
+   "ip_info_disconnected": {
+      "description": "Text after the selected location when the user is disconnected.",
+      "message": "Uključite VPN da biste šifrirali ono što pregledavate na internetu"
+   },
+   "learn_more": {
+      "description": "Text that appears in a tooltip above Info buitton (i) in a dashboard popup.",
+      "message": "Saznajte više"
+   },
+   "loading": {
+      "description": "Message shown to user when extension is loading data (upon launch).",
+      "message": "Učitavanje"
+   },
+   "locating": {
+      "description": "Text displayed instead of public IP address during fetching it via GeoIp service.",
+      "message": "Traženje lokacije"
+   },
+   "location": {
+      "description": "The location the user is connected to. Text to show in the tooltip.",
+      "message": "Lokacija: $DATA$",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "USA, Las Vegas"
+         }
+      }
+   },
+   "make_sure_your_internet_connection_works_properly": {
+      "description": "Message shown to user when extension detects that there is no Internet connection.",
+      "message": "Čini se da ste izvan mreže. Provjerite funkcionira li internetska veza pravilno."
+   },
+   "offline": {
+      "description": "Text which is displayed instead of Public IP address when host is offline.",
+      "message": "Izvanmrežno"
+   },
+   "optimal_location": {
+      "description": "Used to prepend name of location which is optimal.",
+      "message": "Optimalna lokacija"
+   },
+   "please_try_reinstalling_vpn_product": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "Pokušajte ponovno instalirati klijent za Avast SecureLine VPN"
+   },
+   "please_try_reinstalling_vpn_product_avast_one": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "Pokušajte ponovno instalirati klijent Avast One VPN"
+   },
+   "product_description": {
+      "description": "Extension description.",
+      "message": "Internetsku vezu šifrira klikom na gumb te omogućuje pouzdanu zaštitu privatnosti na internetu."
+   },
+   "product_name": {
+      "description": "Product name which is used for this application.",
+      "message": "Avast SecureLine VPN"
+   },
+   "promotion_button": {
+      "description": "Button for the promotion text displayed on locations dashboard when the user is on trial.",
+      "message": "Prijeđi na premium pretplatu"
+   },
+   "promotion_text": {
+      "description": "Text for the promotion text displayed at the bottom of locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "Potpuno iskoristite VPN i poboljšajte zaštitu privatnosti."
+   },
+   "promotion_title": {
+      "description": "Title for the promotion text displayed at the bottom of the on locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "Neograničeni podaci i 55 lokacija"
+   },
+   "reconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Reconnecting.",
+      "message": "Ponovno povezivanje"
+   },
+   "secure_connection": {
+      "description": "Text displayed on locations dashboard",
+      "message": "SIGURNA VEZA"
+   },
+   "see_how": {
+      "description": "Text of the hyperlink with URL of the Help page.",
+      "message": "pogledajte kako"
+   },
+   "select_location": {
+      "description": "Text displayed on locations dashboard for the user to select a new location.",
+      "message": "Odaberite lokaciju"
+   },
+   "something_is_not_right": {
+      "description": "Message shown to user when extension detects an error.",
+      "message": "Nešto nije u redu"
+   },
+   "something_not_right_please_restart": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Nešto nije u redu s aplikacijom Avast SecureLine VPN. Ponovno pokrenite računalo."
+   },
+   "something_not_right_please_restart_avast_one": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Nešto nije u redu s aplikacijom Avast One VPN. Ponovno pokrenite računalo."
+   },
+   "this_is_your_current_ip_address": {
+      "description": "Text that appears in a tooltip above current IP address in notification popups.",
+      "message": "Ovo je vaša trenutna IP adresa."
+   },
+   "time_connected": {
+      "description": "The time the user is connected to the VPN. Text to show in the tooltip.",
+      "message": "Povezani ste $TIME$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "01:12:34"
+         }
+      }
+   },
+   "turn_on_vpn_reason": {
+      "description": "Text that appears in the tooltop above the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "Ovo je vaša trenutna IP adresa. Web-mjesta je mogu koristiti da bi vas jednostavno prepoznala. Uključite VPN da bi vaša veza bila privatna."
+   },
+   "update_browser_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update Secure browser.",
+      "message": "Da biste koristili tu značajku, morate instalirati najnoviji Avast Secure Browser."
+   },
+   "update_now": {
+      "description": "Message shown on the button in a popup suggesting user to update browser or VPN client.",
+      "message": "ažuriraj odmah"
+   },
+   "update_vpn_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "Da biste koristili tu značajku, morate instalirati najnoviji klijent za Avast SecureLine VPN."
+   },
+   "update_vpn_product_to_use_this_feature_avast_one": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "Da biste koristili tu značajku, morate ažurirati klijent Avast One VPN."
+   },
+   "virtual_ip": {
+      "description": "The virtual IP. Text to show in the tooltip.",
+      "message": "Novi IP: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12"
+         }
+      }
+   },
+   "virtual_ip_address": {
+      "description": "Text before the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "Virtualna IP adresa:"
+   },
+   "virtual_ip_address_explanation": {
+      "description": "Text that appears in the tooltop above the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "Virtualna IP adresa prikazuje adresu koju druga web-mjesta vide, što znači da je vaša prava lokacija skrivena, a promet šifriran."
+   },
+   "vpn_location": {
+      "description": "Text above the currently selected location in dashboard popup.",
+      "message": "VPN lokacija:"
+   },
+   "waiting_for_ip_address_to_be_assigned_to_your_computer": {
+      "description": "Text that appears in the tooltop above the 'Locating...' string at the footer of the dashboard popup.",
+      "message": "Čekanje dodjele IP adrese računalu."
+   },
+   "you_need_to_update_your_vpn_product_extension": {
+      "description": "Message shown to user when extension suggests user to update VPN extension.",
+      "message": "Morate ažurirati proširenje Avast VPN."
+   },
+   "your_computer_seems_to_be_offline": {
+      "description": "IP Address tooltip text when host is offline.",
+      "message": "Čini se da vaše računalo nije povezano s mrežom"
+   },
+   "your_ip_address": {
+      "description": "Text before the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "Vaša IP adresa:"
+   },
+   "your_location_connected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is connected.",
+      "message": "Vaša se lokacija sada drugima prikazuje na sljedeći način:"
+   },
+   "your_location_disconnected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is disconnected.",
+      "message": "Lokacija će se prikazati na sljedeći način:"
+   }
+}

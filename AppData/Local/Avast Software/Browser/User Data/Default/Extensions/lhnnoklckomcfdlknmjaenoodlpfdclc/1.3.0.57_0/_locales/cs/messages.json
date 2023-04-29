@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Platební režim"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Standardní plocha"
+   },
+   "blankButtonDEF": {
+      "message": "Znovu otevřít list Výchozího režimu"
+   },
+   "blankButtonNG": {
+      "message": "Otevřít list znovu v Chráněném okně"
+   },
+   "blankButtonSZ": {
+      "message": "Chci zpět do Platebního režimu"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Zkusit znovu"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "SafeZone prohlížeč pozastavil tento list, aby jej ochránil před případnými programy zachytávajícími stisknuté klávesy, které by se mohly skrývat na vašem počítači."
+   },
+   "blankPageDescDEF": {
+      "message": "Tento list je otevřený a dostupný ve Výchozím režimu SafeZone prohlížeče"
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Platební režim se spouští. Vyčkejte prosím..."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Vyčkejte prosím ještě několik sekund..."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Při spouštění Platebního režimu došlo k chybě. Zkuste prosím spustit Platební režim ještě jednou."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Znovu otevřít Výchozí režim"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Otevřít znovu v Chráněném okně"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Platební režim je pozastaven"
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Spouštím Výchozí režim..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Chráněné okno se spouští..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Platební režim se spouští..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Platební režim"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Pokud se tento problém objevuje častěji, zkuste prosím následující \u003Ca>doporučení\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "List Výchozího režimu"
+   },
+   "blankPageTitleNG": {
+      "message": "List Chráněného okna"
+   },
+   "blankPageTitleSZ": {
+      "message": "List Platebního režimu"
+   },
+   "emptyList": {
+      "message": "Seznam je prázdný"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Tato stránka je už na seznamu"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Toto není platná adresa URL"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Máte problém se spouštěním Platebního režimu? Zkuste restartovat svůj prohlížeč nebo se podívejte na \u003Ca target='blank' href='$link$'>časté otázky\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Přepínač platebního režimu"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Platební režim"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Zapnout Platební režim"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Platební režim se nastavuje"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Nepodařilo se spustit Platební režim"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Vypnout Platební režim"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Platební režim je aktivní"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Toto okno již příště nezobrazovat"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Platební režim vás chrání před špehováním a odchytáváním klávesnice a udržuje tak vaše osobní data v bezpečí"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Přejít na zástupce"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Platební režim je aktivní"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Nové Anonymní okno"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Nové okno Platebního režimu"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Nové Chráněné okno"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Nejedná se o platnou webovou adresu"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ignorovat"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "OTEVŘÍT V PLATEBNÍM REŽIMU"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Na této stránce znovu nezobrazovat"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Platební režim bezpečně izoluje vaše nakupování a používání internetového bankovnictví od ostatních aktivit,\u003C/b> aby vám hackeři nemohli ukrást \u003Cb>čísla platebních karet, hesla\u003C/b> či \u003Cb>jiné soukromé údaje\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Zapamatovat si pro tuto stránku"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Ostatní uživatelé mohou vidět vaše finanční údaje."
+   },
+   "openInIncognitoMode": {
+      "message": "Otevřít odkaz v Anonymním okně"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Otevřít odkaz v Platebním režimu"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Otevřít odkaz v Chráněném okně"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Tuto stránku jsme automaticky otevřeli v Platebním režimu, abychom chránili vaše soukromí v elektronickém bankovnictví"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Zavřít"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Toto okno již příště nezobrazovat"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Tato stránka byla otevřena v platebním režimu"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Tuto stránku vždy otevírat v platebním režimu"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "ZAVŘÍT"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Platební režim chrání vaše osobní údaje přes odposlechem a slídily."
+   },
+   "option_switcher_auto": {
+      "message": "Váš seznam stránek, pro které se má automaticky přepínat do Platebního režimu"
+   },
+   "option_switcher_disabled": {
+      "message": "Seznam stránek, pro které se nemá zobrazovat upozornění na Platební režim"
+   },
+   "option_switcher_hidden": {
+      "message": "Vypnout upozorňování na Platební režim"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Instaluji podporu pro Chráněná okna..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Chraňte své soukromí při online nakupování a v internetovém bankovnictví"
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Nový list Platebního režimu"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Chraňte svůj počítač při přístupu na infikované webové stránky"
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Více informací"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Podpora pro Chráněná okna není dostupná"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Nové Chráněné okno"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Přidat web"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Přidat dočasné pravidlo"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Upravit web"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Upravit dočasné pravidlo"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Web"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "přidat"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Automaticky aktivovat Platební režim na následujících webových stránkách"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Storno"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Chránit mé finanční údaje při online nakupování a používání internetového bankovnictví"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Nezobrazovat výzvu k aktivaci Platebního režimu na následujících stránkách"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Upravit"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Zobrazovat výzvu k aktivaci platebního režimu na bankovních stránkách"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "otevřít"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Odebrat"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Pokročilá nastavení Platebního režimu"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "PLATEBNÍ REŽIM"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone prohlížeč automaticky otvírá všechny podezřelé stránky v Chráněném okně, izoluje tyto stránky od zbytku systému a brání tak infekci škodlivým kódem.\u003C\\/p>\u003Cp>Můžete Chráněné okno spustit také ručně a udělat se tak neviditelným při procházení Internetu - nezůstanou žádné záznamy o stránkách, které jste navštívili, nebo o souborech, které jste stáhnuli.\u003C\\/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone prohlížeč automaticky otvírá všechny bankovní stránky v Platebním režimu. Tím je izoluje a chrání před případnými programy zachytávajícími stisknuté klávesy nebo před jiným škodlivým kódem, který se může skrývat na vašem počítači.\u003C\\/p>\u003Cp>V Platebním režimu můžete provádět veškeré finanční operace bez obav z toho, že by vaše hesla nebo osobní údaje mohly být ukradeny.\u003C\\/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Platební režim"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Platební režim"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Přepnout zpět do Platebního režimu"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Tip"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Platební režim udržuje vaše osobní údaje v bezpečí před odchytáváním klávesnice a před dalšími hrozbami, které se mohou skrývat ve vašem počítači"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Více informací"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "Rozumím"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Vítejte v Platebním režimu"
+   }
+}

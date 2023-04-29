@@ -1,0 +1,813 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaraConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AppSettings>
+    <AppSetting Name="CTQEndpoint" Value="https://configure.office.com/sara/CTQ" />
+    <AppSetting Name="CTQMethod" Value="GET" />
+    <AppSetting Name="SelfValidationEnabled" Value="true" />
+    <AppSetting Name="LoggerEnabled" Value="true" />
+    <AppSetting Name="LogDirectory" Value="SaRALogs" />
+    <AppSetting Name="MaxLogDirectorySize" Value="8388608" />
+    <AppSetting Name="MaxLogFileSize" Value="2097152" />
+    <AppSetting Name="LogLevel" Value="Info" />
+    <AppSetting Name="HRCLogLevel" Value="Info" />
+    <AppSetting Name="SonarMiniDumpDirectoryName" Value="Dumps" />
+    <AppSetting Name="SonarMaxMiniDumpDirectorySize" Value="8388608" />
+    <AppSetting Name="SonarHangDetectionTimeout" Value="5000" />
+    <AppSetting Name="TDSWebApi" Value="https://tds.configure.office.com/api/" />
+    <AppSetting Name="TDSServiceApi" Value="https://asl.configure.office.com/api/" />
+    <AppSetting Name="SaraServiceApi" Value="https://api.diagnostics.office.com/" />
+    <AppSetting Name="SaraServiceBasicApi" Value="https://apibasic.diagnostics.office.com/" />
+    <AppSetting Name="TDSUnAuthWebApi" Value="https://unauthhrc1.cloudapp.net/api/" />
+    <AppSetting Name="UploadFlags" Value="FeedbackUpload;AnalyzerUpload;FrameworkTelemetryUpload" />
+    <AppSetting Name="ApplicationId" Value="d3590ed6-52b3-4102-aeff-aad2292ab01c" />
+    <AppSetting Name="EmailAccountTypeServiceUrl" Value="https://odc.officeapps.live.com/odc/v2.1/idp?hm=0&amp;emailAddress={0}" />
+    <AppSetting Name="ConfigServiceUrl" Value="https://odc.officeapps.live.com/odc/v2.1/federationProvider?domain={0}" />
+    <AppSetting Name="RequestUrl" Value="https://login.windows.net/common/oauth2/token" />
+    <AppSetting Name="GallatinEnvironmentUrl" Value="partner.microsoftonline.cn" />
+    <AppSetting Name="BlackForestEnvironmentUrl" Value="microsoftonline.de" />
+    <AppSetting Name="Resource" Value="https://api.diagnostics.office.com" />
+    <AppSetting Name="EmailPreCheckSuffix" Value="gmail;yahoo;verizon;aol;zoho;mail;yandex;inbox;gmx;icloud" />
+    <AppSetting Name="UserCredsCachingNotSupported" Value="hotmail;outlook;live;msn" />
+    <AppSetting Name="TimeToWaitForStatusText" Value="30000" />
+    <AppSetting Name="DataInsightsEnabled" Value="Dev;Spa;Spb;PROD;MSIT" />
+    <AppSetting Name="DIEndPointUrl_Prod" Value="https://sine.xsi.outlook.com:10201/ss/dcs" />
+    <AppSetting Name="DIEndPointUrl_Sdf" Value="https://sine.xsibeta.outlook.com:10201/ss/dcs" />
+    <AppSetting Name="WfsDiagnosticServiceApi" Value="https://wfsservice-web.cloudapp.net/" />
+    <AppSetting Name="UserAuthenticationMethod" Value="OAuth,Basic" />
+    <AppSetting Name="SaraTTWConfigEndpoint" Value="https://hrcppestorageprod.blob.core.windows.net/sarattw/TTWConfig.xml" />
+    <AppSetting Name="AutoExitEnabled" Value="true" />
+    <AppSetting Name="MsftSupportMode" Value="Prod:AdminPortal" />
+    <AppSetting Name="DefaultSupportModeSaraScenario" Value="OutlookEtwCollectionScenario" />
+    <AppSetting Name="ConfigurationTemplateUrl" Value="https://offcatedgeendpoint.azureedge.net/office/scripts/offcatviewertemplate.html" />
+    <AppSetting Name="OfficeSetupInstallationDeepLink" Value="http://aka.ms/sara-officeinstall" />
+    <AppSetting Name="OfficeActivationDeepLink" Value="http://aka.ms/sara-officeactivation-dl" />
+    <AppSetting Name="SaraClientConfigAppName" Value="SaraClient" />
+    <AppSetting Name="SaraServiceAPIMUrlPROD" Value="https://sara.api.support.microsoft.com" />
+    <AppSetting Name="SaraServiceAPIMSubsKeyPROD" Value="d55844d5-95e5-48e7-a840-5b26b8bc3e57" />
+    <AppSetting Name="SaraClientConfigApplicationIdPROD" Value="e3593b48-f082-4b63-aad3-f35652f0f9b8" />
+    <AppSetting Name="SaraServiceAPIMUrlPPE" Value="https://sara.api-ppe.support.microsoft.com" />
+    <AppSetting Name="SaraServiceAPIMSubsKeyPPE" Value="bf302fd39be54bc3b351fc91d55dc883" />
+    <AppSetting Name="SaraClientConfigApplicationIdPPE" Value="e214fb82-62a6-4cf6-8409-e390b65b9a39" />
+    <AppSetting Name="SaraServiceAPIMUrlDEV" Value="https://sara.api-dev.support.microsoft.com" />
+    <AppSetting Name="SaraServiceAPIMSubsKeyDEV" Value="a9f85342955f4cc999a9312d53196260" />
+    <AppSetting Name="SaraClientConfigApplicationIdDEV" Value="1f82627e-762a-4201-bc8a-9d293a357c12" />
+  </AppSettings>
+  <Symptoms>
+    <Symptom Id="581110d2-e32c-4682-b5a6-1d7b2f286de6" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Office.UIPlugin.OfficeSetupScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OfficeSetupScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;consumer" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOffice</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/sara-officeactivation-dl" Id="c3fc7dbb-8ec7-4ca2-9df6-5108e5bcd16c" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Office.UIPlugin.OfficeActivationScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OfficeActivationScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;consumer" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOffice</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/sara-officeuninstall" Id="3a1b3aa0-0969-4860-a9b8-ad13e3c81cf8" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Office.UIPlugin.OfficeScrubScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OfficeScrubScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;consumer" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage,ContinueOnAuthFailure">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOffice</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="897f83dd-4ed5-4d7b-a6df-8d0e2de34389" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Sdp.UIPlugin.SdpIntegrationScenario" AdminTask="true" SuppressFeedback="true" HideInSymptomPage="true" LocalizationKey="SdpIntegrationScenario" Suffix="Beta" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;consumer" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>SDP</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="dcda66cb-2253-441f-a9a8-997336a27b87" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Office.UIPlugin.ProjectSetupScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="ProjectSetupScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOffice</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="62fcc54b-f44f-4e05-b6b2-88473a15ddbb" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Office.UIPlugin.VisioSetupScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="VisioSetupScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOffice</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="https://aka.ms/SaRA_OfficeSCA" Id="1a91e3d0-0118-4f20-b201-8c7f54c4fbb9" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Office.UIPlugin.OfficeSharedComputerScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OfficeSharedComputerScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOffice</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="https://aka.ms/SaRA-OfficeSignIn" Id="2a490a7b-b194-4354-b134-8af569395d05" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Office.UIPlugin.OfficeSignInScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OfficeSignInScenario" Suffix="New" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOffice</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/sara-olkstart" Id="973896d1-4468-4d21-9b26-80378fa823ed" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookHangScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OlkFailedToStart" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="ContinueOnAuthFailure">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/sara-outprof" Id="67c3ac52-91bd-4ee5-a98b-62b4757018a3" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookProfilesCreateScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="CannotSetupOutlookProfile" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="ContinueOnAuthFailure">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+        <PlatformProduct>
+          <Platform>MacDesktop</Platform>
+          <Product>MacOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="719fb9ae-45d1-4dad-9b16-dfc5d4d2ad74" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.AuthenticationCheckScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="AuthenticationCheck" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="ContinueOnAuthFailure">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct LocalizationKey="AuthenticationCheck_WinOutlook">
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="b4ed2193-bf5f-48f4-a925-0fd7e2559e10" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.MobileAuthenticationCheckScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="MobileAuthenticationCheck" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="ContinueOnAuthFailure">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct LocalizationKey="AuthenticationCheck_MacOutlook">
+          <Platform>MacDesktop</Platform>
+          <Product>MacOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+        <PlatformProduct LocalizationKey="AuthenticationCheck_EAS">
+          <Platform>WindowsDesktop</Platform>
+          <Product>EAS</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/sara-outcon" Id="a1fa31d8-0539-4ead-a55f-91000033cb81" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookConnectivityScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OutlookConnectivity" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="ContinueOnAuthFailure">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/SaRA-TeamsAddInScenario" Id="a722f14c-b8d8-4235-8f35-ba6566cdbfd2" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.TeamsDiagnostics.UIPlugin.TeamsAddInScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="TeamsAddInScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/SaRA-TeamsPresenceScenario" Id="a06057b5-5255-49c6-8d91-e28d1911dc7f" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.TeamsDiagnostics.UIPlugin.TeamsPresenceScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="TeamsPresenceScenario" Suffix="New" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="2f22dded-9518-4868-b017-5ef963e4e307" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.SharedMailboxScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="SharedMailboxScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="3e5ca427-55b0-4f14-9377-4c4469377698" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.SharedCalendarScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="SharedCalendarScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="6a833966-0cfe-46e5-8136-3cf7350bdc62" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.RBAScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="RBAScenario" Suffix="Beta" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="8060b3dd-5f11-4894-b806-34813f827c0b" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookMissedMeetingScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OutlookMissedMeetingScenario" Suffix="Beta" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="9d5e78b5-1b4e-4f99-a4ad-da01012bed48" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookUpdateScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OutlookUpdateScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="9686dfcd-281a-46ec-b08b-f2f711826b45" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.ResumeOutlookUpdateScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OutlookResumeUpdateScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="c060664a-66e6-4b81-a595-780fa0db1bbf" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.MailStuckInOutboxScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="MailStuckInOutbox" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="a2a742b3-a0fb-4cfc-98dd-f4159e7f8a86" Enabled="false" WizardScenario="Microsoft.Sara.Framework.Common.UICore.BuiltIns.NewFeatureRequestScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="NewFeatureRequest" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>NA</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="7a6fe09d-3fa2-4a04-8123-4943cab122d4" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookConsumerUserMigrationScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="ConsumerUserMigrationScenario" Suffix="Beta" Actionable="true" Groups="Dev" SupportedEnvironmentType="consumer" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="6e463087-e841-45e4-b568-75fbbdf89dab" Enabled="false" WizardScenario="Microsoft.Sara.Framework.Sample.UIPlugin.SampleWizardScenario1" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="SampleWizardScenario1" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>NA</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="e03b06ee-9fb2-4354-bb4f-69e5a4afc68a" Enabled="false" WizardScenario="Microsoft.Sara.Framework.Sample.UIPlugin.SampleWizardScenario2" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="SampleWizardScenario2" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>NA</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="a6e8121e-1777-4ad1-8136-3d8f3ffc8c84" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Mobile.UIPlugin.MobileConnectivityScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="MobileConnectivity" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>EAS</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="63660709-a334-40d7-9a6a-95be112e49ff" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookCalendaringScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="CalendaringScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="1b401c7b-7d35-4f50-a7a4-605d2bbc55a4" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.RecoverDeletedItemsScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="RecoverDeletedItemsScenario" Suffix="Beta" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="70600dd4-4646-47e9-9906-f8a6c959ac30" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookFreeBusyScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="FreeBusyScenario" Suffix="Beta" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="463b9e4d-9b4c-4317-8665-b55387f5bccd" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Owa.UIPlugin.OwaAuthScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OwaAuthScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>Web</Platform>
+          <Product>OWA</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="48ef8aa3-3d1a-4c98-a991-a2fd6f2a6063" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Owa.UIPlugin.OwaUrlScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OwaUrlScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>Web</Platform>
+          <Product>OWA</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="1ae4571c-46c4-11e5-8b28-c38e1d5d46b0" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookDelegateScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="DelegateScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+        <PlatformProduct>
+          <Platform>MacDesktop</Platform>
+          <Product>MacOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="14211d0a-fbb1-4db8-948d-82df56550822" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.O16UpgradeIssuesScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="O16UpgradeIssuesScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="e41da429-1d08-43ec-803f-eaad1a49aeaa" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookHangCrashScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OlkHangScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="3fc77d52-b4bd-4380-b1ad-9533f1591a4f" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookCrashScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OlkCrashScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="9b2014d0-7621-4679-a3bd-2f79cc691432" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookKnownCrashScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OlkCrashScenario" Suffix="New" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="af07ead1-07a2-416e-9b4d-0e2c365d6553" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.MailflowScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="MailflowScenario2" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="d8d93051-30a5-4a9b-91cf-73991402ded8" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.MessagesSentToMeNeverReceivedScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="MessagesSentToMeNeverReceived" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="b0aa9f5d-d9d0-4d40-bc5e-e69355a6c106" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.MessagesSentTakeTooLongScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="MessagesSentTakeTooLong" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="bc9416c7-7ec7-46a7-8fc4-ecb9dc10a62e" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.MessagesSentToMeTakeTooLongToArriveScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="MessagesSentToMeTakeTooLongToArrive" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="8c26c7bd-6816-4cc7-af09-1b338069aa7a" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.SentMessageNeverReceivedScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="SentMessageNeverReceived" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="41f334d9-42da-45be-b559-14551d0c11bf" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Owa.UIPlugin.OwaSharedMailboxScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OwaSharedMailboxScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>Web</Platform>
+          <Product>OWA</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+        <PlatformProduct>
+          <Platform>MacDesktop</Platform>
+          <Product>MacOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="501dcc29-55c7-4aaa-b305-6fbee7629453" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Owa.UIPlugin.OwaSharedCalendarScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OwaSharedCalendarScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>Web</Platform>
+          <Product>OWA</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+        <PlatformProduct>
+          <Platform>MacDesktop</Platform>
+          <Product>MacOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="e164b447-1eef-46b7-8727-725145b02b74" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.CannotReceiveMailsScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="CannotReceiveMails" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/sara-mailflow" Id="168bb7de-182a-4e11-bff6-ff291df7d0b0" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookMailFlowScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="MailFlowScenario" Suffix="NotAssigned" Actionable="true" Groups="Dev;Spa;Spb;PROD;SOC;SCM" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="b89fd335-a401-4033-b5bb-79078a8170c1" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.SkypeForBusinessDiagnostics.UIPlugin.SfbSignInScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="SfbSignInScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>SkypeForBusiness</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="3fdaefdd-8af6-41d8-8681-21b55960bd4b" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.MacOutlook.UIPlugin.MacOlkConnectivityScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="MacOlkConnectivityScenario" Suffix="Beta" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>MacDesktop</Platform>
+          <Product>MacOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/SaRA-WindowsActivation" Id="6253bbd9-0b85-480c-a4f5-cfc6ec9ee8a5" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.WindowsDiagnostics.UIPlugin.WindowsActivationScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="WindowsActivationScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>Windows</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/SaRA-ADReplication" Id="6ab366b0-d264-40c8-b10e-ea9f0fab4ab5" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.WindowsDiagnostics.UIPlugin.ADReplicationScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="ADReplicationScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="true" SymptomFlags="DontShowCredentialsPage,ContinueOnAuthFailure">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>Windows</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/SaRA-TeamsAddInScenario" Id="7deb9e4f-b4ca-48c4-aa75-f21b4b25b888" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.TeamsDiagnostics.UIPlugin.TeamsAddInScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="TeamsAddInScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>Teams</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/SaRA-TeamsPresenceScenario" Id="dd68ab35-cd1a-4471-9420-81d8f006e813" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.TeamsDiagnostics.UIPlugin.TeamsPresenceScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="TeamsPresenceScenario" Suffix="New" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>Teams</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/SaRA-TeamsAlchemyInsightScenario" Id="056901bd-4871-43c0-8482-2fb0c50d51ed" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.TeamsDiagnostics.UIPlugin.TeamsAlchemyInsightScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="TeamsAlchemyInsightScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="true" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>Teams</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/SaRA-DafProxyScenario" Id="6b7c92cd-38e8-4e0c-83de-bba2362684dc" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.DafProxyDiagnostics.UIPlugin.DafProxySurfaceScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="DafProxySurfaceScenario" Suffix="New" Actionable="true" Groups="Dev" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>EAS</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="8ccfa459-b191-4b68-bcd0-b3e125116214" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.CRMOnline.UIPlugin.CRMOLConfigScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="CRMOLConfigScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>CRMOnline</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="0d664cd1-c9a5-4b5a-956e-0388ee34bc60" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.CRMOnline.UIPlugin.CRMOLAuthScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="CRMOLAuthScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>CRMOnline</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="7f8407ef-7c28-4918-a719-5cb109e4c110" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookSupportWorkflowScenario" AdminTask="true" SuppressFeedback="true" HideInSymptomPage="false" LocalizationKey="SupportWorkflowTask" Suffix="Beta" Actionable="true" Groups="Spa;Spb;Dev" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>OutlookConfiguration</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="3333c65c-26f5-4e25-8c56-c9af874886a0" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.AutodiscoverAdminScenario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="AutodiscoverAdminTask" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>EXO</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/sara-expexp" Id="e9c2956d-b0c6-4a64-8c38-eceb30db280e" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookAdminExpertExperienceScenario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="ExpertExperienceAdminTask" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem;consumer" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage,AuthToUploadLogs,DontUploadIfConsumer">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>OutlookConfiguration</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/sara-calcheck" Id="472dab1a-3794-4f6f-8f77-65d51b6475ca" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookCalendarCheckScenario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OutlookCalendarCheckTask" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365;hybridonprem;consumer" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage,AuthToUploadLogs,DontUploadIfConsumer">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>OutlookConfiguration</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/sara-roiscannormal" Id="e4b19ebf-f33c-4dda-a343-6900add1d78b" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Office.UIPlugin.RoiScanNormalScenario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="RoiScanAdminNormalTask" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem;consumer" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage,AuthToUploadLogs,DontUploadIfConsumer">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOffice</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="http://aka.ms/sara-roiscanfull" Id="7110eb54-463b-4874-aeb6-568870df19ae" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Office.UIPlugin.RoiScanFullScenario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="RoiScanAdminFullTask" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem;consumer" SuppressAffectedMachinePrompt="false" SymptomFlags="DontShowCredentialsPage,AuthToUploadLogs,DontUploadIfConsumer">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOffice</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom DeeplinkUrl="https://aka.ms/SaRA-OfficeVNextDiag" Id="14273bd1-6151-4c41-8caa-1ac1cda67697" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Office.UIPlugin.OfficeVNextDiagRunScenario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OfficeVNextDiagRunTask" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem;consumer" SuppressAffectedMachinePrompt="true" SymptomFlags="DontShowCredentialsPage,AuthToUploadLogs,DontUploadIfConsumer">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOffice</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="653de7d2-1fe9-4fcf-82e6-f0b678a92efc" Enabled="false" WizardScenario="Microsoft.Sara.Plugins.Logging.UIPlugin.NetworkCaptureScenario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="NetworkCaptureScenarioAdminTask" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem;consumer" SuppressAffectedMachinePrompt="true" SymptomFlags="DontShowCredentialsPage,AuthToUploadLogs,DontUploadIfConsumer">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>AdvancedDiagnostics</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="5bebe015-77f1-469b-a9f5-909f7ce7f650" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.Outlook.OutlookUpToDateScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="UpToDateScenario" Suffix="NotAssigned" Actionable="true" Groups="Spa;Spb;Dev" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="b5b282b7-1d60-4404-9452-db0ca3e257c4" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookConnectivityAdminScenario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OutlookConnectivityAdminTask" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>EXO</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="53b0d4dc-a920-42b4-bc92-f4d3b2e66c05" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.ExoNetworkConnectivityAdminScenario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="ExoNetworkConnectivityAdminTask" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>EXO</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="aeda3312-522a-4daa-bf45-93021d2d2ae6" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.AuthenticationCheckAdminScenario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="AuthenticationCheckAdminTask" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>EXO</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="27c19519-8b6f-474e-a952-fe7155641acc" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookAdminChecksScneario" AdminTask="true" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OutlookPerformAllAdminTask" Suffix="NotAssigned" Actionable="true" Groups="Dev;" SupportedEnvironmentType="o365;hybrido365" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>EXO</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="d5412b35-bac5-4d74-89a9-1b4201dd4e00" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.Outlook.UIPlugin.OutlookReproductionScenario" AdminTask="false" SuppressFeedback="true" HideInSymptomPage="false" LocalizationKey="OutlookEtwCollectionScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem;consumer" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>WinOutlook</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="be8ad08a-5302-4785-ac71-c604c6c1614b" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.OneDrive.UIPlugin.OneDriveTroubleshootScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OneDriveTroubleshootScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>OneDrive</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+    <Symptom Id="f934bfc1-194d-4ee7-8a22-7411185b7950" Enabled="true" WizardScenario="Microsoft.Sara.Plugins.OneDrive.UIPlugin.OneDriveSetupScenario" AdminTask="false" SuppressFeedback="false" HideInSymptomPage="false" LocalizationKey="OneDriveSetupScenario" Suffix="NotAssigned" Actionable="true" Groups="All" SupportedEnvironmentType="o365;hybrido365;hybridonprem" SuppressAffectedMachinePrompt="false" SymptomFlags="">
+      <ApplicationInfo />
+      <Products>
+        <PlatformProduct>
+          <Platform>WindowsDesktop</Platform>
+          <Product>OneDrive</Product>
+          <SupportChannel>NA</SupportChannel>
+        </PlatformProduct>
+      </Products>
+    </Symptom>
+  </Symptoms>
+  <WorkflowHosts>
+    <WorkflowHost Type="Microsoft.Sara.Framework.TaskEngine.HRC.Engine.HRCWorkflowHost" CreateOnLaunch="true" />
+  </WorkflowHosts>
+  <Flights>
+    <Flight Name="SaraProduction" Value="Dev" />
+    <Flight Name="FeedbackQuestions" Value="Dev;Spa;Spb" />
+    <Flight Name="CssRequestEnabled" Value="Dev;Spa;Spb;PROD;MSIT" />
+    <Flight Name="CentennialSupportEnabled" Value="Dev;MSIT" />
+    <Flight Name="LogRemoteToLocalEnabled" Value="Dev;Spa;Spb;MSIT" />
+    <Flight Name="DeepLinkingEnabled" Value="All" />
+  </Flights>
+</SaraConfiguration>

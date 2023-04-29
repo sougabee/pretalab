@@ -1,0 +1,374 @@
+{
+   "activate_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "Debe activar Avast SecureLine VPN para usar esta función."
+   },
+   "activate_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "Debe activar la VPN de Avast One para usar esta función."
+   },
+   "connected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connected.",
+      "message": "Conectado"
+   },
+   "connecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connecting.",
+      "message": "Conectando"
+   },
+   "connection_failed": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connection failed.",
+      "message": "Error de conexión"
+   },
+   "connection_status_connected_text": {
+      "description": "Text displayed on locations dashboard when the user is connected.",
+      "message": "La conexión está cifrada y su ubicación está oculta."
+   },
+   "connection_status_connected_title": {
+      "description": "Title displayed on locations dashboard when the user is connected. (Please use short text in the marker html code)",
+      "message": "La VPN está \u003Cspan class=\"marker-green\">activada\u003C/span>"
+   },
+   "connection_status_disconnected_free_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.",
+      "message": "Disfrute de hasta \u003Cb>5 GB\u003C/b> de datos de VPN \u003Cb>gratis\u003C/b> para proteger la navegación"
+   },
+   "connection_status_disconnected_free_title": {
+      "description": "Title displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.  (Please use short text in the marker html code)",
+      "message": "\u003Cspan class=\"marker-orange\">Protección\u003C/span> eficaz para navegar"
+   },
+   "connection_status_disconnected_text": {
+      "description": "Text displayed on locations dashboard when the user is disconnected.",
+      "message": "La conexión no está cifrada y su ubicación es visible."
+   },
+   "connection_status_disconnected_title": {
+      "description": "Title displayed on locations dashboard when the user is disconnected. (Please use short text in the marker html code)",
+      "message": "La VPN está \u003Cspan class=\"marker-red\">inactiva\u003C/span>"
+   },
+   "connection_status_limit_reached_promotion_list_item_1": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 1",
+      "message": "Consiga una total privacidad en línea con un solo clic"
+   },
+   "connection_status_limit_reached_promotion_list_item_2": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 2",
+      "message": "Conéctese siempre de forma segura con una VPN"
+   },
+   "connection_status_limit_reached_promotion_list_item_3": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 3",
+      "message": "Sepa si sus contraseñas se han visto comprometidas"
+   },
+   "connection_status_limit_reached_promotion_text": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "Obtenga más privacidad y seguridad en cualquier lugar y acceso a contenidos en streaming, con la VPN ilimitada de la versión prémium."
+   },
+   "connection_status_limit_reached_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "Ha utilizado toda la capacidad de la VPN gratuita disponible para esta semana."
+   },
+   "connection_status_limit_reached_title": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit. (Please use short text in the marker html code)",
+      "message": "Ha \u003Cspan class=\"marker-orange\">alcanzado\u003C/span> el límite"
+   },
+   "disconnected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnected.",
+      "message": "Desconectado"
+   },
+   "disconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnecting.",
+      "message": "Desconectando"
+   },
+   "dismiss": {
+      "description": "Caption on the button displayed on the error notification view.",
+      "message": "Descartar"
+   },
+   "extension_icon_overlay_text_connected": {
+      "description": "Extension icon tooltip text in connected state.",
+      "message": "Avast SecureLine VPN: Conectado"
+   },
+   "extension_icon_overlay_text_connecting": {
+      "description": "Extension icon tooltip text in connecting state.",
+      "message": "Avast SecureLine VPN: Conectando"
+   },
+   "extension_icon_overlay_text_disconnected": {
+      "description": "Extension icon tooltip text in disconnected state.",
+      "message": "Avast SecureLine VPN: Desconectado"
+   },
+   "extension_icon_overlay_text_disconnecting": {
+      "description": "Extension icon tooltip text in disconnecting state.",
+      "message": "Avast SecureLine VPN: Desconectando"
+   },
+   "extension_icon_overlay_text_reconnecting": {
+      "description": "Extension icon tooltip text in reconnecting state.",
+      "message": "Avast SecureLine VPN: Reconectando"
+   },
+   "fastest_location": {
+      "description": "Text displayed on main dashboard if the user selected the optimal location.",
+      "message": "Ubicación más rápida"
+   },
+   "free_data_allowed_day": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/día",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_month": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/mes",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_week": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/semana",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_year": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/año",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_free": {
+      "description": "Text on top of the bar with the free data displayed in locations dashboard when the user is on trial.",
+      "message": "Datos gratuitos de la VPN"
+   },
+   "free_data_renew_in": {
+      "description": "Text on top of the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "Se renovará dentro de $DAYS$ días",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "free_data_used": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ usados",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "if_that_does_not_work_try_reinstalling_browser_product": {
+      "description": "Message shown to user when extension suggests user to reinstall Secure browser.",
+      "message": "Si esto ni funciona, pruebe a volver a instalar Avast Secure Browser"
+   },
+   "information": {
+      "description": "Text to show in the tooltip.",
+      "message": "Información"
+   },
+   "install_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "Debe instalar la versión de Avast SecureLine VPN más reciente para usar esta función."
+   },
+   "install_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "Debe instalar la versión de Avast One más reciente para usar esta función"
+   },
+   "ip_address": {
+      "description": "The real IP of the user. Text to show in the tooltip.",
+      "message": "IP original: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12 "
+         }
+      }
+   },
+   "ip_info_connected": {
+      "description": "Text after the selected location when the user is connected.",
+      "message": "Tiene privacidad."
+   },
+   "ip_info_disconnected": {
+      "description": "Text after the selected location when the user is disconnected.",
+      "message": "Active la VPN para cifrar la navegación"
+   },
+   "learn_more": {
+      "description": "Text that appears in a tooltip above Info buitton (i) in a dashboard popup.",
+      "message": "Más información"
+   },
+   "loading": {
+      "description": "Message shown to user when extension is loading data (upon launch).",
+      "message": "Cargando"
+   },
+   "locating": {
+      "description": "Text displayed instead of public IP address during fetching it via GeoIp service.",
+      "message": "Localizando"
+   },
+   "location": {
+      "description": "The location the user is connected to. Text to show in the tooltip.",
+      "message": "Ubicación: $DATA$",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "USA, Las Vegas"
+         }
+      }
+   },
+   "make_sure_your_internet_connection_works_properly": {
+      "description": "Message shown to user when extension detects that there is no Internet connection.",
+      "message": "Parece que está desconectado; asegúrese que su conexión a Internet funcione correctamente."
+   },
+   "offline": {
+      "description": "Text which is displayed instead of Public IP address when host is offline.",
+      "message": "Sin conexión"
+   },
+   "optimal_location": {
+      "description": "Used to prepend name of location which is optimal.",
+      "message": "Ubicación óptima"
+   },
+   "please_try_reinstalling_vpn_product": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "Vuelva a instalar el cliente de Avast SecureLine VPN"
+   },
+   "please_try_reinstalling_vpn_product_avast_one": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "Vuelva a instalar el cliente VPN de Avast One"
+   },
+   "product_description": {
+      "description": "Extension description.",
+      "message": "Cifra su conexión a Internet con el clic de un botón, para una privacidad en línea real."
+   },
+   "product_name": {
+      "description": "Product name which is used for this application.",
+      "message": "Avast SecureLine VPN"
+   },
+   "promotion_button": {
+      "description": "Button for the promotion text displayed on locations dashboard when the user is on trial.",
+      "message": "Hágase prémium"
+   },
+   "promotion_text": {
+      "description": "Text for the promotion text displayed at the bottom of locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "Saque el máximo partido a la VPN y mejore su privacidad."
+   },
+   "promotion_title": {
+      "description": "Title for the promotion text displayed at the bottom of the on locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "Datos ilimitados y 55 ubicaciones"
+   },
+   "reconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Reconnecting.",
+      "message": "Reconectando"
+   },
+   "secure_connection": {
+      "description": "Text displayed on locations dashboard",
+      "message": "CONEXIÓN SEGURA"
+   },
+   "see_how": {
+      "description": "Text of the hyperlink with URL of the Help page.",
+      "message": "ver cómo"
+   },
+   "select_location": {
+      "description": "Text displayed on locations dashboard for the user to select a new location.",
+      "message": "Seleccione una ubicación"
+   },
+   "something_is_not_right": {
+      "description": "Message shown to user when extension detects an error.",
+      "message": "Algo no va bien"
+   },
+   "something_not_right_please_restart": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Algo no va bien con Avast SecureLine VPN. Reinicie su equipo."
+   },
+   "something_not_right_please_restart_avast_one": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Algo no va bien con la VPN de Avast One. Reinicie el ordenador."
+   },
+   "this_is_your_current_ip_address": {
+      "description": "Text that appears in a tooltip above current IP address in notification popups.",
+      "message": "Esta es su dirección IP actual."
+   },
+   "time_connected": {
+      "description": "The time the user is connected to the VPN. Text to show in the tooltip.",
+      "message": "Tiempo de conexión: $TIME$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "01:12:34"
+         }
+      }
+   },
+   "turn_on_vpn_reason": {
+      "description": "Text that appears in the tooltop above the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "Esta es su dirección IP actual. Los sitios web pueden usarla para identificarle fácilmente. Active la VPN para que su conexión sea privada."
+   },
+   "update_browser_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update Secure browser.",
+      "message": "Debe actualizar Avast Secure Browser para usar esta función."
+   },
+   "update_now": {
+      "description": "Message shown on the button in a popup suggesting user to update browser or VPN client.",
+      "message": "actualizar ahora"
+   },
+   "update_vpn_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "Debe actualizar el cliente de Avast SecureLine VPN para usar esta función."
+   },
+   "update_vpn_product_to_use_this_feature_avast_one": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "Debe actualizar el cliente VPN de Avast One para usar esta función."
+   },
+   "virtual_ip": {
+      "description": "The virtual IP. Text to show in the tooltip.",
+      "message": "Nueva IP: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12"
+         }
+      }
+   },
+   "virtual_ip_address": {
+      "description": "Text before the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "Dirección IP virtual:"
+   },
+   "virtual_ip_address_explanation": {
+      "description": "Text that appears in the tooltop above the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "La dirección IP virtual es la forma en que otros sitios pueden verle, lo cual significa que su verdadera ubicación ahora está oculta y su tráfico está cifrado."
+   },
+   "vpn_location": {
+      "description": "Text above the currently selected location in dashboard popup.",
+      "message": "Ubicación de la VPN:"
+   },
+   "waiting_for_ip_address_to_be_assigned_to_your_computer": {
+      "description": "Text that appears in the tooltop above the 'Locating...' string at the footer of the dashboard popup.",
+      "message": "En espera de que se asigne una dirección IP al equipo."
+   },
+   "you_need_to_update_your_vpn_product_extension": {
+      "description": "Message shown to user when extension suggests user to update VPN extension.",
+      "message": "Debe actualizar su extensión de VPN de Avast."
+   },
+   "your_computer_seems_to_be_offline": {
+      "description": "IP Address tooltip text when host is offline.",
+      "message": "Parece que el equipo no tiene conexión"
+   },
+   "your_ip_address": {
+      "description": "Text before the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "Su dirección IP:"
+   },
+   "your_location_connected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is connected.",
+      "message": "Ahora, para los demás su ubicación es esta:"
+   },
+   "your_location_disconnected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is disconnected.",
+      "message": "Su ubicación será:"
+   }
+}

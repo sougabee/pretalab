@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "מצב בנק"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "שולחן העבודה הרגיל"
+   },
+   "blankButtonDEF": {
+      "message": "פתח מחדש את הכרטיסייה 'מצב ברירת המחדל'"
+   },
+   "blankButtonNG": {
+      "message": "פתח את הכרטיסייה מחדש בחלון מוגן"
+   },
+   "blankButtonSZ": {
+      "message": "החזר אותי ל'מצב בנק'"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "נסה שוב"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "דפדפן SafeZone העביר את הכרטיסייה הזאת למצב המתנה כדי להגן עליה מפני תוכנות רישום לחיצות על מקשים ותוכנות זדוניות אחרות שעלולות להסתתר במחשב שלך."
+   },
+   "blankPageDescDEF": {
+      "message": "הכרטיסייה הנוכחית פתוחה וזמינה במצב ברירת המחדל של דפדפן SafeZone."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "'מצב בנק' בטעינה. המתן."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "נא להמתין. זה ייקח עוד כמה רגעים."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "משהו השתבש בטעינה של 'מצב בנק'. כדי להמשיך, נסה לטעון את 'מצב בנק' שוב."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "פתח מחדש את 'מצב ברירת המחדל'"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "פתח מחדש בחלון מוגן"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "'מצב בנק' בהמתנה..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "טוען את מצב ברירת המחדל..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "חלון מוגן נטען..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "מצב 'בנק' נטען..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "מצב בנק"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "אם הבעיה הזאת חוזרת על עצמה, נסה את \u003Ca>ההצעות האלה\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "כרטיסיית 'מצב ברירת המחדל'"
+   },
+   "blankPageTitleNG": {
+      "message": "הכרטיסייה 'חלון מוגן'"
+   },
+   "blankPageTitleSZ": {
+      "message": "כרטיסיית 'מצב בנק'"
+   },
+   "emptyList": {
+      "message": "הרשימה ריקה"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "האתר כבר נמצא ברשימה"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "זאת לא כתובת URL חוקית"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "אתה לא מצליח להיכנס למצב 'בנק'? נסה להפעיל את הדפדפן מחדש או בדוק את \u003Ca target='blank' href='$link$'>השאלות הנפוצות\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "מתג 'מצב בנק'"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "מצב בנק"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "הפעל את 'מצב בנק'"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "מצב 'בנק' מתארגן להפעלה"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "'מצב בנק' לא נטען"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "כבה את 'מצב בנק'"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "'מצב בנק' פעיל"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "אל תציג את ההודעה הזאת שוב"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "'מצב בנק' מגן עליך מפני מעקבים אחרי לחיצות מקשים ומפני מרגלים, ושומר על הנתונים האישיים שלך"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "עבור אל 'קיצורי דרך'"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "'מצב בנק' מופעל"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "חלון חדש בעילום שם"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "חלון 'מצב בנק' חדש"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "חלון מוגן חדש"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "כתובת אינטרנט לא חוקית"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "התעלם"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "פתח ב'מצב בנק'"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "אל תציג שוב באתר הזה"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>'מצב בנק' מבודד סשנים של קניות וסשנים בנקאיים בצורה בטוחה כדי לעצור האקרים\u003C/b> שמנסים לגנוב את \u003Cb>מספרי כרטיסי האשראי, הסיסמאות\u003C/b> ועוד \u003Cb>נתונים פרטיים שלך.\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "זכור עבור האתר הזה"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "ייתכן שאנשים אחרים יכולים לראות את הנתונים הכספיים שלך."
+   },
+   "openInIncognitoMode": {
+      "message": "פתח את הקישור בחלון בעילום שם"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "פתח את הקישור בחלון 'מצב בנק'"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "פתח את הקישור בחלון מוגן"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "פתחנו את האתר הזה אוטומטית ב'מצב בנק' כדי להגן על פרטיותך במהלך ביצוע הפעולות הבנקאיות המקוונות"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "סגור"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "אל תציג את ההודעה הזאת שוב"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "הדף הזה נפתח ב'מצב בנק'"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "את הדף הזה פתח תמיד ב'מצב בנק'"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "סגור"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "'מצב בנק' שומר על המידע הפרטי שלך מפני מתעדים של לחיצות על מקשים ומרגלים."
+   },
+   "option_switcher_auto": {
+      "message": "רשימת האתרים שבחרת לעבור בשבילם ל'מצב בנק' אוטומטית"
+   },
+   "option_switcher_disabled": {
+      "message": "רשימת האתרים שבחרת שלא תוצג בשבילם ההודעה ששואלת אם לעבור ל'מצב בנק'"
+   },
+   "option_switcher_hidden": {
+      "message": "השבת את ההודעה ששואלת אם לעבור ל'מצב בנק'"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "מתקין תמיכה בחלון מוגן..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "הגן על פרטיותך כאשר אתה משלם או מבצע פעולות בנקאיות באינטרנט."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "חלון 'מצב בנק' חדש"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "הגן על המחשב שלך בזמן גישה לתוכן באתר שזוהם."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "מידע נוסף"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "התמיכה בחלון מוגן אינה זמינה"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "חלון מוגן חדש"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "הוספת אתר"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "הוספת כלל זמני"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "עריכת אתר"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "עריכת כלל זמני"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "אתר"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "הוסף"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "פתח את 'מצב בנק' אוטומטית באתרים הבאים"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "ביטול"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "הגן על הנתונים הפיננסיים שלי כשאני קונה ומבצע פעולות בנקאיות באינטרנט"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "אל תציג את ההצעה להפעיל את 'מצב בנק' באתרי הבנקים הבאים"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "עריכה"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "הצג את ההצעה להפעיל את 'מצב בנק' באתרי בנקים"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "פתח"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "הסר"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "הגדרות מתקדמות של 'מצב בנק'"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "מצב בנק"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>דפדפן SafeZone פותח באופן אוטומטי אתרים חשודים בחלון מוגן, ומבודד את האתר מהמחשב כך שתוכן זדוני לא יפגע בו.\u003C/p>\u003Cp>תוכל גם לפתוח את החלון המוגן באופן ידני כדי להפוך את עצמך לבלתי נראה כאשר אתה גולש, כך שלא יישמר כל תיעוד של האתרים שביקרת בהם או של הקבצים שהורדת.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>דפדפן SafeZone פותח באופן אוטומטי את כל אתרי הבנקים ב'מצב בנק', וכך הוא מבודד את סשן הדפדפן ומגן עליו מפני תוכנות העוקבות אחרי לחיצות מקשים או תוכנות זדוניות אחרות שעלולות להסתתר במחשב שלך.\u003C/p>\u003Cp>באמצעות 'מצב בנק' באפשרותך לבצע את כל העסקאות הכספיות שלך בראש שקט, ללא חשש מגניבת הסיסמה או שאר הפרטים האישיים שלך.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "מצב בנק"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "מצב בנק"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "חזור ל'מצב בנק'"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "טיפ"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "'מצב בנק' שומר על המידע האישי שלך מפני מעקבים אחרי לחיצות מקשים ומאיומים נוספים שאולי מתחבאים אצלך במחשב"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "מידע נוסף"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "בסדר, הבנתי"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "ברוך הבא ל'מצב בנק'"
+   }
+}

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TTWConfiguration ClientName="saraclient.background">
+    <Enabled>true</Enabled>
+    <WatchDogInterval>5</WatchDogInterval>
+    <WorkType>AnalyzerBase</WorkType>
+    <Duration>5</Duration>
+    <Timeout>5</Timeout>
+    <RecurrenceInterval>1</RecurrenceInterval>
+    <Threshold>0.8</Threshold>
+  <TTWDefinitions>
+  <TTWDefinition Id="1" Name="Microsoft.Online.CSE.HRC.Analysis.Analyzers.OutlookConnectivity.MapiMailboxLogonAnalyzer">
+      <Enabled>false</Enabled>
+      <WorkType>AnalyzerBase</WorkType>
+      <FriendlyName>Outlook O365 Mailbox Logon</FriendlyName>
+      <MonitorType>Passive</MonitorType>
+      <Duration>30</Duration>
+      <Timeout>1</Timeout>
+      <RecurrenceInterval>2</RecurrenceInterval>
+      <ConsecutivePasses>5</ConsecutivePasses>
+      <Threshold>0.75</Threshold>
+    </TTWDefinition>
+    <TTWDefinition Id="2" Name="Microsoft.Online.CSE.HRC.Analysis.Analyzers.OutlookHangCrash.OutlookHangTtwAnalyzer">
+      <Enabled>true</Enabled>
+      <WorkType>AnalyzerBase</WorkType>
+      <FriendlyName>Outlook not responding monitor</FriendlyName>
+      <MonitorType>Passive</MonitorType>
+      <Duration>30</Duration>
+      <Timeout>3</Timeout>
+      <RecurrenceInterval>0.1</RecurrenceInterval>
+      <Threshold>0.8</Threshold>
+    </TTWDefinition>
+    <TTWDefinition Id="3" Name="Microsoft.Online.CSE.HRC.Analysis.Analyzers.AutoD.AutoDiscoverPostMethodAnalyzer">
+      <Enabled>true</Enabled>
+      <WorkType>AnalyzerBase</WorkType>
+      <FriendlyName>Outlook settings for O365 account</FriendlyName>
+      <MonitorType>Passive</MonitorType>
+      <Duration>30</Duration>
+      <Timeout>1</Timeout>
+      <RecurrenceInterval>2</RecurrenceInterval>
+      <ConsecutivePasses>5</ConsecutivePasses>
+      <Threshold>0.75</Threshold>
+    </TTWDefinition>
+    <TTWDefinition Id="4" Name="Microsoft.Online.CSE.HRC.Analysis.Analyzers.OutlookConnectivity.MapiPingEndpointAnalyzer">
+      <Enabled>false</Enabled>
+      <WorkType>AnalyzerBase</WorkType>
+      <FriendlyName>Outlook O365 Mailbox Endpoint</FriendlyName>
+      <MonitorType>Passive</MonitorType>
+      <Duration>30</Duration>
+      <Timeout>1</Timeout>
+      <RecurrenceInterval>2</RecurrenceInterval>
+      <ConsecutivePasses>5</ConsecutivePasses>
+      <Threshold>0.75</Threshold>
+    </TTWDefinition>
+    <TTWDefinition Id="5" Name="Microsoft.Online.CSE.HRC.Analysis.Analyzers.OutlookConnectivity.HttpAuthMethodsAnalyzer">
+      <Enabled>false</Enabled>
+      <WorkType>AnalyzerBase</WorkType>
+      <FriendlyName>Outlook O365 Mailbox Authentication</FriendlyName>
+      <MonitorType>Passive</MonitorType>
+      <Duration>30</Duration>
+      <Timeout>1</Timeout>
+      <RecurrenceInterval>2</RecurrenceInterval>
+      <ConsecutivePasses>5</ConsecutivePasses>
+      <Threshold>0.75</Threshold>
+    </TTWDefinition>
+    <TTWDefinition Id="6" Name="Microsoft.Online.CSE.HRC.Analysis.Analyzers.OutlookConnectivity.MapiCheckNameAnalyzer">
+      <Enabled>false</Enabled>
+      <WorkType>AnalyzerBase</WorkType>
+      <FriendlyName>Outlook O365 Addressbook</FriendlyName>
+      <MonitorType>Passive</MonitorType>
+      <Duration>30</Duration>
+      <Timeout>1</Timeout>
+      <RecurrenceInterval>2</RecurrenceInterval>
+      <ConsecutivePasses>5</ConsecutivePasses>
+      <Threshold>0.75</Threshold>
+    </TTWDefinition>
+  </TTWDefinitions>
+</TTWConfiguration>
+

@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Mod Operațiuni bancare"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Spațiu de lucru standard"
+   },
+   "blankButtonDEF": {
+      "message": "Redeschideți fila mod Predefinit"
+   },
+   "blankButtonNG": {
+      "message": "Redeschideți fila în fereastra Protejată"
+   },
+   "blankButtonSZ": {
+      "message": "Înapoi la modul Operațiuni bancare"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Încercați din nou"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Browserul SafeZone a pus această filă în așteptare, pentru a o proteja de posibile programe de tip keylogger sau alte programe dăunătoare care ar putea fi ascunse pe computerul dvs."
+   },
+   "blankPageDescDEF": {
+      "message": "Fila curentă este deschisă și disponibilă în modul Predefinit al browserului SafeZone."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Modul Operațiuni bancare este în curs de încărcare. Așteptați puțin."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Vă rugăm să așteptați. Mai durează câteva secunde."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "A apărut o problemă în timpul încărcării modului Operațiuni bancare. Pentru a continua, încercați să încărcați din nou modul Operațiuni bancare."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Redeschideți modul Predefinit"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Redeschideți în fereastra Protejată"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Modul Operațiuni bancare este ținut în așteptare..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Se încarcă modul Predefinit..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Se încarcă fereastra Protejată..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Se încarcă modul Operațiuni bancare..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Mod Operațiuni bancare"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Dacă vedeți frecvent acest mesaj, încercați aceste \u003Ca>sugestii\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Fila mod Predefinit"
+   },
+   "blankPageTitleNG": {
+      "message": "Fila de fereastră Protejată"
+   },
+   "blankPageTitleSZ": {
+      "message": "Fila modului Operațiuni bancare"
+   },
+   "emptyList": {
+      "message": "Lista este goală"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Site-ul Web există deja în listă"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Aceasta nu este o adresă URL validă"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Aveți probleme cu lansarea modului Operațiuni bancare? Încercați să reporniți browserul sau consultați \u003Ca target='blank' href='$linkFAQ\u003C/a>>Întrebări frecvente;crwdn;ht;1;ht;crwdn;",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Comutator mod Operațiuni bancare"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Mod Operațiuni bancare"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Activare mod Operațiuni bancare"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Se configurează modul Operațiuni bancare"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Încărcarea modului Operațiuni bancare nu a reușit"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Dezactivare mod Operațiuni bancare"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Modul Operațiuni bancare este activ"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Doresc să nu se mai afișeze acest mesaj"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Modul Operațiuni bancare vă protejează activitatea împotriva programelor de tip keylogger și spion, pentru a vă păstra datele personale în siguranță"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Accesare Comenzi rapide"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Modul Operațiuni bancare este activat"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Fereastră nouă în mod Incognito"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Fereastră nouă pentru modul Operațiuni bancare"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Fereastră nouă Protejată"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Nu este o adresă Web validă"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ignorare"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "DESCHIDERE ÎN MODUL OPERAȚIUNI BANCARE"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Doresc să nu se mai afișeze la acest site"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Modul Operațiuni bancare izolează în siguranță sesiunile bancare și de cumpărături, pentru a opri hackerii\u003C/b> să vă fure \u003Cb>numerele cardurilor de credit, parolele\u003C/b> și \u003Cb>alte date private\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Se memorează pentru acest site"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Este posibil ca datele dvs. financiare să fie vizibile pentru alte persoane."
+   },
+   "openInIncognitoMode": {
+      "message": "Deschidere link în fereastra Incognito"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Deschidere link în fereastra modului Operațiuni bancare"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Deschidere link în fereastră Protejată"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Am deschis automat acest site în modul Operațiuni bancare, pentru a vă proteja confidențialitatea în timpul operațiunilor bancare online"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Închidere"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Doresc să nu se mai afișeze acest mesaj"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Această pagină a fost deschisă în modul Operațiuni bancare"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Deschideți întotdeauna această pagină în modul Operațiuni bancare"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "ÎNCHIDERE"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Modul Operațiuni bancare protejează informațiile personale împotriva programelor de tip keylogger și spion."
+   },
+   "option_switcher_auto": {
+      "message": "Site-uri Web personalizate pentru a comuta automat la modul Operațiuni bancare"
+   },
+   "option_switcher_disabled": {
+      "message": "Lista de site-uri Web la care ați exclus afișarea solicitării mesajelor de notificare pentru modul Operațiuni bancare"
+   },
+   "option_switcher_hidden": {
+      "message": "Dezactivați solicitarea de notificare pentru modul Operațiuni bancare"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Se instalează suportul pentru fereastra Protejată..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Protejați confidențialitatea atunci când plătiți sau efectuați operațiuni bancare online."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Fereastră nouă pentru modul Operațiuni bancare"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Protejați-vă computerul atunci când accesați conținut Web infectat."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Aflați mai multe"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Suportul pentru fereastra Protejată nu este disponibil"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Fereastră nouă Protejată"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Adăugare site"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Adăugare regulă temporară"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Editare site"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Editare regulă temporară"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Site"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "adăugare"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Deschidere automata a modului de Operațiuni bancare pe următoarele site-uri Web"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Anulare"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Protejarea datelor mele financiare când fac cumpărături și operațiuni bancare online"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Fără afișarea solicitării de notificare pentru modul Operațiuni bancare pe următoarele site-uri Web"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Editare"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Afișarea solicitării de notificare pentru modul Operațiuni bancare pe site-urile Web de operațiuni bancare"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "deschidere"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Eliminare"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Setări avansate pentru modul Operațiuni bancare"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "MOD OPERAȚIUNI BANCARE"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Browserul SafeZone deschide automat site-urile suspecte în fereastra Protejată, izolând site-ul de computerul dvs., astfel încât să nu îl poată invada niciun conținut dăunător.\u003C/p>\u003Cp>De asemenea, puteți să deschideți manual fereastra Protejată pentru a rămâne invizibil atunci când navigați, astfel încât să nu existe nicio înregistrare a site-urilor pe care le-ați vizitat sau a fișierelor pe care le-ați descărcat.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Browserul SafeZone deschide automat toate site-urile bancare în modul Operațiuni bancare. Acesta izolează sesiunea și o protejează de posibile programe de tip keylogger sau alte programe dăunătoare care ar putea fi ascunse pe computerul dvs.\u003C/p>\u003Cp>Cu modul Operațiuni bancare puteți efectua liniștit toate tranzacțiile financiare, fără teama că parola dvs. sau alte detalii personale ar putea să fie furate.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Mod Operațiuni bancare"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Mod Operațiuni bancare"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Reveniți la Modul Operațiuni bancare"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Sfat"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Modul Operațiuni bancare vă protejează informațiile personale împotriva programelor de tip keylogger și a altor amenințări care ar putea fi ascunse pe PC-ul dvs."
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Aflați mai multe"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "OK, am înțeles"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Bun venit la modul Operațiuni bancare"
+   }
+}

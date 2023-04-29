@@ -1,0 +1,1224 @@
+﻿2022-10-17 22:53:49,113 [11] ERROR WebSocketServer-32901400 - Session: 4fd21986-2fba-4545-9376-5e145ab41999/127.0.0.1:55833
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:53:53,112 [7] ERROR WebSocketServer-32901400 - Session: d8a2313e-cd2b-46aa-b007-499e8f4d501e/127.0.0.1:55842
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:53:57,059 [7] ERROR WebSocketServer-32901400 - Session: 379b1e05-5dac-4d50-9a0c-80a9cd7ef680/127.0.0.1:55849
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:53:59,465 [7] ERROR WebSocketServer-32901400 - Session: 94a4f24b-abc5-45e4-a1f9-7bc87c2cc1bf/127.0.0.1:55852
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:01,152 [7] ERROR WebSocketServer-32901400 - Session: 3443c914-6d24-4563-afc5-36b6e2b55a35/127.0.0.1:55855
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:04,235 [11] ERROR WebSocketServer-32901400 - Session: 680e6a47-af7f-49e6-bcca-fad41856e3b5/127.0.0.1:55856
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:08,001 [11] ERROR WebSocketServer-32901400 - Session: e3904f19-c54c-4801-9b91-b2f782735684/127.0.0.1:55861
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:09,500 [7] ERROR WebSocketServer-32901400 - Session: 6560c51e-aef8-45da-9b3f-5ca38577b5d8/127.0.0.1:55863
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:12,705 [11] ERROR WebSocketServer-32901400 - Session: 76b30db9-417c-452f-bcfe-dce0ca5825bd/127.0.0.1:55867
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:13,973 [7] ERROR WebSocketServer-32901400 - Session: 91e6dc28-2487-4927-b26e-cd04fdfc46da/127.0.0.1:55869
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:17,222 [11] ERROR WebSocketServer-32901400 - Session: e2636851-80af-4a3c-927b-84d21022e1ca/127.0.0.1:55872
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:18,440 [7] ERROR WebSocketServer-32901400 - Session: 3e94b3ed-5151-41a8-8d64-f4da2ccc5b68/127.0.0.1:55874
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:19,771 [7] ERROR WebSocketServer-32901400 - Session: 7025ffa9-7780-4671-a907-54eea4fc8a85/127.0.0.1:55876
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:21,641 [11] ERROR WebSocketServer-32901400 - Session: 744b4291-0c90-46b9-b436-1e8e1a2907f5/127.0.0.1:55881
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:25,552 [11] ERROR WebSocketServer-32901400 - Session: d650e150-60d2-44f7-a7d7-d656df9b3a73/127.0.0.1:53755
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:28,392 [11] ERROR WebSocketServer-32901400 - Session: ec2be7fc-fc74-4c5b-a327-3d4d22f873a5/127.0.0.1:53757
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:32,458 [7] ERROR WebSocketServer-32901400 - Session: c914d742-55c0-4a5f-8fd6-6d85251e65ee/127.0.0.1:53763
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:35,290 [11] ERROR WebSocketServer-32901400 - Session: 53f0ccae-7e74-44f0-9178-7fa0917820ba/127.0.0.1:53774
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:40,127 [11] ERROR WebSocketServer-32901400 - Session: 6de5d303-9893-4f1a-87c1-1e70022ad239/127.0.0.1:53779
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:42,227 [11] ERROR WebSocketServer-32901400 - Session: b223aa10-83ea-4767-8719-bc614046bc9b/127.0.0.1:53784
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:44,336 [11] ERROR WebSocketServer-32901400 - Session: f6f8012f-b35e-4053-8fad-a66d577ddda1/127.0.0.1:53787
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:47,995 [7] ERROR WebSocketServer-32901400 - Session: 3360c27f-0635-49ba-9087-543d01516f07/127.0.0.1:53792
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:51,332 [11] ERROR WebSocketServer-32901400 - Session: 42b4450a-256f-4549-b7bf-d645eabcafda/127.0.0.1:53797
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:55,551 [11] ERROR WebSocketServer-32901400 - Session: 70c77966-2390-440f-9eb1-8c8abcaefcf6/127.0.0.1:53802
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:54:58,553 [11] ERROR WebSocketServer-32901400 - Session: a4411b15-06c7-4084-9233-c268b16057f2/127.0.0.1:53806
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:01,638 [11] ERROR WebSocketServer-32901400 - Session: 298bca49-a50d-4807-991b-0043c889bd17/127.0.0.1:53810
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:03,047 [11] ERROR WebSocketServer-32901400 - Session: 3d01e232-d539-4835-9ba1-92cf8b6a777b/127.0.0.1:53811
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:04,351 [10] ERROR WebSocketServer-32901400 - Session: 0bd0eff4-7373-4bae-b2e2-bd363c2e45c8/127.0.0.1:53814
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:06,584 [11] ERROR WebSocketServer-32901400 - Session: 3be61c2a-9009-4f9c-9f36-f9cd265b2d7c/127.0.0.1:53816
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:07,854 [11] ERROR WebSocketServer-32901400 - Session: fa9ec7ac-a4dd-40b0-891d-270f01621a60/127.0.0.1:53818
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:10,590 [11] ERROR WebSocketServer-32901400 - Session: 69e1ea83-52cc-4ee3-96e3-d9989a87e13e/127.0.0.1:53821
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:14,275 [11] ERROR WebSocketServer-32901400 - Session: ffd3507d-57cc-4730-a5be-12421fee51d5/127.0.0.1:53829
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:18,057 [11] ERROR WebSocketServer-32901400 - Session: 40404bf5-b1af-496a-ae8a-8c4cc3ca9c5c/127.0.0.1:53840
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:22,079 [11] ERROR WebSocketServer-32901400 - Session: 2c6855a5-ce30-431c-846c-f188ce32b775/127.0.0.1:53848
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:26,026 [13] ERROR WebSocketServer-32901400 - Session: 402901f5-9052-4509-9d4a-f5cd8b1b9116/127.0.0.1:53852
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:27,544 [13] ERROR WebSocketServer-32901400 - Session: 1214554a-704b-40ec-924c-0b3490dbd6c3/127.0.0.1:53853
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:31,274 [13] ERROR WebSocketServer-32901400 - Session: 69d2bda7-c7d7-4819-bce4-41b4bba0a04f/127.0.0.1:53858
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:35,446 [13] ERROR WebSocketServer-32901400 - Session: 0600b6e3-c4d4-4762-a769-79dbcb0bcf4e/127.0.0.1:53862
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:36,834 [13] ERROR WebSocketServer-32901400 - Session: eabb4c3c-5879-4f17-a6c8-3754ba3379e6/127.0.0.1:53864
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:38,717 [11] ERROR WebSocketServer-32901400 - Session: 386b75ef-5db0-4355-b7ea-e0618589147a/127.0.0.1:53868
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:42,102 [11] ERROR WebSocketServer-32901400 - Session: 392c4281-b773-4a18-b41f-c1a6e3730930/127.0.0.1:53872
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:45,467 [13] ERROR WebSocketServer-32901400 - Session: fc64a1e2-9e9b-47c1-ac68-c5ccb4909270/127.0.0.1:53875
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:48,822 [14] ERROR WebSocketServer-32901400 - Session: efa2e6a4-55cb-474d-acd4-a9226d74da92/127.0.0.1:53884
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:51,157 [14] ERROR WebSocketServer-32901400 - Session: a5c60e5b-24a4-49e7-a699-3860d25b2f49/127.0.0.1:53885
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:53,239 [14] ERROR WebSocketServer-32901400 - Session: d875c9bb-8df9-4255-8ea3-da1955b10fc6/127.0.0.1:53889
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:55:56,960 [13] ERROR WebSocketServer-32901400 - Session: b1b96a82-23ce-4ff0-bbbf-620a45bc97d2/127.0.0.1:53892
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:01,274 [13] ERROR WebSocketServer-32901400 - Session: 19cd998a-e12b-4aa8-8d90-98d27e7d6b1e/127.0.0.1:53897
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:04,011 [13] ERROR WebSocketServer-32901400 - Session: 889307cd-8ed1-4834-bd14-61509ac95e4a/127.0.0.1:53901
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:06,119 [15] ERROR WebSocketServer-32901400 - Session: 26b6c2e3-201c-40fe-a23a-5798c9bb60e9/127.0.0.1:53904
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:08,366 [13] ERROR WebSocketServer-32901400 - Session: 503aa791-bc15-41f1-8b8a-7f861dfc9923/127.0.0.1:53907
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:12,633 [13] ERROR WebSocketServer-32901400 - Session: 46408306-cbaa-45cf-a5b6-fb4424359a51/127.0.0.1:53912
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:15,485 [13] ERROR WebSocketServer-32901400 - Session: 21378d3b-d712-4e2b-9f85-097c88a759bd/127.0.0.1:53917
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:20,360 [15] ERROR WebSocketServer-32901400 - Session: 037f60c4-cade-4d4e-9cf2-165e4c38e87c/127.0.0.1:53921
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:23,049 [13] ERROR WebSocketServer-32901400 - Session: df4f7e86-bd55-40a7-836d-0a4bfc061840/127.0.0.1:53925
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:26,214 [15] ERROR WebSocketServer-32901400 - Session: c1ef0d10-cbb4-4138-8d47-b26afa67edf9/127.0.0.1:53928
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:31,159 [15] ERROR WebSocketServer-32901400 - Session: 422de05c-95bd-4227-8a87-55a289479ac5/127.0.0.1:53933
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:35,401 [13] ERROR WebSocketServer-32901400 - Session: ae994fe1-f1e9-4135-99b4-ce86cd90108c/127.0.0.1:53937
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:37,249 [13] ERROR WebSocketServer-32901400 - Session: 0079fff1-ef62-41cf-8908-e7600520ba09/127.0.0.1:53940
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:40,578 [13] ERROR WebSocketServer-32901400 - Session: 35c0f74c-ba4c-4736-bec4-7862dc3cf914/127.0.0.1:53943
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:44,758 [13] ERROR WebSocketServer-32901400 - Session: 63697776-96f4-4c75-8b65-229ebb8736ea/127.0.0.1:53948
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:48,189 [12] ERROR WebSocketServer-32901400 - Session: ac2ea03e-ff10-4b2c-b613-388bc9631e5e/127.0.0.1:53950
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:49,846 [13] ERROR WebSocketServer-32901400 - Session: 7b4c84e1-21ec-4b76-ad05-220a5dc121e9/127.0.0.1:53953
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:51,977 [12] ERROR WebSocketServer-32901400 - Session: 904d5be8-361f-4e03-ba09-ab9683ce59a0/127.0.0.1:53957
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:56,030 [16] ERROR WebSocketServer-32901400 - Session: 6ff9c8b5-6b9b-481d-bc5a-f37c548a1b07/127.0.0.1:53963
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:56:59,759 [16] ERROR WebSocketServer-32901400 - Session: a8b2a94b-f5e7-4a4b-9e8e-40c5eedbe304/127.0.0.1:53967
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:04,322 [13] ERROR WebSocketServer-32901400 - Session: 35a0eb3f-f529-4dba-af1b-7b7799dc2863/127.0.0.1:53974
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:08,468 [13] ERROR WebSocketServer-32901400 - Session: c95e1fd1-0869-42d7-ba79-c63edd984640/127.0.0.1:53980
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:12,435 [13] ERROR WebSocketServer-32901400 - Session: ef2cae16-4a48-4d7d-84bc-3e9a644f98fd/127.0.0.1:53984
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:17,272 [16] ERROR WebSocketServer-32901400 - Session: 89493bbe-1a35-45de-9e45-6d861f4d55da/127.0.0.1:53988
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:18,759 [13] ERROR WebSocketServer-32901400 - Session: 2eb4c376-e230-4e3f-9579-ba99d4c74586/127.0.0.1:53991
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:21,264 [17] ERROR WebSocketServer-32901400 - Session: 234e4ded-845d-4df0-a8f5-d5326d405042/127.0.0.1:53993
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:25,908 [13] ERROR WebSocketServer-32901400 - Session: 3b1ad05d-2a25-4ae5-a130-fc1dd9dc5b25/127.0.0.1:53999
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:28,716 [17] ERROR WebSocketServer-32901400 - Session: 0221ab44-b729-49fe-9c95-e1f1e2a5d662/127.0.0.1:54002
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:32,254 [13] ERROR WebSocketServer-32901400 - Session: fbed0c19-a87c-4ae8-b5a6-6b854d5092ca/127.0.0.1:54007
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:37,070 [17] ERROR WebSocketServer-32901400 - Session: 99f043af-ba6c-4554-b4fb-172faa03a765/127.0.0.1:54012
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:41,752 [13] ERROR WebSocketServer-32901400 - Session: 775a9832-c33a-4653-a209-4a2167c0af5b/127.0.0.1:54016
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:43,346 [13] ERROR WebSocketServer-32901400 - Session: eeaae9bb-e221-4ceb-a0ea-c5558465f2a1/127.0.0.1:54019
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:45,376 [17] ERROR WebSocketServer-32901400 - Session: 93a4c19b-5536-418d-9649-a26eebce337a/127.0.0.1:54021
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:48,840 [17] ERROR WebSocketServer-32901400 - Session: 7e6a42e9-31c5-40f8-b371-318c4c1ab77c/127.0.0.1:54025
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:53,406 [13] ERROR WebSocketServer-32901400 - Session: 47c1baaa-ea40-4692-963b-71b74f2f38d0/127.0.0.1:54030
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:55,798 [13] ERROR WebSocketServer-32901400 - Session: 96b2c3c4-a718-4ffa-b3bb-e4361287ec1a/127.0.0.1:54034
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:57:57,418 [13] ERROR WebSocketServer-32901400 - Session: e083daed-8fce-4ea8-913a-5f37acdac172/127.0.0.1:54035
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:02,199 [13] ERROR WebSocketServer-32901400 - Session: 81ffc940-d957-40a9-9534-b7956a2ac5f4/127.0.0.1:54041
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:06,938 [17] ERROR WebSocketServer-32901400 - Session: 7fc6a790-7d66-484b-a03a-e68cbfbb9ac3/127.0.0.1:54045
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:08,526 [17] ERROR WebSocketServer-32901400 - Session: c30747cc-ae54-4093-814f-24a069760fa4/127.0.0.1:54047
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:10,072 [17] ERROR WebSocketServer-32901400 - Session: cc5cee51-d25b-4d52-98ca-ea288c473f45/127.0.0.1:54049
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:11,419 [13] ERROR WebSocketServer-32901400 - Session: 9c29b005-7630-4f10-a166-c60219ac8b4a/127.0.0.1:54051
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:16,385 [13] ERROR WebSocketServer-32901400 - Session: 2b9331c1-8f55-42bf-8140-5f11ede7a8ff/127.0.0.1:54055
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:19,680 [17] ERROR WebSocketServer-32901400 - Session: befc9d26-6930-4e85-96ab-b8806aacecd8/127.0.0.1:54059
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:24,041 [13] ERROR WebSocketServer-32901400 - Session: 4478bcb3-3ef5-416c-af41-47a57e3d5b63/127.0.0.1:54064
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:27,560 [18] ERROR WebSocketServer-32901400 - Session: 12a3f87e-7037-41ec-8e2f-f6eeeba62472/127.0.0.1:54068
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:31,024 [13] ERROR WebSocketServer-32901400 - Session: 537656de-3be1-4f04-b56d-ca845f92793a/127.0.0.1:54073
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:33,020 [13] ERROR WebSocketServer-32901400 - Session: 81f78539-8a82-4a75-b51e-1df13ff7fb92/127.0.0.1:54074
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:36,019 [13] ERROR WebSocketServer-32901400 - Session: 3fdf7f90-7ff4-441d-b4f2-e95c7cc6faf4/127.0.0.1:54077
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:39,311 [18] ERROR WebSocketServer-32901400 - Session: d2e458ea-5705-43c7-870d-95ef0b2309b9/127.0.0.1:54082
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:43,176 [13] ERROR WebSocketServer-32901400 - Session: dd9358e3-f8ce-4fd1-b021-b1104bb4a239/127.0.0.1:54088
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:46,745 [13] ERROR WebSocketServer-32901400 - Session: 747b5c2b-4e46-4913-9bf2-b091592774a5/127.0.0.1:54091
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:48,184 [13] ERROR WebSocketServer-32901400 - Session: 0c139658-5088-46e9-b2cf-a9e6d28e73e6/127.0.0.1:54093
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:51,637 [13] ERROR WebSocketServer-32901400 - Session: 4c8509ba-9e95-420f-a87a-c54b0855f42b/127.0.0.1:54098
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:56,071 [13] ERROR WebSocketServer-32901400 - Session: dca73c8e-8ff2-4003-a1c3-be74fa370b3d/127.0.0.1:54104
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:58:58,340 [13] ERROR WebSocketServer-32901400 - Session: e4d3e960-259b-49b7-a6ba-e9fce9667354/127.0.0.1:54106
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:03,209 [20] ERROR WebSocketServer-32901400 - Session: 11673415-6e57-4ecd-9dec-f33b2be9568d/127.0.0.1:54110
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:06,514 [20] ERROR WebSocketServer-32901400 - Session: 50a902f5-134d-4b6b-a527-616b289e9938/127.0.0.1:54114
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:07,869 [13] ERROR WebSocketServer-32901400 - Session: 43d98186-e466-4221-9378-849f42e8f144/127.0.0.1:54115
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:10,289 [13] ERROR WebSocketServer-32901400 - Session: f03b87e4-7030-4793-920e-250d32a52467/127.0.0.1:54118
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:14,587 [13] ERROR WebSocketServer-32901400 - Session: b5a58965-3fc0-4e72-802e-8e32ec17dd68/127.0.0.1:54123
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:18,376 [13] ERROR WebSocketServer-32901400 - Session: 2eb8379a-408b-4dc3-8604-59b356392fbe/127.0.0.1:54127
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:21,739 [21] ERROR WebSocketServer-32901400 - Session: 528fe247-c1bc-465e-9a34-5e4af7d2546a/127.0.0.1:54131
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:26,134 [21] ERROR WebSocketServer-32901400 - Session: 2f8ae75b-8845-4477-9148-fe4887d4ff56/127.0.0.1:54137
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:27,567 [21] ERROR WebSocketServer-32901400 - Session: 50ace9b1-58ad-486c-b058-419b4f8f4940/127.0.0.1:54139
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:30,360 [13] ERROR WebSocketServer-32901400 - Session: ec4fedc0-b68d-4fde-b815-288bdaf4cc26/127.0.0.1:54141
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:31,417 [22] ERROR WebSocketServer-32901400 - Session: 553eaaf2-2d76-4482-9060-203b33a3d7ca/127.0.0.1:54144
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:32,482 [21] ERROR WebSocketServer-32901400 - Session: 0802f720-8bd3-4ef0-97f9-675d2f6f1307/127.0.0.1:54145
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:34,294 [21] ERROR WebSocketServer-32901400 - Session: fe5136ab-1a29-4612-b3d0-82b0724f77e2/127.0.0.1:54148
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:37,809 [22] ERROR WebSocketServer-32901400 - Session: c87877e4-eb6d-4f0f-9608-e77a124f61da/127.0.0.1:54153
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:42,303 [21] ERROR WebSocketServer-32901400 - Session: 07766185-72a7-417e-92b5-b3378a2965d4/127.0.0.1:54157
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:46,341 [22] ERROR WebSocketServer-32901400 - Session: 97dde525-cb39-4b6a-bb73-a76a1d70f9fe/127.0.0.1:54162
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:49,526 [22] ERROR WebSocketServer-32901400 - Session: 75437c36-9372-404b-818b-3fd042814e4d/127.0.0.1:54165
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:51,172 [21] ERROR WebSocketServer-32901400 - Session: f2b45b3b-d033-447a-93ae-f5e6a97a29ba/127.0.0.1:54168
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:54,020 [21] ERROR WebSocketServer-32901400 - Session: f02a49c2-5a62-4492-92ce-d7e008975063/127.0.0.1:54172
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:57,141 [22] ERROR WebSocketServer-32901400 - Session: 92740fdb-5116-4e52-bc1b-a925b346fec4/127.0.0.1:54175
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 22:59:59,229 [21] ERROR WebSocketServer-32901400 - Session: 89d28f7f-505f-462b-9c34-13e3f84f49fc/127.0.0.1:54178
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:01,436 [21] ERROR WebSocketServer-32901400 - Session: a371f886-4421-45fa-8ba0-00e4462dec3e/127.0.0.1:54180
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:05,856 [21] ERROR WebSocketServer-32901400 - Session: 2aeba7f1-fe38-4199-9524-a81a685fad2c/127.0.0.1:54185
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:10,541 [22] ERROR WebSocketServer-32901400 - Session: 055c7fbe-3913-499c-8e62-810520b7591e/127.0.0.1:54190
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:14,840 [21] ERROR WebSocketServer-32901400 - Session: 1abac27e-d630-49c7-bcd9-bdc31cde6f97/127.0.0.1:54194
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:16,108 [21] ERROR WebSocketServer-32901400 - Session: 8442e088-5105-4b7a-902c-0d06882a6504/127.0.0.1:54197
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:19,484 [23] ERROR WebSocketServer-32901400 - Session: 2b6e6ee8-5472-4ad0-8dd4-6168348c50fe/127.0.0.1:54201
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:20,885 [21] ERROR WebSocketServer-32901400 - Session: 6aae3a0b-1903-4c9c-98be-da89aba69e01/127.0.0.1:54203
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:25,726 [21] ERROR WebSocketServer-32901400 - Session: 356c9159-28db-4e55-8346-d308cddef103/127.0.0.1:54208
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:30,601 [21] ERROR WebSocketServer-32901400 - Session: e4b64bfa-3db7-4080-9858-95dc8e3789d6/127.0.0.1:54213
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:32,195 [23] ERROR WebSocketServer-32901400 - Session: f5fddd19-4867-4316-a92f-08e912491a9f/127.0.0.1:54215
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:34,246 [21] ERROR WebSocketServer-32901400 - Session: 12f71239-9a91-45ff-8832-052b003e2681/127.0.0.1:54219
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:36,938 [21] ERROR WebSocketServer-32901400 - Session: 3604cc43-ad44-47f6-8875-46c2c6ee5dd3/127.0.0.1:54222
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:38,868 [21] ERROR WebSocketServer-32901400 - Session: 97d901f6-d525-41c6-975a-e2431dbe6ed0/127.0.0.1:54224
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:42,652 [21] ERROR WebSocketServer-32901400 - Session: 25eeeb40-37bf-4d96-9a86-9b788aa3cd55/127.0.0.1:54228
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:46,749 [21] ERROR WebSocketServer-32901400 - Session: 1deb216d-568d-4281-8b12-31a2909f9127/127.0.0.1:54233
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:50,216 [21] ERROR WebSocketServer-32901400 - Session: 213f738d-cede-4b3c-89e5-e235f6137074/127.0.0.1:54237
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:54,910 [24] ERROR WebSocketServer-32901400 - Session: eac62cc4-114e-426a-bb7f-d0e95ed6be57/127.0.0.1:54242
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:56,105 [21] ERROR WebSocketServer-32901400 - Session: 805885a7-e657-4045-b3b0-c2c2728672a6/127.0.0.1:54243
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:57,538 [21] ERROR WebSocketServer-32901400 - Session: 92783a93-7282-4adb-a693-9a58305cff62/127.0.0.1:54245
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:00:59,025 [21] ERROR WebSocketServer-32901400 - Session: 7fafaf2e-4e38-4657-8890-21c790094fb7/127.0.0.1:54247
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:01,471 [21] ERROR WebSocketServer-32901400 - Session: 5096f728-d6f8-4f41-866b-8d2c10c9aec1/127.0.0.1:54251
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:06,019 [21] ERROR WebSocketServer-32901400 - Session: 097660e0-82a0-4882-9fef-1a43d5cc0eaf/127.0.0.1:54255
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:07,970 [21] ERROR WebSocketServer-32901400 - Session: 7ca98ed8-e982-4746-970c-c470893d25c5/127.0.0.1:54258
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:10,796 [26] ERROR WebSocketServer-32901400 - Session: c55a9a1f-3207-45ea-87e6-dff575c03919/127.0.0.1:54261
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:14,573 [21] ERROR WebSocketServer-32901400 - Session: 23fddc7f-eef8-420d-979e-ae55b5ed1887/127.0.0.1:54265
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:18,304 [26] ERROR WebSocketServer-32901400 - Session: 198e56e2-2d6d-4ec4-9f6e-ac909d8de761/127.0.0.1:54269
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:22,945 [21] ERROR WebSocketServer-32901400 - Session: e554ecc6-49a4-49e8-881b-54a87e8ae24a/127.0.0.1:54274
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:26,676 [21] ERROR WebSocketServer-32901400 - Session: 3795052b-b081-4b09-a87a-a921edb09fba/127.0.0.1:54279
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:28,648 [21] ERROR WebSocketServer-32901400 - Session: f7db6cbd-bc89-4de1-b94c-f93197f6c5aa/127.0.0.1:54281
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:33,547 [21] ERROR WebSocketServer-32901400 - Session: db077cef-0889-46cc-9ea8-f2983b14eabc/127.0.0.1:54288
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)
+2022-10-17 23:01:37,238 [21] ERROR WebSocketServer-32901400 - Session: 3236f4cd-209b-4e9e-a8e4-69ebe98c5873/127.0.0.1:54292
+Unexpected error
+System.Security.Authentication.AuthenticationException: Falha a uma chamada a SSPI, consulte a exceção interna. ---> System.ComponentModel.Win32Exception: Erro desconhecido ao processar o certificado
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Security.SslState.InternalEndProcessAuthentication(LazyAsyncResult lazyResult)
+   em System.Net.Security.SslState.EndProcessAuthentication(IAsyncResult result)
+   em System.Net.Security.SslStream.EndAuthenticateAsServer(IAsyncResult asyncResult)
+   em SuperSocket.SocketEngine.AsyncStreamSocketSession.OnBeginInitStream(IAsyncResult result, Boolean connect)

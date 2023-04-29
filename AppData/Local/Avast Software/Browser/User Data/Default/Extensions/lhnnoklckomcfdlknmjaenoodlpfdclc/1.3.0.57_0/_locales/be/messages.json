@@ -1,0 +1,360 @@
+{
+    "extensionName": {
+        "message": "Рэжым банкінгу",
+        "description": "The title of the application, displayed in the web store, in extension management."
+    },
+    "settingsTitle": {
+        "message": "РЭЖЫМ БАНКІНГУ",
+        "description": "The title of the application on settings page"
+    },
+    "errorText": {
+        "message": "Праблемы з запускам Рэжыму банкінгу? Паспрабуйце перазагрузіць браўзер або звярніцеся да <a target='blank' href='$link$'>Пытанняў і адказаў</a>",
+        "description": "Message, which is shown in popup, when native application connection has been lost",
+        "placeholders": {
+            "link": {
+                "content": "$1"
+            }
+        }
+    },
+    "tip": {
+        "message": "Парада",
+        "description": "Word 'tip' on any place"
+    },
+    "extensionDesc": {
+        "message": "Пераключальнік Рэжыму банкінгу",
+        "description": "The description of the application, displayed in the web store."
+    },
+    "iconTitleNone": {
+        "message": "Наладжванне Рэжыму банкінгу",
+        "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode."
+    },
+    "iconTitleDEF": {
+        "message": "Уключыць Рэжым банкінгу",
+        "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode."
+    },
+    "iconTitleSZ": {
+        "message": "Выключыць Рэжым банкінгу",
+        "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off."
+    },
+    "iconTitleSZActive": {
+        "message": "Рэжым банкінгу актыўны",
+        "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon."
+    },
+    "iconTitleNotLoaded": {
+        "message": "Не атрымалася загрузіць Рэжым банкінгу",
+        "description": "The title of the 'card' icon displayed, when connection to communication was not established."
+    },
+    "newPayModeTab": {
+        "message": "Новае акно Рэжыму банкінгу",
+        "description": "Menu item to open new empty SafeZone Browser Bank mode window."
+    },
+    "newSafeModeWin": {
+        "message": "Новае ахоўнае акно",
+        "description": "Menu item to open new SazeZone Browser Shielded window."
+    },
+    "openInPayMode": {
+        "message": "Адкрыць спасылку ў акне Рэжыму банкінгу",
+        "description": "Context menu item to open the link in Bank mode."
+    },
+    "openInSafeMode": {
+        "message": "Адкрыць спасылку ў ахоўным акне",
+        "description": "Context menu item to open the link in Shielded window."
+    },
+    "newIncognitoModeTab": {
+        "message": "Новае акно ў рэжыме інкогніта",
+        "description": "Menu item to open new tab in an Incognito mode window."
+    },
+    "openInIncognitoMode": {
+        "message": "Адкрыць спасылку ў акне інкогніта"
+    },
+    "popupPayModeTitle": {
+        "message": "Новае акно Рэжыму банкінгу",
+        "description": "Bank mode title displayed in browser popup."
+    },
+    "openedInPayMode": {
+        "message": "Гэту старонку нельга адкрыць у Рэжыме банкінгу",
+        "description": "Title, which is shown in popup after an bank page was switched to Bank Mode."
+    },
+    "openedInPayModeDescription": {
+        "message": "Рэжым банкінгу абараняе вашу асабістую інфармацыю ад «клавіятурных шпіёнаў» і іншых назіральнікаў.",
+        "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode."
+    },
+    "openedInPayModeClose": {
+        "message": "ЗАКРЫЦЬ",
+        "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode."
+    },
+    "openedInPayModeAutomatically": {
+        "message": "Заўсёды адкрываць гэту старонку ў Рэжыме банкінгу",
+        "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time."
+    },
+    "switchBackToBankMode": {
+        "message": "Вярнуцца ў Рэжым банкінгу",
+        "description": "Title, which is shown in popup after an bank page was switched to Bank Mode."
+    },
+    "BankMode": {
+        "message": "Рэжым банкінгу",
+        "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode."
+    },
+    "StandardDesktop": {
+        "message": "Стандартны працоўны стол",
+        "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode."
+    },
+    "notificationTitle": {
+        "message": "Вашы фінансавыя даныя могуць бачыць іншыя людзі.",
+        "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode"
+    },
+    "notificationButtonSwitch": {
+        "message": "АДКРЫЦЬ У РЭЖЫМЕ БАНКІНГУ",
+        "description": "Notification bar switch to Bank Mode button text."
+    },
+    "notificationButtonIgnore": {
+        "message": "Ігнараваць",
+        "description": "Notification bar switch to Bank Mode button text."
+    },
+    "notificationDoNotShow": {
+        "message": "Больш не паказваць на гэтым сайце",
+        "description": "It allows the user to disable the notification for a specific website"
+    },
+    "notificationInfoMessage": {
+        "message": "<b>Рэжым банкінгу бяспечна ізалюе сеансы купляў і банкаўскіх аперацый. каб не даць магчымасці хакерам</b> красці <b>нумары вашых крэдытных карт, паролі</b> і <b>іншыя асабістыя даныя</b>.",
+        "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode"
+    },
+    "notificationRemember": {
+        "message": "Запомніць для гэтага сайта",
+        "description": "Notification bar switch to Bank Mode button text."
+    },
+    "landingTitle": {
+        "message": "Рэжым банкінгу актываваны",
+        "description": "Title of landing page."
+    },
+    "landingInfo": {
+        "message": "Рэжым банкінгу абараняе вас ад «клавіятурных шпіёнаў» і іншых шкодных праграм, каб падтрымліваць бяспеку вашых даных",
+        "description": "Detailed information about Bank Mode on landing page."
+    },
+    "landingOk": {
+        "message": "Перайсці да ярлыкоў",
+        "description": "OK button on landing page."
+    },
+    "landingDoNotShow": {
+        "message": "Больш не паказваць гэта паведамленне",
+        "description": "Do not show again button on landing page."
+    },
+    "welcomeTitle": {
+        "message": "Вітаем у Рэжыме банкінгу",
+        "description": "Title of welcome page."
+    },
+    "welcomeInfo": {
+        "message": "Рэжым банкінгу абараняе вашу асабістую інфармацыю ад «клавіятурных шпіёнаў» і іншых пагроз, якія могуць хавацца на вашым ПК",
+        "description": "Detailed information about Bank Mode on welcome page."
+    },
+    "welcomeOk": {
+        "message": "Зразумела",
+        "description": "OK button on welcome page."
+    },
+    "welcomeMore": {
+        "message": "Даведацца больш",
+        "description": "More button on welcome page."
+    },
+    "welcomeLink": {
+        "message": "https://www.avast.com/en-us/lp-safezone-bankmode",
+        "description": "Link for more information about Bank mode."
+    },
+    "popupPayModeDescription": {
+        "message": "Абараніце сваю прыватнасць пры аплаце ў крамах і банках у інтэрнэце.",
+        "description": "Bank mode description displayed in browser popup."
+    },
+    "popupSafeModeTitle": {
+        "message": "Новае ахоўнае акно",
+        "description": "Shielded window title displayed in browser popup."
+    },
+    "popupSafeModeDescription": {
+        "message": "Абараніце свой камп’ютар пры наведванні падазроных сайтаў.",
+        "description": "Shielded window description displayed in browser popup."
+    },
+    "popupInstallingSafeModeTitle": {
+        "message": "Усталёўка падтрымкі ахоўнага акна...",
+        "description": "Title notification that the Shielded window is being installed."
+    },
+    "popupSafeModeNotAvailableTitle": {
+        "message": "Падтрымка ахоўнага акна недаступна",
+        "description": "Title notification that the Shielded window is not available."
+    },
+    "popupSafeModeNotAvailableLink": {
+        "message": "Даведацца больш",
+        "description": "Link to provide more information that Safe mode is not available."
+    },
+    "blankPageTitleDEF": {
+        "message": "Укладка Стандартнага рэжыму"
+    },
+    "blankPageHeaderActiveDEF": {
+        "message": "Паўторна адкрыць Стандартны рэжым"
+    },
+    "blankPageHeaderLoadingDEF": {
+        "message": "Загрузка Стандартнага рэжыму..."
+    },
+    "blankPageDescDEF": {
+        "message": "Бягучая закладка адкрыта і даступна ў Стандартным рэжыме браўзера SafeZone."
+    },
+    "blankButtonDEF": {
+        "message": "Паўторна адкрыць укладку ў Стандартным рэжыме"
+    },
+    "blankPageTitleSZ": {
+        "message": "Укладка Рэжыму банкінгу"
+    },
+    "blankPageHeaderActiveSZ": {
+        "message": "Рэжым банкінгу чакае..."
+    },
+    "blankPageHeaderLoadingSZ": {
+        "message": "Рэжым банкінгу загружаецца...",
+        "description": "Bank mode page header displayed when Bank mode is beeing started."
+    },
+    "blankPageDescActiveSZ": {
+        "message": "Браўзер SafeZone прытрымаў гэту ўкладку, каб абараніць яе ад «клавіятурных шпіёнаў» і іншага шкоднага праграмнага забеспячэння, якое можа хавацца на вашым камп’ютары.",
+        "description": "Bank mode description when tab is active in Bank mode but seen from default mode."
+    },
+    "blankButtonSZ": {
+        "message": "Вярнуцца ў Рэжым банкінгу"
+    },
+    "blankPageHeaderLoadingSZPhase": {
+        "message": "Рэжым банкінгу"
+    },
+    "blankPageDescLoadingSZPhase1": {
+        "message": "Рэжым банкінгу загружаецца. Пачакайце некалькі секунд."
+    },
+    "blankPageDescLoadingSZPhase2": {
+        "message": "Пачакайце яшчэ некалькі секунд."
+    },
+    "blankPageDescLoadingSZPhase3": {
+        "message": "Падчас загрузкі Рэжыму банкінгу нешта пайшло не так. Каб працягнуць, паспрабуйце загрузіць Рэжым банкінгу яшчэ раз."
+    },
+    "blankPageButtonLoadingSZPhase3": {
+        "message": "Паўтарыць спробу"
+    },
+    "blankPageLoadingPanicSuggestions": {
+        "message": "Калі вы часта бачыце гэта, паспрабуйце гэтыя <a>прапановы</a>."
+    },
+    "blankPageTitleNG": {
+        "message": "Укладка ахоўнага акна"
+    },
+    "blankPageHeaderActiveNG": {
+        "message": "Паўторна адкрыць у ахоўным акне"
+    },
+    "blankPageHeaderLoadingNG": {
+        "message": "Ахоўнае акно загружаецца..."
+    },
+    "blankButtonNG": {
+        "message": "Паўторна адкрыць укладку ў ахоўным акне"
+    },
+    "startPageTitleSZ": {
+        "message": "Рэжым банкінгу",
+        "description": "Bank Mode page title, visible in page tab."
+    },
+    "startPageHeaderSZ": {
+        "message": "Рэжым банкінгу",
+        "description": "Paymode page header"
+    },
+    "startPageDescSZ": {
+        "message": "<p>Браўзер SafeZone аўтаматычна адкрывае ўсе банкаўскія сайты ў Рэжыме банкінгу. Дзякуючы гэтаму ізалюецца сеанс сувязі і ўключаецца абарона ад «клавіятурных шпіёнаў» і іншага праграмнага забеспячэння, якое можа хавацца на вашым камп’ютары.</p><p>У Рэжыме банкінгу вы можаце выконваць фінансавыя аперацыі і не хвалявацца, што пароль або іншыя асабістыя звесткі будуць украдзены.</p>",
+        "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags."
+    },
+    "startPageDescNG": {
+        "message": "<p>Браўзер SafeZone аўтаматычна адкрывае падазроныя сайты ў ахоўным акне, што ізалюе сайт ад вашага камп’ютара, каб шкоднае змесціва не пранікла ў яго.</p><p>Таксама можна адкрыць ахоўнае акно ўручную, каб заставацца ў нябачнасці падчас прагляду інтэрнэт-старонак: інфармацыя аб тым, якія сайты вы наведалі і якія файлы спампавалі, не захаваецца.</p>",
+        "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags."
+    },
+    "openPayModeNotification": {
+        "message": "Мы аўтаматычна адкрылі гэты сайт у Рэжыме банкінгу, каб абараніць вашы даныя падчас інтэрнэт-банкінгу",
+        "description": "Notification shown to the user when he opens the page in Bank mode for first time."
+    },
+    "openPayModeNotificationCloseButton": {
+        "message": "Закрыць",
+        "description": "Close button for open in Bank Mode notitfication"
+    },
+    "openPayModeNotificationDontShowAgain": {
+        "message": "Больш не паказваць гэта паведамленне",
+        "description": "Check box label for Bank Mode notification to disable the message"
+    },
+    "errNotUrl": {
+        "message": "Гэта несапраўдны URL-адрас",
+        "description": "Error text, which informs that string is not URL"
+    },
+    "errDuplicatedUrl": {
+        "message": "Сайт ужо ўключаны ў спіс",
+        "description": "Error text, which informs that input URL is already in list"
+    },
+    "emptyList": {
+        "message": "Спіс пусты"
+    },
+    "option_switcher_hidden": {
+        "message": "Адключыць запрашэнне пераходу ў Рэжым банкінгу"
+    },
+    "option_switcher_auto": {
+        "message": "Сайты з аўтаматычным пераходам у Рэжым банкінгу"
+    },
+    "option_switcher_disabled": {
+        "message": "Спіс сайтаў, для якіх вы адключылі прапановы перайсці ў Рэжым банкінгу"
+    },
+    "settingsPageTitle": {
+        "message": "Пашыраныя налады рэжыму банкінгу",
+        "description": "Settings page main title"
+    },
+    "settingsPageDescription": {
+        "message": "Абарона фінансавых даных пры выкананні купляў і банкаўскіх аперацый у інтэрнэце",
+        "description": "Extension description"
+    },
+    "settingsPageOpenBankModeButton": {
+        "message": "адкрыць",
+        "description": "Open button for opening bank mode through the settings page"
+    },
+    "settingsPageEnableNotification": {
+        "message": "Паказваць запрашэнне пераходу ў Рэжым банкінгу на вэб-сайтах банкаў",
+        "description": "Lever text for enabling bank mode notification prompt"
+    },
+    "settingsPageAutomaticSwitchToBankModeList": {
+        "message": "Аўтаматычна адкрываць Рэжым банкінгу на наступных вэб-сайтах",
+        "description": "Your custom websites to switch to Bank Mode automatically"
+    },
+    "settingsPageDisableNotificationList": {
+        "message": "Не паказваць запрашэнне пераходу ў Рэжым банкінгу на наступных вэб-сайтах",
+        "description": "List of websites you excluded from displaying Bank Mode notification prompt"
+    },
+    "settingsPageAddButton": {
+        "message": "дадаць",
+        "description": "Add a value to the list"
+    },
+    "settingsPageEditButton": {
+        "message": "Рэдагаваць",
+        "description": "Edit an existing list value"
+    },
+    "settingsPageRemoveButton": {
+        "message": "Выдаліць",
+        "description": "Remove a value from the list"
+    },
+    "settingsPageCancelButton": {
+        "message": "Адмяніць",
+        "description": "Cancel dialog"
+    },
+    "settingsDialogEditSite": {
+        "message": "Рэдагаваць сайт",
+        "description": "Settings dialog title"
+    },
+    "settingsDialogEditTemporaryRule": {
+        "message": "Рэдагаваць часовае правіла",
+        "description": "Settings dialog title"
+    },
+    "settingsDialogAddSite": {
+        "message": "Дадаць сайт",
+        "description": "Settings dialog title"
+    },
+    "settingsDialogAddTemporaryRule": {
+        "message": "Дадаць часовае правіла",
+        "description": "Settings dialog title"
+    },
+    "settingsDialogLabelSite": {
+        "message": "Сайт",
+        "description": "Settings dialog label"
+    },
+    "notAValidWebAddress": {
+        "message": "Несапраўдны вэб-адрас",
+        "description": "Settings dialog label"
+    }
+}

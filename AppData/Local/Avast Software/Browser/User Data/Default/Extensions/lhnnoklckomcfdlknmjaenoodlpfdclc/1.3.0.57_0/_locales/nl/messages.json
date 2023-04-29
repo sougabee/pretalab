@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Bankmodus"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Standaardbureaublad"
+   },
+   "blankButtonDEF": {
+      "message": "Tabblad Standaardmodus opnieuw openen"
+   },
+   "blankButtonNG": {
+      "message": "Tabblad opnieuw openen in afgeschermd venster"
+   },
+   "blankButtonSZ": {
+      "message": "Terug naar Bankmodus"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Opnieuw proberen"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Het tabblad is door de SafeZone-browser geblokkeerd om het te beschermen tegen keyloggers en andere schadelijke software die zich mogelijk op uw computer heeft genesteld."
+   },
+   "blankPageDescDEF": {
+      "message": "Het huidige tabblad wordt geladen en is beschikbaar in de standaardmodus van SafeZone-browser."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Bankmodus laden..."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Het duurt iets langer. Nog even geduld a.u.b."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Er is iets misgegaan tijdens het laden van de bankmodus. Probeer de bankmodus opnieuw te laden."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Standaardmodus opnieuw openen"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Opnieuw openen in afgeschermd venster"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Bankmodus wacht op verwerking..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Standaardmodus laden..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Afgeschermd venster laden..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Bankmodus laden..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Bankmodus"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Als dit vaker gebeurt, bieden de volgende \u003Ca>suggesties\u003C/a> mogelijk uitkomst."
+   },
+   "blankPageTitleDEF": {
+      "message": "Tabblad Standaardmodus"
+   },
+   "blankPageTitleNG": {
+      "message": "Tabblad Afgeschermd venster"
+   },
+   "blankPageTitleSZ": {
+      "message": "Tabblad Bankmodus"
+   },
+   "emptyList": {
+      "message": "De lijst is leeg"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "De website komt al in de lijst voor"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Dit is geen geldig URL-adres"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Problemen met het starten van de bankmodus? Start de browser opnieuw of raadpleeg de \u003Ca target='blank' href='$link$'>FAQ\u003C/a>.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Bankmodus activeren"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Bankmodus"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Bankmodus inschakelen"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Bankmodus configureren"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Bankmodus is niet geladen"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Bankmodus uitschakelen"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Bankmodus is actief"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Dit bericht voortaan verbergen"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "De bankmodus beschermt uw activiteiten en persoonlijke gegevens tegen keyloggers en pottenkijkers."
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Ga naar Snelkoppelingen"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "De bankmodus is geactiveerd"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Nieuw incognitovenster"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Nieuw venster Bankmodus"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Nieuw afgeschermd venster"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Geen geldig webadres"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Negeren"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "OPENEN IN BANKMODUS"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Niet meer weergeven op deze website"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Bankmodus schermt winkel- en banksessies op een veilige manier af om te voorkomen dat hackers\u003C/b> uw\u003Cb>creditcardnummers, wachtwoorden\u003C/b> en \u003Cb>andere privégegevens\u003C/b> stelen."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Onthouden voor deze website"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Uw financiële gegevens zijn mogelijk zichtbaar voor anderen."
+   },
+   "openInIncognitoMode": {
+      "message": "Koppeling openen in incognitovenster"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Koppeling openen in venster Bankmodus"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Koppeling openen in afgeschermd venster"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Deze site is automatisch geopend in de bankmodus om uw privacy tijdens het regelen van uw onlinebankzaken te beschermen."
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Sluiten"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Dit bericht voortaan verbergen"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Deze pagina is geopend in de bankmodus"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Deze pagina altijd openen in de bankmodus"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "SLUITEN"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "De bankmodus beschermt uw persoonlijke gegevens tegen keyloggers en pottenkijkers."
+   },
+   "option_switcher_auto": {
+      "message": "Voor aangepaste websites automatisch overschakelen op de bankmodus"
+   },
+   "option_switcher_disabled": {
+      "message": "Lijst van websites waarvoor de melding over de bankmodus niet moet worden weergegeven"
+   },
+   "option_switcher_hidden": {
+      "message": "Melding over de bankmodus uitschakelen"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Ondersteuning voor afgeschermd venster installeren..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Bescherm uw privacy tijdens transacties en onlinebankieren."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Nieuw venster Bankmodus"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Bescherm uw computer tegen geïnfecteerde webpagina's."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Meer informatie"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Er is geen ondersteuning beschikbaar voor afgeschermde vensters."
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Nieuw afgeschermd venster"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Website toevoegen"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Tijdelijke regel toevoegen"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Website bewerken"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Tijdelijke regel bewerken"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Website"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "toevoegen"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Bankmodus automatisch openen op de volgende websites"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Annuleren"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Mijn financiële gegevens beschermen tijdens winkelen en bankieren online"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Melding over Bankmodus niet weergeven op de volgende websites"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Bewerken"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Melding over Bankmodus weergeven op websites van banken"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "openen"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Verwijderen"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Geavanceerde instellingen Bankmodus"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "BANKMODUS"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>In de SafeZone-browser worden verdachte sites automatisch geopend in een afgeschermd venster, waardoor deze worden afgeschermd van uw computer en u geen schade kunnen berokkenen.\u003C\\/p>\u003Cp>U kunt het afgeschermde venster ook handmatig openen en uzelf op die manier onzichtbaar maken tijdens het internetten, zodat niet wordt bijgehouden welke sites u bezoekt of welke bestanden u downloadt.\u003C\\/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>In de SafeZone-browser worden alle banksites automatisch in de bankmodus geopend. Hierbij wordt de sessie afgeschermd en beschermd tegen keyloggers en andere schadelijke software die zich mogelijk op uw computer heeft genesteld.\u003C\\/p>\u003Cp>In de bankmodus kunt u al uw financiële transacties in alle rust op één plek afhandelen, zonder dat u bang hoeft te zijn dat uw wachtwoord of andere persoonlijke informatie wordt gestolen.\u003C\\/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Bankmodus"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Bankmodus"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Terug naar Bankmodus"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Tip"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "De bankmodus beschermt uw persoonlijke gegevens tegen keyloggers en andere dreigingen die zich op uw computer schuilhouden."
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Meer informatie"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "OK"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Bankmodus"
+   }
+}

@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Banka Modu"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Standart Masaüstü"
+   },
+   "blankButtonDEF": {
+      "message": "Varsayılan Mod sekmesini yeniden aç"
+   },
+   "blankButtonNG": {
+      "message": "Sekmeyi Kalkanlı pencerede yeniden aç"
+   },
+   "blankButtonSZ": {
+      "message": "Beni Banka Modu'na geri götür"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Tekrar dene"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "SafeZone tarayıcısı bu sekmeyi bilgisayarınızda gizlenmiş olabilecek muhtemel tuş kaydedicilerden veya diğer kötü amaçlı yazılımlardan korumak için beklemeye aldı."
+   },
+   "blankPageDescDEF": {
+      "message": "Mevcut sekme SafeZone Tarayıcısı Varsayılan Modu'nda açık ve kullanılabilir."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Banka Modu yükleniyor. Lütfen bekleyin."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Lütfen bekleyin. İşlem birkaç saniye içinde tamamlanacak."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Banka Modu yüklenirken bir sorun oluştu. Devam etmek için Banka Modu'nu tekrar yüklemeyi deneyin."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Varsayılan Mod'u yeniden aç"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Kalkanlı pencerede yeniden aç"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Banka Modu beklemede..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Varsayılan Mod yükleniyor..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Kalkanlı pencere yükleniyor..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Banka Modu yükleniyor..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Banka Modu"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Bununla sık sık karşılaşıyorsanız, şu \u003Ca>önerileri\u003C/a> deneyin."
+   },
+   "blankPageTitleDEF": {
+      "message": "Varsayılan Mod sekmesi"
+   },
+   "blankPageTitleNG": {
+      "message": "Kalkanlı pencere sekmesi"
+   },
+   "blankPageTitleSZ": {
+      "message": "Banka Modu sekmesi"
+   },
+   "emptyList": {
+      "message": "Liste boş"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Web sitesi zaten listede"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Bu geçerli bir URL adresi değil"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Banka Modu'nu başlatırken sorun mu yaşıyorsunuz? Tarayıcıyı yeniden başlatmayı deneyin veya \u003Ca target='blank' href='$link$'>SSS\u003C/a> bölümüne göz atın.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Banka Modu ayarı"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Banka Modu"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Banka Modu'nu aç"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Banka Modu ayarlanıyor"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Banka Modu yüklenemedi"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Banka Modu'nu kapat"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Banka Modu etkin"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Bu mesajı tekrar gösterme"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Banka Modu gizli verilerinizi güvende tutmak için işlemlerinizi tuş kaydedicilerden ve casuslardan korur"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Kısayollara git"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Banka Modu etkinleştirildi"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Yeni Gizli pencere"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Yeni Banka Modu penceresi"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Yeni Kalkanlı pencere"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Geçerli bir web adresi değil"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Yok say"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "BANKA MODU'NDA AÇ"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Bu sitede bir daha gösterme"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Banka Modu, alışveriş ve banka işlemleri oturumlarını güvenle izole ederek, bilgisayar korsanlarının\u003C/b> \u003Cb>kredi kartı numaralarınızı, parolalarınızı\u003C/b> ve \u003Cb>diğer gizli verilerinizi\u003C/b> çalmasını engeller."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Bu site için hatırla"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Finansal verileriniz başkaları tarafından görülebilir."
+   },
+   "openInIncognitoMode": {
+      "message": "Bağlantıyı Gizli pencerede aç"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Bağlantıyı Banka Modu penceresinde aç"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Bağlantıyı Kalkanlı pencerede aç"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Çevrim içi bankacılık işlemleri sırasında gizliliğinizi korumak için bu siteyi otomatik olarak Banka Modu'nda açtık"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Kapat"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Bu mesajı tekrar gösterme"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Bu sayfa Banka Modu'nda açıldı"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Bu sayfayı her zaman Banka Modu'nda aç"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "KAPAT"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Banka Modu, kişisel bilgilerinizi tuş kaydedicilere ve casuslara karşı güvende tutar."
+   },
+   "option_switcher_auto": {
+      "message": "Otomatik olarak Banka Modu'nda açılacak özel web siteleriniz"
+   },
+   "option_switcher_disabled": {
+      "message": "Banka Modu bildirim isteminin gösterilmesini devre dışı bıraktığınız web sitelerinin listesi"
+   },
+   "option_switcher_hidden": {
+      "message": "Banka Modu bildirim istemini devre dışı bırak"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Kalkanlı pencere desteği yükleniyor..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Çevrim içi ödeme veya bankacılık işlemlerinizi yaparken gizliliğinizi koruyun."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Yeni Banka Modu penceresi"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Virüs bulaşmış web içeriklerine erişirken bilgisayarınızı koruyun."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Daha fazla bilgi edinin"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Kalkanlı pencere desteği kullanılamıyor"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Yeni Kalkanlı pencere"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Site ekle"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Geçici kural ekle"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Siteyi düzenle"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Geçici kuralı düzenle"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Site"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "ekle"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Aşağıdaki web sitelerinde Banka Modu'nu otomatik olarak aç"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "İptal"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Çevrim içi alışveriş ve bankacılık işlemlerimde finansal verilerimi koru"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Banka Modu bildirim istemini aşağıdaki web sitelerinde gösterme"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Düzenle"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Banka web sitelerinde Banka Modu bildirim istemini göster"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "aç"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Kaldır"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Banka Modu Gelişmiş Ayarlar"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "BANKA MODU"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone tarayıcısı şüpheli siteleri otomatik olarak Kalkanlı pencerede açar ve siteyi bilgisayarınızdan izole ederek, kötü amaçlı içeriklerin bilgisayarınıza saldırmasını engeller.\u003C/p>\u003Cp>Gezinirken görünmez olmak ve ziyaret ettiğiniz sitelerin veya indirdiğiniz dosyaların kaydının tutulmaması için Kalkanlı pencereyi manuel olarak da açabilirsiniz.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone tarayıcısı tüm bankacılık sitelerini otomatik olarak Banka Modu'nda açar. Bu oturumu izole eder ve onu bilgisayarınızda gizlenmiş olabilecek muhtemel tuş kaydedicilerden veya diğer kötü amaçlı yazılımlardan korur.\u003C/p>\u003Cp>Banka Modu ile tüm finansal işlemlerinizi içiniz rahat, parolanızın veya diğer kişisel bilgilerinizin çalınacağı korkusu olmadan gerçekleştirebilirsiniz.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Banka Modu"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Banka Modu"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Banka Modu'na geri dönün"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "İpucu"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Banka Modu kişisel bilgilerinizi tuş kaydedicilerden ve bilgisayarınızda gizlenebilecek diğer tehditlerden korur"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Daha fazla bilgi edinin"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "Tamam, anladım"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Banka Modu'na hoş geldiniz"
+   }
+}

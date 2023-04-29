@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Bankas režīms"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Standarta darbvirsma"
+   },
+   "blankButtonDEF": {
+      "message": "Atvērt noklusētā režīma cilni atkal"
+   },
+   "blankButtonNG": {
+      "message": "Vēlreiz atvērt cilni aizsargātā logā"
+   },
+   "blankButtonSZ": {
+      "message": "Atgriezties bankas režīmā"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Mēģināt vēlreiz"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "SafeZone pārlūks ir iestatījis šo cilni gaidīšanas stāvoklī, lai to aizsargātu no iespējamiem taustiņsitienu reģistrētājiem un citas ļaunprogrammatūras, kas var slēpties jūsu datorā."
+   },
+   "blankPageDescDEF": {
+      "message": "Pašreizējā cilne ir atvērta un pieejama SafeZone pārlūka noklusētajā režīmā."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Notiek bankas režīma ielāde. Lūdzu, uzgaidiet."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Lūdzu, uzgaidiet vēl dažas sekundes."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Bankas režīma ielāde neizdevās. Lai turpinātu, mēģiniet ielādēt bankas režīmu vēlreiz."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Atkārtoti atvērt noklusēto režīmu"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Atvērt atkal aizsargātā logā"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Bankas režīms gaida..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Ielādē noklusēto režīmu..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Ielādē aizsargāto logu..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Ielādē bankas režīmu..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Bankas režīms"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Ja redzat šo paziņojumu bieži, izmēģiniet šos \u003Ca>ieteikumus\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Noklusētā režīma cilne"
+   },
+   "blankPageTitleNG": {
+      "message": "Aizsargātā loga cilne"
+   },
+   "blankPageTitleSZ": {
+      "message": "Bankas režīma cilne"
+   },
+   "emptyList": {
+      "message": "Saraksts ir tukšs"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Tīmekļa vietne jau ir sarakstā"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Šī nav derīga URL adrese"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Radušās problēmas, atverot bankas režīmu? Pārstartējiet pārlūku vai apskatiet \u003Ca target='blank' href='$link$'>BUJ\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Bankas režīma pārslēgšana"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Bankas režīms"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Ieslēgt bankas režīmu"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Notiek bankas režīma iestatīšana"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Bankas režīma ielāde neizdevās"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Izslēgt bankas režīmu"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Bankas režīms ir aktīvs"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Vairs nerādīt šo ziņojumu"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Bankas režīms aizsargā jūsu aktivitātes no taustiņsitienu reģistrētājiem un spiegiem, lai saglabātu jūsu personīgo datu drošību"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Doties uz saīsnēm"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Bankas režīms ir aktivizēts"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Jauns inkognito logs"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Jauns bankas režīma logs"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Jauns aizsargātais logs"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Nederīga tīmekļa adrese"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ignorēt"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ATVĒRT BANKAS REŽĪMĀ"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Vairs nerādīt šajā vietnē"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Bankas režīms droši izolē iepirkšanās un banku darbības sesijas, lai neļautu hakeriem\u003C/b>nozagt jūsu \u003Cb>kredītkaršu numurus, paroles\u003C/b> un \u003Cb>citus privātu datus\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Atcerēties šai vietnei"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Jūsu finanšu dati var būt redzami citiem."
+   },
+   "openInIncognitoMode": {
+      "message": "Atvērt saiti inkognito logā"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Atvērt saiti bankas režīma logā"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Atvērt saiti aizsargātā logā"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Mēs esam automātiski atvēruši šo vietni bankas režīmā, lai aizsargātu jūsu privātumu, izmantojot tiešsaistes bankas pakalpojumus"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Aizvērt"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Vairs nerādīt šo ziņojumu"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Šī lapa ir atvērta bankas režīmā"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Vienmēr atvērt šo lapu bankas režīmā"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "AIZVĒRT"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Bankas režīms aizsargā jūsu personīgo informāciju no taustiņsitienu reģistrētājiem un spiegiem."
+   },
+   "option_switcher_auto": {
+      "message": "Jūsu pielāgotās tīmekļa vietnes, lai automātiski pārslēgtos uz bankas režīmu"
+   },
+   "option_switcher_disabled": {
+      "message": "Saraksts ar tīmekļa vietnēm, kuras esat izslēdzis no bankas režīma paziņojuma uzvednes parādīšanas"
+   },
+   "option_switcher_hidden": {
+      "message": "Atspējot bankas režīma paziņojuma uzvedni"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Instalē aizsargātā loga atbalstu..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Aizsargājiet savu privātumu, iepērkoties vai izmantojot bankas pakalpojumus tiešsaistē."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Jauns bankas režīma logs"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Aizsargājiet savu datoru, piekļūstot inficētam tīmekļa saturam."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Uzzināt vairāk"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Aizsargātā loga atbalsts nav pieejams"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Jauns aizsargātais logs"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Pievienot vietni"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Pievienot pagaidu kārtulu"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Rediģēt vietni"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Rediģēt pagaidu kārtulu"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Vietne"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "pievienot"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Automātiski atvērt bankas režīmu šajās tīmekļa vietnēs"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Atcelt"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Aizsargājiet manus finanšu datus, kamēr es iepērkos un veicu bankas darbības tiešsaistē"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Nerādīt bankas režīma paziņojuma uzvedni šajās tīmekļa vietnēs"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Rediģēt"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Rādīt bankas režīma paziņojuma uzvedni bankas darbību tīmekļa vietnēs"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "atvērt"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Noņemt"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Bankas režīma papildu iestatījumi"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "BANKAS REŽĪMS"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone pārlūks automātiski atver aizdomīgas vietnes aizsargātā logā, izolējot vietni no jūsu datora tā, lai tajā nevarētu iekļūt ļaunprātīgs saturs.\u003C/p>\u003Cp>Aizsargāto logu varat atvērt arī manuāli, lai pārlūkošanas laikā paliktu neredzams un neatstātu informāciju par apmeklētajām vietnēm un lejupielādētajiem failiem.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone pārlūks automātiski atver visas banku vietnes bankas režīmā. Tas izolē sesiju un sniedz aizsardzību pret iespējamiem taustiņsitienu reģistrētājiem un citu ļaunprogrammatūru, kas var slēpties jūsu datorā.\u003C/p>\u003Cp>Ar bankas režīmu varat droši veikt visus finanšu darījumus, neuztraucoties par paroles vai citas personīgās informācijas nozagšanu.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Bankas režīms"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Bankas režīms"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Atgriezties bankas režīmā"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Padoms"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Bankas režīms sargā jūsu personīgo informāciju no taustiņsitienu reģistrētājiem un citiem draudiem, kas var slēpties jūsu datorā"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Uzzināt vairāk"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "Skaidrs"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Sveicināti bankas režīmā"
+   }
+}

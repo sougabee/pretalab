@@ -1,0 +1,8 @@
+﻿2021-07-02 14:24:29,647 [17] INFO  WebSocketServer-12053474 - Session: 7d97673e-cffe-44ca-a0b3-7f7b8c1105f4/127.0.0.1:56272
+A new session connected!
+2021-07-02 15:25:55,916 [55] INFO  WebSocketServer-12053474 - Session: 7d97673e-cffe-44ca-a0b3-7f7b8c1105f4/127.0.0.1:56272
+This session was closed for ClientClosing!
+2021-07-02 18:21:35,925 [33] INFO  WebSocketServer-12053474 - Session: d5a25fea-2481-472c-85ea-6b845fca0473/127.0.0.1:60021
+A new session connected!
+2021-07-02 19:16:20,339 [114] INFO  WebSocketServer-12053474 - Session: d5a25fea-2481-472c-85ea-6b845fca0473/127.0.0.1:60021
+This session was closed for ClientClosing!

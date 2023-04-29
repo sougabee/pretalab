@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Mode Bank"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Desktop Standar"
+   },
+   "blankButtonDEF": {
+      "message": "Buka kembali Mode Default"
+   },
+   "blankButtonNG": {
+      "message": "Buka ulang tab di jendela Terproteksi"
+   },
+   "blankButtonSZ": {
+      "message": "Bawa saya kembali ke Mode Bank"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Coba lagi"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Browser SafeZone menangguhkan tab ini untuk melindunginya dari kemungkinan adanya keylogger atau perangkat lunak berbahaya lainnya yang mungkin tersembunyi di komputer Anda."
+   },
+   "blankPageDescDEF": {
+      "message": "Tab ini terbuka dan tersedia di Mode Default Browser SafeZone."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Mode Bank sedang dimuat. Mohon tunggu sebentar."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Harap tunggu. Proses ini membutuhkan waktu beberapa saat lagi."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Terjadi kesalahan selama memuat Mode Bank. Untuk melanjutkan, coba muat Mode Bank lagi."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Buka kembali Mode Default"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Buka ulang di Jendela terproteksi"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Mode Bank menunggu ditangguhkan..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Memuat Mode Default..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Jendela Terproteksi sedang dimuat..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Mode Bank sedang dimuat..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Mode Bank"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Jika Anda sering melihat ini, coba \u003Ca>saran\u003C/a> ini."
+   },
+   "blankPageTitleDEF": {
+      "message": "Tab Mode Default"
+   },
+   "blankPageTitleNG": {
+      "message": "Tab jendela Terproteksi"
+   },
+   "blankPageTitleSZ": {
+      "message": "Tab Mode Bank"
+   },
+   "emptyList": {
+      "message": "Daftar kosong"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Situs web sudah ada di daftar"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Ini bukan alamat URL yang sah"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Bermasalah saat meluncurkan Mode Bank? Coba restart browser atau lihat \u003Ca target='blank' href='$link$'>FAQ\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Pengubah Mode Bank"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Mode bank"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Aktifkan Mode Bank"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Mode Bank sedang disiapkan"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Mode Bank gagal dimuat"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Nonaktifkan Mode Bank"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Mode Bank aktif"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Jangan tampilkan pesan ini lagi"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Mode Bank melindungi aktivitas Anda dari keylogger dan pengintai sehingga keamanan data pribadi Anda tetap terjaga"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Buka Pintasan"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Mode Bank diaktifkan"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Jendela mode Penyamaran baru"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Jendela Mode Bank baru"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Jendela Terproteksi baru"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Bukan alamat web yang valid"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Abaikan"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "BUKA DALAM MODE BANK"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Jangan tampilkan di situs ini lagi"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Mode Bank mengisolasi dengan aman sesi belanja dan aktivitas perbankan guna menghentikan peretas\u003C/b> agar tidak mencuri \u003Cb>nomor kartu kredit, kata sandi,\u003C/b> dan \u003Cb>data pribadi Anda lainnya\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ingat untuk situs ini"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Data keuangan Anda mungkin dapat dilihat orang lain."
+   },
+   "openInIncognitoMode": {
+      "message": "Buka tautan dalam jendela mode Penyamaran"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Buka tautan di jendela Mode Bank"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Buka tautan di jendela Terproteksi"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Kami telah membuka situs ini secara otomatis dalam Mode Bank untuk melindungi privasi Anda selama melakukan aktivitas perbankan online"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Tutup"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Jangan tampilkan pesan ini lagi"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Halaman ini telah dibuka di Mode Bank"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Selalu buka halaman ini dalam Mode Bank"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "TUTUP"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Mode Bank menjaga keamanan informasi pribadi Anda dari keylogger dan pengintai."
+   },
+   "option_switcher_auto": {
+      "message": "Situs web khusus Anda dialihkan ke Mode Bank secara otomatis"
+   },
+   "option_switcher_disabled": {
+      "message": "Daftar situs web yang dikecualikan agar tidak menampilkan permintaan pemberitahuan Mode Bank"
+   },
+   "option_switcher_hidden": {
+      "message": "Non-aktifkan permintaan pemberitahuan Mode Bank"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Menginstal dukungan jendela Terproteksi..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Melindungi privasi Anda saat melakukan pembayaran atau aktivitas perbankan online."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Jendela Mode Bank baru"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Lindungi komputer Anda saat mengakses konten web yang terinfeksi."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Pelajari lebih lanjut"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Dukungan jendela terproteksi tidak tersedia"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Jendela Terproteksi baru"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Tambahkan situs"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Tambahkan aturan sementara"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Edit situs"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Edit peraturan sementara"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Situs"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "tambah"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Buka Mode Bank secara otomatis di situs web berikut"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Batal"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Lindungi data keuangan saya saat berbelanja & bertransaksi perbankan online"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Jangan tampilkan permintaan pemberitahuan Mode Bank di situs web berikut"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Edit"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Tampilkan permintaan pemberitahuan Mode Bank di situs web perbankan"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "buka"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Hapus"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Pengaturan Lanjutan Mode Bank"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "MODE BANK"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Browser SafeZone secara otomatis membuka situs mencurigakan di jendela Terproteksi guna mengisolasinya agar konten berbahaya tidak akan dapat menyerang komputer Anda.\u003C/p>\u003Cp>Anda juga dapat membuka jendela Terproteksi secara manual agar Anda selalu tersembunyi selama menjelajah web sehingga tidak akan ada catatan tentang situs yang dikunjungi atau file yang diunduh.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Browser SafeZone secara otomatis membuka semua situs perbankan di Mode Bank. Langkah ini memisahkan sesi tersebut dan melindunginya dari kemungkinan adanya keylogger atau perangkat lunak berbahaya lainnya yang mungkin tersembunyi di komputer Anda.\u003C/p>\u003Cp>Dengan mode Bank, Anda dapat melakukan semua transaksi keuangan dengan tenang tanpa perlu merasa khawatir sandi atau detail pribadi Anda lainnya akan dicuri.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Mode Bank"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Mode Bank"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Alihkan kembali ke Mode Bank"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Tips"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Mode Bank menjaga keamanan informasi pribadi Anda dari keylogger dan ancaman lainnya yang mungkin tersembunyi di PC Anda"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Pelajari lebih lanjut"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "OK, mengerti"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Selamat datang di Mode Bank"
+   }
+}

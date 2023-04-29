@@ -1,0 +1,374 @@
+{
+   "activate_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "এই ফিচারটি ব্যবহার করতে গেলে আপনাকে আপনার Avast SecureLine VPN সক্রিয় করতে হবে।"
+   },
+   "activate_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "এই ফিচারটি ব্যবহার করতে গেলে আপনাকে আপনার Avast One VPN সক্রিয় করতে হবে।"
+   },
+   "connected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connected.",
+      "message": "সংযোগ করা হয়েছে"
+   },
+   "connecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connecting.",
+      "message": "সংযোগ করা হচ্ছে"
+   },
+   "connection_failed": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connection failed.",
+      "message": "সংযোগ ব্যর্থ হয়েছে"
+   },
+   "connection_status_connected_text": {
+      "description": "Text displayed on locations dashboard when the user is connected.",
+      "message": "সংযোগটি এনক্রিপ্টেড এবং আপনার অবস্থান লুকানো আছে।"
+   },
+   "connection_status_connected_title": {
+      "description": "Title displayed on locations dashboard when the user is connected. (Please use short text in the marker html code)",
+      "message": "আপনার VPN \u003Cspan class=\"marker-green\">সক্রিয়\u003C/span> আছে"
+   },
+   "connection_status_disconnected_free_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.",
+      "message": "আপনার ব্রাউজিংয়ের জন্য \u003Cb>ফ্রিতে\u003C/b> \u003Cb>5GB\u003C/b> পর্যন্ত VPN সুরক্ষা উপভোগ করুন"
+   },
+   "connection_status_disconnected_free_title": {
+      "description": "Title displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.  (Please use short text in the marker html code)",
+      "message": "আপনার ব্রাউজিংয়ের জন্য শক্তিশালী \u003Cspan class=\"marker-orange\">সুরক্ষা\u003C/span>"
+   },
+   "connection_status_disconnected_text": {
+      "description": "Text displayed on locations dashboard when the user is disconnected.",
+      "message": "সংযোগটি এনক্রিপ্টেড নেই এবং আপনার অবস্থান দেখা যাচ্ছে।"
+   },
+   "connection_status_disconnected_title": {
+      "description": "Title displayed on locations dashboard when the user is disconnected. (Please use short text in the marker html code)",
+      "message": "আপনার VPN \u003Cspan class=\"marker-red\">নিষ্ক্রিয়\u003C/span>আছে"
+   },
+   "connection_status_limit_reached_promotion_list_item_1": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 1",
+      "message": "এক ক্লিকে সম্পূর্ণ অনলাইন গোপনীয়তা পান"
+   },
+   "connection_status_limit_reached_promotion_list_item_2": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 2",
+      "message": "VPN দিয়ে 24/7 নিরাপদে সংযুক্ত হন"
+   },
+   "connection_status_limit_reached_promotion_list_item_3": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 3",
+      "message": "পাসওয়ার্ড প্রকাশ হয় কিনা তা জানুন"
+   },
+   "connection_status_limit_reached_promotion_text": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "প্রিমিয়ামে আনলিমিটেড VPN-এর সঙ্গে যে কোনো জায়গায় আরও বেশি ব্যক্তিগত ও সুরক্ষিত থাকুন, এবং স্ট্রিমিং কনটেন্টে অ্যাক্সেস পান।"
+   },
+   "connection_status_limit_reached_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "এই সপ্তাহে আপনার জন্য উপলভ্য সমস্ত ফ্রি VPN আপনি ব্যবহার করে ফেলেছেন।"
+   },
+   "connection_status_limit_reached_title": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit. (Please use short text in the marker html code)",
+      "message": "আপনি সীমায় \u003Cspan class=\"marker-orange\">পৌঁছে গেছেন\u003C/span>"
+   },
+   "disconnected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnected.",
+      "message": "সংযোগ বিচ্ছিন্ন হয়েছে"
+   },
+   "disconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnecting.",
+      "message": "সংযোগ বিচ্ছিন্ন হচ্ছে"
+   },
+   "dismiss": {
+      "description": "Caption on the button displayed on the error notification view.",
+      "message": "বাতিল করুন"
+   },
+   "extension_icon_overlay_text_connected": {
+      "description": "Extension icon tooltip text in connected state.",
+      "message": "Avast SecureLine VPN - সংযোগ করা হয়েছে"
+   },
+   "extension_icon_overlay_text_connecting": {
+      "description": "Extension icon tooltip text in connecting state.",
+      "message": "Avast SecureLine VPN - সংযোগ করা হচ্ছে"
+   },
+   "extension_icon_overlay_text_disconnected": {
+      "description": "Extension icon tooltip text in disconnected state.",
+      "message": "Avast SecureLine VPN- সংযোগ বিচ্ছিন্ন করা হয়েছে"
+   },
+   "extension_icon_overlay_text_disconnecting": {
+      "description": "Extension icon tooltip text in disconnecting state.",
+      "message": "Avast SecureLine VPN - সংযোগ বিচ্ছিন্ন করা হচ্ছে"
+   },
+   "extension_icon_overlay_text_reconnecting": {
+      "description": "Extension icon tooltip text in reconnecting state.",
+      "message": "Avast SecureLine VPN - পুনরায় সংযোগ করা হচ্ছে"
+   },
+   "fastest_location": {
+      "description": "Text displayed on main dashboard if the user selected the optimal location.",
+      "message": "দ্রুততম অবস্থান"
+   },
+   "free_data_allowed_day": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ / দিন",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_month": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ / মাস",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_week": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ / সপ্তাহ",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_year": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ / বছর",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_free": {
+      "description": "Text on top of the bar with the free data displayed in locations dashboard when the user is on trial.",
+      "message": "ফ্রি VPN ডেটা"
+   },
+   "free_data_renew_in": {
+      "description": "Text on top of the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DAYS$ দিন(গুলি)-এ রিনিউ করা হবে",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "free_data_used": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ ব্যবহার করা হয়েছে",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "if_that_does_not_work_try_reinstalling_browser_product": {
+      "description": "Message shown to user when extension suggests user to reinstall Secure browser.",
+      "message": "এটি কাজ না করলে, Avast Secure Browser পুনরায় ইনস্টল করার চেষ্টা করুন"
+   },
+   "information": {
+      "description": "Text to show in the tooltip.",
+      "message": "তথ্য"
+   },
+   "install_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "এই বৈশিষ্ট্যটি ব্যবহার করতে আপনাকে সাম্প্রতিক Avast SecureLine VPN ইনস্টল করতে হবে।"
+   },
+   "install_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "এই ফিচারটি ব্যবহার করতে গেলে আপনাকে Avast One-এর সর্বশেষ সংস্করণটি ইনস্টল করতে হবে"
+   },
+   "ip_address": {
+      "description": "The real IP of the user. Text to show in the tooltip.",
+      "message": "আসল IP: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12 "
+         }
+      }
+   },
+   "ip_info_connected": {
+      "description": "Text after the selected location when the user is connected.",
+      "message": "আপনি গোপনীয়তা পেয়েছেন।"
+   },
+   "ip_info_disconnected": {
+      "description": "Text after the selected location when the user is disconnected.",
+      "message": "আপনার ব্রাউজিং এনক্রিপ্ট করতে VPN চালু করুন"
+   },
+   "learn_more": {
+      "description": "Text that appears in a tooltip above Info buitton (i) in a dashboard popup.",
+      "message": "আরও জানুন"
+   },
+   "loading": {
+      "description": "Message shown to user when extension is loading data (upon launch).",
+      "message": "লোড হচ্ছে"
+   },
+   "locating": {
+      "description": "Text displayed instead of public IP address during fetching it via GeoIp service.",
+      "message": "চিহ্নিত করা"
+   },
+   "location": {
+      "description": "The location the user is connected to. Text to show in the tooltip.",
+      "message": "অবস্থান: $DATA$",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "USA, Las Vegas"
+         }
+      }
+   },
+   "make_sure_your_internet_connection_works_properly": {
+      "description": "Message shown to user when extension detects that there is no Internet connection.",
+      "message": "দেখে মনে হচ্ছে আপনি অফলাইন আছেন, অনুগ্রহ করে নিশ্চিত করুন যে আপনার ইন্টারনেট সংযোগ সঠিকভাবে কাজ করছে।"
+   },
+   "offline": {
+      "description": "Text which is displayed instead of Public IP address when host is offline.",
+      "message": "অফলাইন"
+   },
+   "optimal_location": {
+      "description": "Used to prepend name of location which is optimal.",
+      "message": "সর্বাধিক সুবিধাজনক অবস্থান"
+   },
+   "please_try_reinstalling_vpn_product": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "অনুগ্রহ করে Avast SecureLine VPN ক্লায়েন্ট আবার ইনস্টল করার চেষ্টা করুন"
+   },
+   "please_try_reinstalling_vpn_product_avast_one": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "অনুগ্রহ করে Avast One VPN ক্লায়েন্ট আবার ইনস্টল করার চেষ্টা করুন"
+   },
+   "product_description": {
+      "description": "Extension description.",
+      "message": "প্রকৃত অনলাইন গোপনীয়তার জন্য বোতামের এক ক্লিকে আপনার ইন্টারনেট সংযোগকে এনক্রিপ্ট করে।"
+   },
+   "product_name": {
+      "description": "Product name which is used for this application.",
+      "message": "Avast SecureLine VPN"
+   },
+   "promotion_button": {
+      "description": "Button for the promotion text displayed on locations dashboard when the user is on trial.",
+      "message": "প্রিমিয়াম ব্যবহার করুন"
+   },
+   "promotion_text": {
+      "description": "Text for the promotion text displayed at the bottom of locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "VPN-এর থেকে সবথেকে বেশি সুবিধা পান এবং আপনার গোপনীয়তা উন্নত করুন।"
+   },
+   "promotion_title": {
+      "description": "Title for the promotion text displayed at the bottom of the on locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "আনলিমিটেড ডেটা ও 55টি অবস্থান"
+   },
+   "reconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Reconnecting.",
+      "message": "পুনরায় সংযোগ করছে"
+   },
+   "secure_connection": {
+      "description": "Text displayed on locations dashboard",
+      "message": "সুরক্ষিত সংযোগ"
+   },
+   "see_how": {
+      "description": "Text of the hyperlink with URL of the Help page.",
+      "message": "কীভাবে দেখুন"
+   },
+   "select_location": {
+      "description": "Text displayed on locations dashboard for the user to select a new location.",
+      "message": "অবস্থান বেছে নিন"
+   },
+   "something_is_not_right": {
+      "description": "Message shown to user when extension detects an error.",
+      "message": "কিছু একটা ঠিক নেই"
+   },
+   "something_not_right_please_restart": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Avast SecureLine VPN-এর সাথে কিছু একটা ভুল হয়েছে। অনুগ্রহ করে আপনার কম্পিউটার পুনরায় শুরু করুন।"
+   },
+   "something_not_right_please_restart_avast_one": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Avast One VPN-এ কোনো একটা সমস্যা হচ্ছে। অনুগ্রহ করে আপনার কম্পিউটার রিস্টার্ট করুন।"
+   },
+   "this_is_your_current_ip_address": {
+      "description": "Text that appears in a tooltip above current IP address in notification popups.",
+      "message": "এটি আপনার বর্তমান আইপি ঠিকানা।"
+   },
+   "time_connected": {
+      "description": "The time the user is connected to the VPN. Text to show in the tooltip.",
+      "message": "সংযুক্ত থাকা সময়: $TIME$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "01:12:34"
+         }
+      }
+   },
+   "turn_on_vpn_reason": {
+      "description": "Text that appears in the tooltop above the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "এটি আপনার বর্তমান আইপি ঠিকানা। ওয়েবসাইটগুলো আপনাকে সহজে চেনার জন্য এটি ব্যবহার করতে পারে। আপনার সংযোগ ব্যক্তিগত করতে VPN চালু করুন।"
+   },
+   "update_browser_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update Secure browser.",
+      "message": "এই বৈশিষ্ট্য়টি ব্যবহার করতে আপনাকে আপনার Avast Secure Browser আপডেট করতে হবে।"
+   },
+   "update_now": {
+      "description": "Message shown on the button in a popup suggesting user to update browser or VPN client.",
+      "message": "এখনই আপডেট করুন"
+   },
+   "update_vpn_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "এই বৈশিষ্ট্যটি ব্যবহার করতে আপনাকে আপনার Avast SecureLine VPN ক্লায়েন্ট আপডেট করতে হবে।"
+   },
+   "update_vpn_product_to_use_this_feature_avast_one": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "এই ফিচারটি ব্যবহার করতে গেলে আপনাকে আপনার Avast One VPN ক্লায়েন্ট আপডেট করতে হবে।"
+   },
+   "virtual_ip": {
+      "description": "The virtual IP. Text to show in the tooltip.",
+      "message": "নতুন IP: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12"
+         }
+      }
+   },
+   "virtual_ip_address": {
+      "description": "Text before the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "ভার্চুয়াল আইপি ঠিকানা:"
+   },
+   "virtual_ip_address_explanation": {
+      "description": "Text that appears in the tooltop above the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "ভার্চুয়াল আইপি ঠিকানাটি অন্য সাইটগুলি আপনাকে কীভাবে দেখে তার অর্থ হল যে আপনার আসল অবস্থানটি এখন লুকানো আছে এবং আপনার ট্র্যাফিক এনক্রিপ্ট করা হয়েছে।"
+   },
+   "vpn_location": {
+      "description": "Text above the currently selected location in dashboard popup.",
+      "message": "VPN অবস্থান:"
+   },
+   "waiting_for_ip_address_to_be_assigned_to_your_computer": {
+      "description": "Text that appears in the tooltop above the 'Locating...' string at the footer of the dashboard popup.",
+      "message": "আইপি ঠিকানার জন্য অপেক্ষা করছে যা আপনার কম্পিউটারে ধার্য করা হবে।"
+   },
+   "you_need_to_update_your_vpn_product_extension": {
+      "description": "Message shown to user when extension suggests user to update VPN extension.",
+      "message": "আপনাকে আপনার Avast VPN এক্সটেনশন আপডেট করতে হবে।"
+   },
+   "your_computer_seems_to_be_offline": {
+      "description": "IP Address tooltip text when host is offline.",
+      "message": "আপনার কম্পিউটার অফলাইন বলে মনে হচ্ছে"
+   },
+   "your_ip_address": {
+      "description": "Text before the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "আপনার আইপি ঠিকানা:"
+   },
+   "your_location_connected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is connected.",
+      "message": "আপনার অবস্থান এখন অন্যদের কাছে এইভাবে দেখা যাচ্ছে:"
+   },
+   "your_location_disconnected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is disconnected.",
+      "message": "অবস্থান এইভাবে দেখা যাবে:"
+   }
+}

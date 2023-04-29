@@ -1,0 +1,320 @@
+{
+   "blankButtonDEF": {
+      "message": "เปิดแท็บโหมดค่าเริ่มต้นใหม่อีกครั้ง"
+   },
+   "blankButtonNG": {
+      "message": "เปิดแท็บหน้าต่างป้องกันใหม่อีกครั้ง"
+   },
+   "blankButtonSZ": {
+      "message": "พาฉันกลับไปที๋โหมดธนาคาร"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "ลองอีกครั้ง"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "เบราว์เซอร์ของ SafeZone ได้หยุดแท็บนี้ไว้ชั่วคราวเพื่อปกป้องเบราว์เซอร์จาก Keylogger ที่เป็นไปได้ หรือจากซอฟต์แวร์ที่เป็นอันตรายอื่น ๆ ที่อาจซ่อนไว้ในเครื่องคอมพิวเตอร์ของคุณ"
+   },
+   "blankPageDescDEF": {
+      "message": "แท็บปัจจุบันเปิดอยู่ และพร้อมใช้งานในโหมดค่าเริ่มต้นสำหรับเบราว์เซอร์ของ SafeZone"
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "โหมดธนาคารกำลังโหลดอยู่ โปรดรอสักครู่"
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "โปรดรออีกสองสามวินาที"
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "มีบางอย่างผิดปกติขณะโหลดโหมดธนาคาร หากต้องการดำเนินการต่อ ให้พยายามโหลดโหมดธนาคารอีกครั้ง"
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "เปิดโหมดค่าเริ่มต้นใหม่อีกครั้ง"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "เปิดหน้าต่างป้องกันใหม่อีกครั้ง"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "โหมดธนาคารกำลังรอค้างอยู่..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "กำลังโหลดโหมดค่าเริ่มต้น..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "กำลังโหลดหน้าต่างป้องกัน..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "โหมดธนาคารกำลังโหลด..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "โหมดธนาคาร"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "หากคุณยังเห็นสิ่งนี้อยู่บ่อยๆ ลองทำตาม \u003Ca>คำแนะนำ\u003C/a> เหล่านี้"
+   },
+   "blankPageTitleDEF": {
+      "message": "แท็บโหมดค่าเริ่มต้น"
+   },
+   "blankPageTitleNG": {
+      "message": "แท็บหน้าต่างป้องกัน"
+   },
+   "blankPageTitleSZ": {
+      "message": "แท็บโหมดธนาคาร"
+   },
+   "emptyList": {
+      "message": "รายการว่างเปล่า"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "มีเว็บไซต์นี้ในรายการแล้ว"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "นี่ไม่ใช่ที่อยู่ URL ที่ถูกต้อง"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "มีปัญหาให้การเปิดโหมดธนาคาร อยู่ใช่ไหม พยายามเปิดเบราว์เซอร์ใหม่หรืออ่าน\u003Ca target='blank' href='$link$'>คำถามที่พบบ่อย\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "ตัวสลับโหมดธนาคาร"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "โหมดธนาคาร"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "เปิดใช้งานโหมดธนาคาร"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "โหมดธนาคารกำลังตั้งค่า"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "โหมดธนาคารโหลดไม่สำเร็จ"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "ปิดใช้งานโหมดธนาคาร"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "โหมดธนาคารทำงานอยู่"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "อย่าแสดงข้อความนี้อีก"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "โหมดธนาคารปกป้องกิจกรรมของคุณจาก Keylogger และสปาย เพื่อให้ข้อมูลส่วนตัวของคุณปลอดภัย"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "ไปที่ทางลัด"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "เปิดใช้งานโหมดธนาคารแล้ว"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "หน้าต่างไม่ระบุตัวตนใหม่"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "หน้าต่างโหมดธนาคารใหม่"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "หน้าต่างป้องกันใหม่"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ไม่สนใจ"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "เปิดในโหมดธนาคาร"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "อย่าแสดงบนเว็บไซต์นี้อีก"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>โหมดธนาคารจะแยกส่วนการช้อปปิ้งและการธนาคารจากกันอย่างปลอดภัยเพื่อหยุดยั้งแฮกเกอร์\u003C/b>ไม่ให้ขโมย\u003Cb>หมายเลขบัตรเครดิต รหัสผ่าน\u003C/b> และ\u003Cb>ข้อมูลส่วนตัวอื่นๆ ของคุณ\u003C/b>"
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "จำสำหรับเว็บไซต์นี้"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "บุคคลอื่นอาจเห็นข้อมูลด้านการเงินของคุณได้"
+   },
+   "openInIncognitoMode": {
+      "message": "เปิดลิงก์ในหน้าต่างไม่ระบุตัวตน"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "เปิดลิงค์ในหน้าต่างโหมดธนาคาร"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "เปิดลิงค์ในหน้าต่างป้องกัน"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "เราได้เปิดเว็บไซต์นี้ในโหมดธนาคารโดยอัตโนมัติเพื่อปกป้องความเป็นส่วนตัวของคุณระหว่างการใช้ธนาคารออนไลน์"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "ปิด"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "อย่าแสดงข้อความนี้อีก"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "หน้านี้ถูกเปิดในโหมดธนาคาร"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "เปิดหน้านี้ในโหมดธนาคารเสมอ"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "ปิด"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "โหมดธนาคารจะเก็บข้อมูลส่วนบุคคลของคุณให้ปลอดภัยจาก Keylogger และสายลับ"
+   },
+   "option_switcher_auto": {
+      "message": "เว็บไซต์ที่กำหนดเองเพื่อสลับไปใช้โหมดธนาคารโดยอัตโนมัติ"
+   },
+   "option_switcher_disabled": {
+      "message": "รายชื่อเว็บไซต์ที่คุณกำหนดไว้ไม่ให้แสดงพรอมท์แจ้งเตือนโหมดธนาคาร"
+   },
+   "option_switcher_hidden": {
+      "message": "ปิดใช้งานพรอมท์แจ้งเตือนโหมดธนาคาร"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "กำลังติดตั้งการสนับสนุนหน้าต่างป้องกันใหม่..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "ปกป้องความเป็นส่วนตัวของคุณเมื่อชำระเงินหรือทำธุรกรรมออนไลน์"
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "หน้าต่างโหมดธนาคารใหม่"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "ปกป้องเครื่องคอมพิวเตอร์ของคุณเมื่อคุณเข้าถึงเนื้อหาของเว็บไซต์ที่ติดไวรัส"
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "การสนับสนุนหน้าต่างป้องกันใหม่ไม่พร้อมใช้งาน"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "หน้าต่างป้องกันใหม่"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "เพิ่ม"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "เปิดโหมดการธนาคารโดยอัตโนมัติในเว็บไซต์ต่อไปนี้"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "ปกป้องข้อมูลทางการเงินของฉันขณะช้อปปิ้ง & ธนาคารออนไลน์"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "อย่าแสดงพรอมต์การแจ้งเตือนโหมดธนาคารบนเว็บไซต์ธนาคาร"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "แก้ไข"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "แสดงพรอมต์การแจ้งเตือนโหมดธนาคารบนเว็บไซต์ธนาคาร"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "เปิด"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "ลบออก"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "การตั้งค่าขั้นสูงของโหมดธนาคาร"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "โหมดธนาคาร"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>เบราว์เซอร์ของ SafeZone จะเปิดเว็บไซต์ต้องสงสัยในหน้าต่างการป้องกันโดยอัตโนมัติ ด้วยการแยกเดี่ยวเว็บไซต์จากเครื่องคอมพิวเตอร์ของคุณ ดังนั้นจะไม่มีเนื้อหาที่อันตรายใด ๆ จะบุกรุกเข้าไปในเครื่องได้\u003C/p>\u003Cp>นอกจากนี้ คุณยังสามารถเปิดหน้าต่างการป้องกันแบบกำหนดเองเพื่อทำให้มองไม่เห็นตัวคุณในระหว่างการค้นหาได้ ดังนั้นจะไม่มีบันทึกแสดงถึงเว็บไซต์ใด ๆ ที่คุณได้เข้าเยี่ยมชม หรือไฟล์ที่คุณได้ดาวน์โหลดมา\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>เบราว์เซอร์ SafeZone เปิดเว็บไซต์ธนาคารทุกเว็บไซต์ในโหมดธนาคารโดยอัตโนมัติ โหมดนี้แยกเดี่ยวเซสชั่นออกมา และปกป้องเซสชั่นจาก Keylogger ที่อาจมี หรือซอฟต์แวร์ประสงค์ร้ายอื่นๆ ที่อาจซ่อนอยู่บนคอมพิวเตอร์ของคุณ\u003C/p>\u003Cp>ด้วยโหมดธนาคาร คุณสามารถทำธุรกรรมการเงินของคุณทั้งหมดด้วยความสงบ โดยปราศจากความกลัวว่ารหัสผ่านของคุณหรือรายละเอียดส่วนบุคคลอื่นๆ จะถูกขโมยไป\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "โหมดธนาคาร"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "โหมดธนาคาร"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "เคล็ดลับ"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "โหมดธนาคารช่วยให้ข้อมูลส่วนตัวของคุณปลอดภัยจาก Keylogger และจากภัยคุกคามอื่นๆ ที่อาจซ่อนอยู่ในพีซีของคุณ"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "ตกลง เข้าใจแล้ว"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "ยินดีต้อนรับสู่โหมดธนาคาร"
+   }
+}

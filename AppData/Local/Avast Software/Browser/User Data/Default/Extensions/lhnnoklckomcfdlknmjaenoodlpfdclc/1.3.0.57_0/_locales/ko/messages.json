@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "뱅킹 모드"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "기본 데스크톱"
+   },
+   "blankButtonDEF": {
+      "message": "기본 모드 다시 열기 탭"
+   },
+   "blankButtonNG": {
+      "message": "감시 창에서 탭 다시 열기"
+   },
+   "blankButtonSZ": {
+      "message": "뱅킹 모드로 돌아가기"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "다시 시도"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "SafeZone 브라우저가 컴퓨터에 숨겨져 있을 수 있는 가능한 키로거 또는 기타 악성 소프트웨어로부터 보호하기 위해 이 탭을 보류 상태로 설정했습니다."
+   },
+   "blankPageDescDEF": {
+      "message": "현재 탭이 SafeZone 브라우저 기본 모드로 열려 있으며 사용할 수 있습니다."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "뱅킹 모드를 로드하는 중입니다. 잠시만 기다려 주십시오."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "잠시 기다려 주십시오. 이 작업은 몇 초가 더 소요됩니다."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "뱅킹 모드를 로드하는 동안 문제가 발생했습니다. 계속하려면 뱅킹 모드를 다시 로드하십시오."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "기본 모드 다시 열기"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "감시 창에서 다시 열기"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "뱅킹 모드를 기다리는 중..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "기본 모드를 로드하는 중..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "감시 창을 로드하는 중..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "뱅킹 모드를 로드하는 중..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "뱅킹 모드"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "이 문제가 자주 표시되는 경우 이러한 \u003Ca>제안\u003C/a>을 시도하십시오."
+   },
+   "blankPageTitleDEF": {
+      "message": "기본 모드 탭"
+   },
+   "blankPageTitleNG": {
+      "message": "감시 창 탭"
+   },
+   "blankPageTitleSZ": {
+      "message": "뱅킹 모드 탭"
+   },
+   "emptyList": {
+      "message": "목록이 비어 있습니다."
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "웹 사이트가 목록에 이미 있습니다."
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "유효한 URL 주소가 아닙니다."
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "뱅킹 모드가 시작되지 않습니까? 브라우저를 다시 시작하거나 \u003Ca target='blank' href='$linkFAQ\u003C/a>를 확인하십시오.",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "뱅킹 모드 전환기"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "뱅킹 모드"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "뱅킹 모드 켜기"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "뱅킹 모드를 설정하는 중입니다."
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "뱅킹 모드 로드 실패"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "뱅킹 모드 끄기"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "뱅킹 모드가 활성 상태임"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "이 메시지를 다시 표시 안 함"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "뱅킹 모드를 사용하여 키로거와 침입자로부터 활동을 보호하고 개인 데이터를 안전하게 유지"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "바로 가기로 이동"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "뱅킹 모드가 활성화됨"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "새 시크릿 창"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "새 뱅킹 모드 창"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "새 감시 창"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "유효한 웹 주소가 아님"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "무시"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "뱅킹 모드에서 열기"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "이 사이트 다시 표시 안 함"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>뱅킹 모드로 쇼핑 및 뱅킹 세션을 안전하게 격리하여 해커가\u003C/b> 귀하의 \u003Cb>신용카드 번호, 비밀번호\u003C/b> 및 \u003Cb>기타 개인 데이터를 도용하지 못하도록 방지합니다.\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "이 사이트 저장"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "금융 데이터를 다른 사람이 볼 수 있습니다."
+   },
+   "openInIncognitoMode": {
+      "message": "시크릿 창에서 링크 열기"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "뱅킹 모드에서 링크 열기 창"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "감시 창에서 링크 열기"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "온라인 뱅킹 시 개인 정보를 보호하도록 뱅킹 모드에서 이 사이트를 자동으로 열었습니다."
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "닫기"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "이 메시지를 다시 표시 안 함"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "이 페이지는 뱅킹 모드에서 열렸음"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "이 페이지를 항상 뱅킹 모드에서 열기"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "닫기"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "뱅킹 모드를 사용해서 키로거 및 스파이로부터 개인 정보를 안전하게 유지하십시오."
+   },
+   "option_switcher_auto": {
+      "message": "뱅킹 모드로 자동으로 전환할 사용자 지정 웹 사이트"
+   },
+   "option_switcher_disabled": {
+      "message": "뱅킹 모드 알림 프롬프트를 표시하지 않을 웹 사이트 목록"
+   },
+   "option_switcher_hidden": {
+      "message": "뱅킹 모드 알림 프롬프트 사용 안 함"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "감시 창 지원을 설치하는 중..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "온라인 뱅킹 또는 지불 시 개인 정보를 보호합니다."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "새 뱅킹 모드 창"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "감염된 웹 콘텐츠에 액세스할 때 컴퓨터를 보호합니다."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "자세한 내용"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "감시 창 지원을 사용할 수 없음"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "새 감시 창"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "사이트 추가"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "임시 규칙 추가"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "사이트 편집"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "임시 규칙 편집"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "사이트"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "추가"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "다음 웹사이트에서 자동으로 뱅킹 모드 열기"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "취소"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "온라인 쇼핑 및 뱅킹 시 금융 데이터를 보호합니다"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "다음 웹사이트에서 뱅킹 모드 알림 프롬프트 표시 안 함"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "편집"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "뱅킹 웹사이트에서 뱅킹 모드 알림 프롬프트 표시"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "열기"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "제거"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "뱅킹 모드 고급 설정"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "뱅킹 모드"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone 브라우저는 감시 창에서 의심스러운 사이트를 자동으로 엽니다. 그러면 컴퓨터에서 사이트가 분리되어 악성 콘텐츠의 침입을 막을 수 있습니다.\u003C/p>\u003Cp>또한 탐색 시 익명을 유지하도록 감시 창을 수동으로 열 수 있어, 자신이 방문한 사이트 또는 다운로드한 파일의 기록이 남지 않습니다.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone 브라우저는 뱅킹 모드에서 모든 뱅킹 사이트를 자동으로 엽니다. 그러면 세션이 분리되어 컴퓨터에 숨겨져 있을 수 있는 가능한 키로거 또는 기타 악성 소프트웨어로부터 세션이 보호됩니다.\u003C/p>\u003Cp>뱅킹 모드를 켜면 비밀번호 또는 기타 개인 세부 정보가 도난당할 위험 없이 편안하게 모든 금융 거래를 수행할 수 있습니다.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "뱅킹 모드"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "뱅킹 모드"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "뱅킹 모드로 돌아가기"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "팁"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "뱅킹 모드를 사용하여 키로거와 침입자로부터 개인 정보를 유지하고 PC에 숨어 있을 수도 있는 다른 위협으로부터 안전하게 보호"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode에서 선택할 수 있습니다."
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "자세한 내용"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "확인"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "뱅킹 모드 시작"
+   }
+}

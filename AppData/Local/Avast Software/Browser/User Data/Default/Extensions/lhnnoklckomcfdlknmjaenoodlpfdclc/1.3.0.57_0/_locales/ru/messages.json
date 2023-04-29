@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Режим безопасных платежей"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Стандартный рабочий стол"
+   },
+   "blankButtonDEF": {
+      "message": "Повторно открыть вкладку в стандартном режиме"
+   },
+   "blankButtonNG": {
+      "message": "Повторно открыть вкладку в защитном окне"
+   },
+   "blankButtonSZ": {
+      "message": "Вернуться в режим безопасных платежей"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Попробовать снова"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Браузер SafeZone придержал эту вкладку, чтобы защитить ее от \"клавиатурных шпионов\" и прочего вредоносного программного обеспечения, которое может скрываться на вашем компьютере."
+   },
+   "blankPageDescDEF": {
+      "message": "Текущая вкладка открыта и доступна в стандартном режиме браузера SafeZone."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Загружается режим безопасных платежей. Подождите немного."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Подождите, пожалуйста. Потребуется еще немного времени."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Что-то не заладилось при загрузке режима безопасных платежей. Чтобы продолжить, снова загрузите режим безопасных платежей."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Возобновить стандартный режим"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Повторно открыть в защитном окне"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Ожидает режим безопасных платежей..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Загрузка стандартного режима..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Загружается защитное окно..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Загружается режим безопасных платежей..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Режим безопасных платежей"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Если вы часто видите это сообщение, используйте эти \u003Ca>рекомендации\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Вкладка стандартного режима"
+   },
+   "blankPageTitleNG": {
+      "message": "Вкладка защитного окна"
+   },
+   "blankPageTitleSZ": {
+      "message": "Вкладка режима безопасных платежей"
+   },
+   "emptyList": {
+      "message": "Список пуст"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Веб-сайт уже включен в список"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Вы неправильно ввели URL-адрес"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Есть проблемы с запуском режима безопасных платежей? Попробуйте перезапустить браузер или загляните в \u003Ca target='blank' href='$link$'>ЧаВо\u003C\\/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Переключатель режима банковских операций"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Режим безопасных платежей"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Включить режим безопасных платежей"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Настройка режима безопасных платежей"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Не удалось загрузить режим безопасных платежей"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Выключить режим безопасных платежей"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Включен режим безопасных платежей"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Больше не показывать это сообщение"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Режим безопасных платежей защищает вас от \"клавиатурных шпионов\" и прочих вредоносных программ, обеспечивая безопасность ваших данных"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Перейти к ярлыкам"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Режим безопасных платежей включен"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Новое окно в режиме инкогнито"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Новая вкладка в режиме безопасных платежей"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Новое защитное окно"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Неправильный веб-адрес"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Игнорировать"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ОТКРЫТЬ В РЕЖИМЕ БАНКОВСКИХ ОПЕРАЦИЙ"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Больше не показывать на этом сайте"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Режим безопасных платежей безопасно изолирует сеансы покупок и банковских операций, не давая хакерам\u003C/b> выкрасть ваши \u003Cb>пароли, номера кредитных карт\u003C/b> и \u003Cb>другие конфиденциальные данные\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Помнить для этого сайта"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Ваши финансовые данные могут увидеть посторонние."
+   },
+   "openInIncognitoMode": {
+      "message": "Открыть ссылку в окне инкогнито"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Открыть ссылку в режиме безопасных платежей"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Открыть ссылку в защитном окне"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Мы автоматически открыли этот сайт в режиме безопасных платежей, чтобы защитить ваши данные во время интернет-банкинга"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Закрыть"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Не показывать больше это сообщение"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Эта страница открыта в режиме банковских операций"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Всегда открывать эту страницу в режиме банковских операций"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "ЗАКРЫТЬ"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Режим банковских операций защищает ваши личные данные от «клавиатурных шпионов» и других наблюдателей."
+   },
+   "option_switcher_auto": {
+      "message": "Сайты с автоматическим переходом в режим безопасных платежей"
+   },
+   "option_switcher_disabled": {
+      "message": "Список сайтов, на которых не будет предлагаться перейти в режим безопасных платежей"
+   },
+   "option_switcher_hidden": {
+      "message": "Отключить приглашение перехода в режим банковских платежей"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Установка поддержки защитного окна..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Защищает ваши данные при совершении платежей или банковских операций через Интернет."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Новая вкладка в режиме безопасных платежей"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Защищает ваш компьютер при посещении подозрительных сайтов, препятствуя его заражению."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Подробнее"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Поддержка защитного окна недоступна"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Новое защитное окно"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Добавить сайт"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Добавить временное правило"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Изменить сайт"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Изменить временное правило"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Сайт"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "добавить"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Автоматически открывать режим безопасных платежей на таких сайтах"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Отмена"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Защита финансовых данных при совершении покупок и банковских операций в Интернете"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Не показывать предложение перейти в режим безопасных платежей на таких сайтах"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Изменить"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Показывать предложение перейти в режим безопасных платежей на банковских сайтах"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "открыть"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Удалить"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Дополнительные настройки режима безопасных платежей"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "РЕЖИМ БЕЗОПАСНЫХ ПЛАТЕЖЕЙ"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Браузер SafeZone автоматически открывает подозрительные сайты в режиме защитного окна, изолируя сайт от вашего компьютера, чтобы вредоносное содержимое не могло проникнуть в него.\u003C\\/p>\u003Cp>Вы также можете открыть защитное окно вручную, чтобы оставаться невидимым во время путешествия по Интернету, так что не сохранится информация о том, какие сайты вы посещали и какие файлы загружали.\u003C\\/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Браузер SafeZone автоматически открывает все банковские сайты в режиме безопасных платежей. Благодаря этому изолируется сеанс связи и включается защита от \"клавиатурных шпионов\" и прочего вредоносного программного обеспечения, которое может скрываться на вашем компьютере.\u003C\\/p>\u003Cp>В режиме безопасных платежей вы можете спокойно совершать финансовые операции, не опасаясь кражи своих паролей или прочих личных данных.\u003C\\/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Режим безопасных платежей"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Режим безопасных платежей"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Вернуться в режим банковских операций"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Совет"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Режим безопасных платежей защищает ваши данные от \"клавиатурных шпионов\" и прочих вредоносных программ, которые могут скрываться на вашем ПК"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.ru/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Узнать подробнее"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "Понятно"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Добро пожаловать в режим безопасных платежей!"
+   }
+}

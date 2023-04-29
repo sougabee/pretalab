@@ -1,0 +1,4 @@
+﻿2021-07-03 15:20:48,054 [110] INFO  WebSocketServer-12053474 - Session: ff4de634-946f-4444-a130-1e556b029fbf/127.0.0.1:60478
+A new session connected!
+2021-07-03 16:42:46,565 [137] INFO  WebSocketServer-12053474 - Session: ff4de634-946f-4444-a130-1e556b029fbf/127.0.0.1:60478
+This session was closed for ClientClosing!

@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Режим за банкиране"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Стандартен работен плот"
+   },
+   "blankButtonDEF": {
+      "message": "Повторно отваряне на раздел в стандартен режим"
+   },
+   "blankButtonNG": {
+      "message": "Повторно отваряне на раздела в защитен прозорец"
+   },
+   "blankButtonSZ": {
+      "message": "Обратно към режима за банкиране"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Опитайте отново"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Браузърът SafeZone постави този раздел в изчакване, за да го защити от евентуални приложения, записващи натисканията на клавишите, или друг зловреден софтуер, който може да е скрит на компютъра ви."
+   },
+   "blankPageDescDEF": {
+      "message": "Текущият раздел е отворен и е налице в стандартния режим на браузъра SafeZone."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Режимът за банкиране се включва. Моля изчакайте."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Изчакайте, ще отнеме няколко секунди."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Грешка при зареждане на режима за банкиране. За да продължите, опитайте да го заредите отново."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Повторно отваряне на стандартния режим"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Повторно отваряне в защитен прозорец"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Режимът за банкиране е в изчакване..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Стандартният режим се зарежда..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Защитеният прозорец се зарежда..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Режимът за банкиране се зарежда..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Режим за банкиране"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Ако често виждате това съобщение, изпробвайте следните \u003Ca>съвети\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Раздел в стандартен режим"
+   },
+   "blankPageTitleNG": {
+      "message": "Раздел в защитен прозорец"
+   },
+   "blankPageTitleSZ": {
+      "message": "Раздел в режим банкиране"
+   },
+   "emptyList": {
+      "message": "Списъкът е празен"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Уеб сайтът вече е включен в списъка"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Това не е валиден URL адрес"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Проблеми със старта на режим за банкиране? Рестартирайте браузъра или проверете \u003Ca target='blank' href='$link$'>FAQ\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Превключвател на режима за банкиране"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Режим за банкиране"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Включване на режима за банкиране"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Режимът за банкиране се настройва"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Неуспешно зареждане на режима за банкиране"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Изключване на режима за банкиране"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Режимът за банкиране е активен"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Не показвай повече това съобщение"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Режимът за банкиране ви пази от кийлогъри и шпиони, за да защити личните ви данни"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Към преките пътища"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Режимът за банкиране е активен"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Нов инкогнито прозорец"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Нов прозорец за режим на банкиране"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Нов защитен прозорец"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Уеб адресът е невалиден"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Игнориране"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ОТВАРЯНЕ В РЕЖИМ ЗА БАНКИРАНЕ"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Не показвай повече за този сайт"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Режимът за банкиране безопасно изолира сесиите за пазаруване и банкиране, за да попречи на хакерите\u003C/b> да откраднат \u003Cb>номера на кредитната Ви карта, паролите\u003C/b> и \u003Cb>другите Ви лични данни\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Да се запомни за този сайт"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Възможно е финансовите ви данни да бъдат видими за други хора."
+   },
+   "openInIncognitoMode": {
+      "message": "Отваряне на връзката в инкогнито прозорец"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Отвори връзката в нов прозорец и режим за банкиране"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Отваряне на връзката в защитен прозорец"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Отворихме този сайт автоматично в режим за банкиране, за да защитим поверителността ви по време на онлайн банкиране"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Затваряне"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Не показвай повече това съобщение"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Тази страница е отворена в режим за банкиране"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Винаги отваряй тази страница в режим за банкиране"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "ЗАТВАРЯНЕ"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Режимът за банкиране предпазва личната ви информация от кийлогъри и шпиони."
+   },
+   "option_switcher_auto": {
+      "message": "Персонализираните уеб сайтове да се превключват автоматично в режим за банкиране"
+   },
+   "option_switcher_disabled": {
+      "message": "Списък с уеб сайтове, които сте изключили да се показват в известяващата подкана за режим за банкиране"
+   },
+   "option_switcher_hidden": {
+      "message": "Дезактивиране на известяващата подкана за режима за банкиране"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Инсталира се поддръжка за защитен прозорец..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Защитете поверителността си при плащания или банкиране онлайн."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Нов прозорец за режим за банкиране"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Предпазвайте компютъра си, когато отваряте заразено съдържание в интернет."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Научете повече"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Поддръжката за защитения прозорец не е налична"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Нов защитен прозорец"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Добавяне на сайт"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Добавяне на временно правило"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Редактиране на сайт"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Редактиране на временно правило"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Сайт"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "добавяне"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Автоматично отваряй режима за банкиране на следните уеб сайтове"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Отказ"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Защитавай моите финансови данни, докато пазарувам и банкирам онлайн"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Не показвай известия за режим за банкиране на следните уеб сайтове"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Редактиране"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Показвай известия за режим за банкиране в уеб сайтовете за банкиране"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "отваряне"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Премахване"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Разширени настройки за режим за банкиране"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "РЕЖИМ ЗА БАНКИРАНЕ"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Браузърът SafeZone автоматично отваря подозрителните сайтове в защитения прозорец, като изолира сайта от компютъра ви, така че в него не може да влезе зловредно съдържание.\u003C/p>\u003Cp>Можете също така да отворите ръчно защитения прозорец, за да сте невидими при сърфиране, така че да не се отчитат сайтовете, които сте посетили, или файловете, които сте изтеглили.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Браузърът SafeZone автоматично отваря всички сайтове за банкиране в режим за банкиране. По този начин сесията се изолира и се защитава от евентуални приложения, записващи натисканията на клавишите, или друг зловреден софтуер, който може да е скрит на компютъра ви.\u003C/p>\u003Cp>С режима за банкиране можете да извършвате всичките си финансови трансакции спокойно, без да се притеснявате, че паролите ви или други лични данни ще бъдат откраднати.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Режим за банкиране"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Режим за банкиране"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Превключване обратно в режима за банкиране"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Съвет"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Режимът за банкиране ви пази от заплахи, които може да атакуват компютъра ви"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Научете повече"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "Добре, разбрах"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Добре дошли в режима за банкиране"
+   }
+}

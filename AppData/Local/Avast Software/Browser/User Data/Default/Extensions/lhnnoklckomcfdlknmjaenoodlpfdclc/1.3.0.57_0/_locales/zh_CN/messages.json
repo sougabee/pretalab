@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "银行模式"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "标准桌面"
+   },
+   "blankButtonDEF": {
+      "message": "重新打开默认模式选项卡"
+   },
+   "blankButtonNG": {
+      "message": "在屏蔽窗口中重新打开选项卡"
+   },
+   "blankButtonSZ": {
+      "message": "重新返回至银行模式"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "重试"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "SafeZone 浏览器已暂停该选项卡，以防止其遭受可能的键盘记录器或其他可能隐藏在计算机中的恶意软件的威胁。"
+   },
+   "blankPageDescDEF": {
+      "message": "当前选项卡已打开，而且可用于 SafeZone 浏览器默认模式。"
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "正在加载银行模式，请稍等。"
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "请稍等，几秒后即可完成。"
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "加载银行模式时出现问题。如需继续，请重新加载银行模式。"
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "重新打开默认模式"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "在屏蔽窗口中重新打开"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "银行模式正在等候…"
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "正在加载默认模式…"
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "屏蔽窗口正在加载…"
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "正在加载银行模式…"
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "银行模式"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "如果您频繁看到这一提醒，请尝试这些\u003Ca>建议\u003C/a>。"
+   },
+   "blankPageTitleDEF": {
+      "message": "默认模式选项卡"
+   },
+   "blankPageTitleNG": {
+      "message": "屏蔽窗口选项卡"
+   },
+   "blankPageTitleSZ": {
+      "message": "银行模式选项卡"
+   },
+   "emptyList": {
+      "message": "列表为空"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "该网站已在列表中"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "这是无效的 URL 地址"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "启动银行模式时遇到问题？尝试重启浏览器或查看\u003Ca target='blank' href='$link$'>常见问题\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "银行模式切换器"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "银行模式"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "开启银行模式"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "正在设置银行模式"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "银行模式加载失败"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "关闭银行模式"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "已激活银行模式"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "不再显示此消息"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "银行模式可对您的操作进行保护，防止键盘记录器和间谍软件，以此确保您的个人数据安全"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "转至快捷键"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "已开启银行模式"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "新匿名窗口"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "新银行模式窗口"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "新屏蔽窗口"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "无效网址"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "忽略"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "在银行模式下打开"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "在此站点上不再显示"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>银行模式可安全隔离购物和银行会话以防止黑客\u003C/b>窃取您的\u003Cb>信号卡号码、密码\u003C/b>和\u003Cb>其他私密数据\u003C/b>。"
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "记住此站点"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "其他人可能会看到您的财务数据。"
+   },
+   "openInIncognitoMode": {
+      "message": "在匿名窗口中打开链接"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "在银行模式窗口中打开链接"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "在屏蔽窗口中打开链接"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "我们已在银行模式中自动打开该网站，以在您在线办理银行业务时对您的隐私进行保护"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "关闭"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "不再显示此消息"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "该页已在银行模式下打开"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "始终在银行模式打开该页面"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "关闭"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "银行模式可保持您的个人信息安全，阻止键盘记录器和间谍程序。"
+   },
+   "option_switcher_auto": {
+      "message": "自动切换到银行模式的自定义网站"
+   },
+   "option_switcher_disabled": {
+      "message": "排除显示银行模式通知提示的网站列表"
+   },
+   "option_switcher_hidden": {
+      "message": "禁用银行模式通知提示"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "正在安装屏蔽窗口支持…"
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "在线支付或办理在线银行业务时保护您的隐私。"
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "新银行模式窗口"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "在您访问感染的网页内容时对您的计算机进行保护。"
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "了解更多"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "屏蔽窗口支持不可用"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "新屏蔽窗口"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "添加站点"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "添加临时规则"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "编辑站点"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "编辑临时规则"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "站点"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "添加"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "访问以下网站时自动打开银行模式"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "取消"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "购物和使用网上银行时保护我的财务数据"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "在以下网站上不显示银行模式通知提示"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "编辑"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "在银行网站上显示银行模式通知提示"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "打开"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "移除"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "银行模式高级设置"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "银行模式"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone 浏览器在屏蔽窗口中自动打开可疑网站，将该网站与您的计算机分离，以此避免任何恶意内容感染您的计算机。\u003C/p>\u003Cp>您也可以在浏览网页时手动打开屏蔽窗口，让自己对外不可见，因此就没有人可以记录您浏览过什么网站或下载过什么文件。\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone 浏览器将在银行模式中自动打开所有银行业务网站。这将隔离会话并防止其遭受可能的键盘记录器或其他可能隐藏在您计算机中的恶意软件的攻击。\u003C/p>\u003Cp>在银行模式中，您可以安心处理所有金融交易，无需担心密码或其他个人信息被盗。\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "银行模式"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "银行模式"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "切换回银行模式"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "提示"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "银行模式可以确保您个人信息安全，防止键盘记录器和间谍软件以及其他可能隐藏在您电脑中的威胁"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "了解更多"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "好的，我知道了"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "欢迎进入银行模式"
+   }
+}

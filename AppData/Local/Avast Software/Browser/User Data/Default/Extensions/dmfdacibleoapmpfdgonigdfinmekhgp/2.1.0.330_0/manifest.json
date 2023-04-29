@@ -1,0 +1,38 @@
+{
+   "author": "Avast Software",
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "img/icon16.png",
+         "19": "img/icon19.png",
+         "24": "img/icon24.png",
+         "32": "img/icon32.png",
+         "38": "img/icon38.png"
+      },
+      "default_popup": "html/popup.html",
+      "default_title": "VPN"
+   },
+   "default_locale": "en",
+   "description": "__MSG_product_description__",
+   "differential_fingerprint": "",
+   "homepage_url": "http://www.avast.com",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16-active.png",
+      "19": "img/icon19-active.png",
+      "24": "img/icon24-active.png",
+      "256": "img/icon256.png",
+      "32": "img/icon32-active.png",
+      "38": "img/icon38-active.png",
+      "48": "img/icon48.png",
+      "64": "img/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsha0y06T+ugF2rWADIDzhocE62SF1ekiNj4bAzOV/fRduxILD0LDqRfmUPFSdrsxBup4JoyZsE7VRqWVYdZnN77avVycJg5PhfIMLF1Y0k2oQu0BpagD+G5cwmVmeMyPFDF3VGcI4hokVO6GhmZldTipTIf7PHlkDypUw8X2jiMlKkYmhlO9p2aDbIPhgopS3ek2JAGGvhY4JdBUcPk+BeCmEPIeoKEnE1KxLXu0N++fWE7/bDilf86XcuTeiJQGZAKvDVGOajWHOa0ADBk8v5nzMvCMmSYoNaTobSXXvQthsasHqZjSU4wcP/g9YpAiDp9uSDZC9TV4pZfkoSZ5dwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_product_name__",
+   "permissions": [ "storage", "nativeMessaging", "tabs", "privacy" ],
+   "short_name": "SecureLine",
+   "version": "2.1.0.330"
+}

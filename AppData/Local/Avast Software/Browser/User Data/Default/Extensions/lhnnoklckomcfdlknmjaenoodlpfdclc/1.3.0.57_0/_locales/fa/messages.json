@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "حالت بانکداری اینترنتی"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "دسکتاپ استاندارد"
+   },
+   "blankButtonDEF": {
+      "message": "باز کردن مجدد زبانه حالت پیش‌فرض"
+   },
+   "blankButtonNG": {
+      "message": "باز کردن مجدد زبانه در پنجره دارای محافظ"
+   },
+   "blankButtonSZ": {
+      "message": "بازگشت به حالت بانکداری اینترنتی"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "آن را دوباره امتحان کنید"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "مرورگر SafeZone این زبانه را در حالت انتظار قرار داده است تا در برابر ثبت‌کننده‌های صفحه‌کلید یا سایر نرم‌افزارهای احتمالاً مضر که ممکن است در رایانه‌تان پنهان باشند، از آن محافظت کند."
+   },
+   "blankPageDescDEF": {
+      "message": "زبانه فعلی باز است و در حالت پیش‌فرض مرورگر SafeZone قابل دسترس می‌باشد."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "حالت بانکداری اینترنتی در حال بارگیری است. لطفاً کمی صبر کنید."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "لطفاً منتظر بمانید. چند ثانیه دیگر طول می‌کشد."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "حین بارگیری حالت بانکداری اینترنتی مشکلی پیش آمد. برای ادامه، مجدداً سعی کنید حالت بانکداری اینترنتی را بارگیری نمایید."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "باز کردن مجدد حالت پیش‌فرض"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "باز کردن مجدد در پنجره دارای محافظ"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "حالت بانکداری اینترنتی در حالت انتظار نگه داشته شده است..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "در حال بارگیری حالت پیش‌فرض..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "پنجره دارای محافظ در حال بارگیری است..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "حالت بانکداری اینترنتی در حال بارگیری است..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "حالت بانکداری اینترنتی"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "اگر مکرراً با این خطا مواجه شده‌اید، این \u003Ca>پیشنهادها\u003C/a> را امتحان کنید."
+   },
+   "blankPageTitleDEF": {
+      "message": "زبانه حالت پیش‌فرض"
+   },
+   "blankPageTitleNG": {
+      "message": "زبانه پنجره دارای محافظ"
+   },
+   "blankPageTitleSZ": {
+      "message": "زبانه حالت بانکداری اینترنتی"
+   },
+   "emptyList": {
+      "message": "لیست خالی است"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "این وب‌سایت از قبل در این لیست قرار دارد"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "این آدرس URL معتبر نیست"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "در راه‌اندازی حالت بانکداری اینترنتی با مشکل روبرو شده‌اید؟ سعی کنید مرورگرتان را دوباره راه‌اندازی کنید یا\u003Ca target='blank' href='$link$'>پرسش‌های متداول\u003C/a> را بررسی کنید",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "تعویض کننده حالت بانکداری اینترنتی"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "حالت بانکداری اینترنتی"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "فعال‌سازی حالت بانکداری اینترنتی"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "حالت بانکداری اینترنتی در حالت تنظیم است"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "بارگیری حالت بانکداری اینترنتی امکان‌پذیر نشد"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "غیرفعال‌سازی حالت بانکداری اینترنتی"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "حالت بانکداری اینترنتی فعال است"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "این پیام دوباره نشان داده نشود"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "حالت بانکداری اینترنتی فعالیت‌های شما را در برابر کلیدخوان‌ها و جاسوسان حفاظت می‌کند تا داده‌های شخصی‌تان امن بماند"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "رفتن به میانبرها"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "حالت بانکداری اینترنتی فعال است"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "پنجره \"هویت پنهان\" جدید"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "پنجره حالت بانکداری اینترنتی جدید"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "پنجره دارای محافظ جدید"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "آدرس وب معتبر نیست"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "صرفنظر کردن"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "باز کردن در حالت بانکداری اینترنتی"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "دیگر برای این سایت نشان داده نشود"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>حالت بانکداری اینترنتی فعالیت‌های خرید و بانکداری شما را از سایر گشت و گذارهای اینترنتی مجزا می‌کند تا هکرها\u003C/b> فرصتی برای سرقت \u003Cb>شماره کارت‌های اعتباری، رمزهای عبور\u003C/b> و \u003Cb>سایر داده‌های شخصی شما نداشته نباشند\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "برای این سایت به خاطر سپرده شود"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "ممکن است دیگران قادر به رویت داده‌های مالی شما باشند."
+   },
+   "openInIncognitoMode": {
+      "message": "باز کردن پیوند در پنجره \"هویت پنهان\""
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "باز کردن پیوند در پنجره حالت بانکداری اینترنتی"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "باز کردن پیوند در پنجره دارای محافظ"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "ما به صورت خودکار این سایت را در حالت بانکداری اینترنتی باز کرده‌ایم تا هنگام بانکداری آنلاین از حریم خصوصی شما محافظت کنیم"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "بستن"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "این پیام دوباره نشان داده نشود"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "این صفحه در حالت بانکداری اینترنتی باز شده است"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "همیشه این صفحه در حالت بانکداری اینترنتی باز شود"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "بستن"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "حالت بانکداری اینترنتی اطلاعات شخصی شما را در مقابل ثبت‌کننده‌های کلیدزنی و جاسوس‌ها محافظت می‌کند."
+   },
+   "option_switcher_auto": {
+      "message": "وب‌سایت‌های دلخواه شما برای تغییر خودکار به حالت بانکداری اینترنتی"
+   },
+   "option_switcher_disabled": {
+      "message": "فهرستی از وب‌سایت‌هایی که از نمایش اعلان فوری حالت بانکداری اینترنتی حذف کرده‌اید"
+   },
+   "option_switcher_hidden": {
+      "message": "غیرفعال‌سازی اعلان فوری حالت بانکداری اینترنتی"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "در حال نصب پشتیبانی پنجره دارای محافظ..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "در هنگام پرداخت پول یا بانکداری آنلاین، از حریم خصوصی‌تان محافظت کنید."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "پنجره حالت بانکداری اینترنتی جدید"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "وقتی به محتوای وب آلوده دسترسی پیدا می‌کنید، از رایانه‌تان محافظت کنید."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "اطلاعات بیشتر"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "پشتیبانی پنجره دارای محافظ در دسترس نیست"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "پنجره دارای محافظ جدید"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "افزودن سایت"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "افزودن قانون موقتی"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "ویرایش سایت"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "ویرایش قانون موقتی"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "سایت"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "افزودن"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "باز کردن خودکار حالت بانکداری اینترنتی در وب‌سایت‌های زیر"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "لغو"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "داده‌های شخصی من حین خرید و بانکداری اینترنتی محافظت شوند"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "عدم نمایش پنجره اعلان حالت بانکداری اینترنتی در وب‌سایت‌های زیر"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "ویرایش"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "نمایش پنجره اعلان حالت بانکداری اینترنتی در وب‌سایت‌های بانکداری"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "باز کردن"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "حذف"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "تنظیمات پیشرفته حالت بانکداری اینترنتی"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "حالت بانکداری اینترنتی"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>مرورگر SafeZone به صورت خودکار سایت‌های مشکوک را در یک پنجره دارای محافظ باز می‌کند تا آن سایت در رایانه‌تان جداسازی شده و هیچ محتوای مضری نتواند به رایانه‌تان وارد شود.\u003C/p>\u003Cp>همچنین می‌توانید پنجره دارای محافظ را به صورت دستی باز کنید تا در حین مرور قابل مشاهده نباشید و دیگران نتوانند سوابق مربوط به سایت‌هایی که از آنها بازدید کرده‌اید یا فایل‌هایی که دانلود کرده‌اید را ثبت کنند.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>مرورگر SafeZone به صورت خودکار همه‌ سایت‌های بانکی را در حالت بانکداری اینترنتی باز می‌کند. با این کار، جلسه‌ مربوطه از دیگر جلسه‌ها جدا می‌شود و در برابر کلیدخوان‌ها و دیگر نرم‌افزارهای احتمالاً زیانبار که ممکن است در رایانه‌تان پنهان باشند، از آن محافظت می‌کند.\u003C/p>\u003Cp>با حالت بانکی می‌توانید همه تراکنش‌های مالی‌تان را به راحتی انجام دهید بدون اینکه نگران سرقت رمز عبور یا دیگر جزئیات شخصی‌تان باشید.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "حالت بانکداری اینترنتی"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "حالت بانکداری اینترنتی"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "بازگشتن به حالت بانکداری اینترنتی"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "راهنمایی"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "حالت بانکداری اینترنتی اطلاعات شخصی‌تان را در برابر کلیدخوان‌ها و سایر تهدیدات احتمالی پنهان در رایانه‌تان محافظت می‌کند"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "اطلاعات بیشتر"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "بسیار خب، متوجه شدم"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "به حالت بانکداری اینترنتی خوش آمدید"
+   }
+}

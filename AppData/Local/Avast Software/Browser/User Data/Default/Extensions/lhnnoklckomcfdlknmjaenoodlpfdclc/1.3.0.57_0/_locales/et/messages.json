@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Pangarežiim"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Tavaline töölaud"
+   },
+   "blankButtonDEF": {
+      "message": "Ava uuesti vaikerežiimis vahekaart"
+   },
+   "blankButtonNG": {
+      "message": "Ava vahekaart uuesti kaitstud aknas"
+   },
+   "blankButtonSZ": {
+      "message": "Vii mind tagasi pangarežiimi"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Proovi uuesti"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Brauser SafeZone pani selle vahekaardi ootele, et kaitsta seda võimalike klahvinuhkide või muu ründetarkvara eest, mis võib sinu arvutis peituda."
+   },
+   "blankPageDescDEF": {
+      "message": "Aktiivne vahekaart on avatud ja saadaval brauseri SafeZone vaikerežiimis."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Pangarežiimi laaditakse. Oota üks hetk."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Palun oota. See võtab veel paar sekundit."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Pangarežiim laadimisel läks midagi valesti. Et jätkata, proovi pangarežiim uuesti laadida."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Ava uuesti vaikerežiim"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Ava uuesti kaitstud aknas"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Pangarežiim on ootel ..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Vaikerežiimi laadimine ..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Kaitstud akna laadimine ..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Pangarežiimi laadimine ..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Pangarežiim"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Kui näed seda tihti, proovi neid \u003Ca>nõuandeid\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Vaikerežiimis vahekaart"
+   },
+   "blankPageTitleNG": {
+      "message": "Kaitstud akna vahekaart"
+   },
+   "blankPageTitleSZ": {
+      "message": "Pangarežiimi vahekaart"
+   },
+   "emptyList": {
+      "message": "See loend on tühi"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "See veebileht on loendis juba olemas"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "See ei ole kehtiv URL-aadress"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Pangarežiim ei taha käivituda? Proovi brauser sulgeda ja uuesti käivitada või vaata \u003Ca target='blank' href='$link$'>KKK\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Pangarežiimi vaheldaja"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Pangarežiim"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Lülita pangarežiim sisse"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Pangarežiim käivitub"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Pangarežiimi laadimine nurjus"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Lülita pangarežiim välja"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Pangarežiim on aktiveeritud"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Ära seda teadet enam kuva"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Pangarežiim kaitseb sinu tegevusi klahvinuhkide ja teiste nuhkide eest, hoides samal ajal sinu andmed kaitstud"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Mine Kiirteedesse"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Pangarežiim on aktiveeritud"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Uus inkognito aken"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Uus pangarežiimi aken"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Uus kaitstud aken"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Ei ole kehtiv veebiaadress"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Eira"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "AVA PANGAREŽIIMIS"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Ära näita enam sellel lehel"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Pangarežiim isoleerib turvaliselt ostu- ja pangandusseansid, et häkkerid\u003C/b> ei saaks varastada sinu \u003Cb>krediitkaartide numbreid, paroole\u003C/b> ja \u003Cb>muid isikuandmeid.\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Pea meeles selle lehe jaoks"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Sinu finantsandmed võivad teistele nähtavad olla."
+   },
+   "openInIncognitoMode": {
+      "message": "Ava link inkognito aknas"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Ava link pangarežiimi aknas"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Ava link kaitstud aknas"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Avasime selle lehe automaatselt pangarežiimis, et veebis pangateenuseid kasutades sinu privaatsust kaitsta"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Sulge"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Ära seda teadet enam kuva"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "See leht on avatud pangarežiimis"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Ava see leht alati pangarežiimis"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "SULGE"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Pangarežiim hoiab sinu isikliku teabe turvalise klahvinuhkide ja nuhkide eest."
+   },
+   "option_switcher_auto": {
+      "message": "Sinu kohandatud veebilehed pangarežiimi automaatseks aktiveerimiseks"
+   },
+   "option_switcher_disabled": {
+      "message": "Veebilehtede loend, mis on välja arvatud pangareziimi teadete kuvamisest"
+   },
+   "option_switcher_hidden": {
+      "message": "Keela pangarežiimi teavitused"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Kaitstud akende toe installimine ..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Kaitse oma privaatsust, kui võrgus ostu eest tasud või pangateenuseid kasutad."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Uus pangarežiimi aken"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Kaitse oma arvutit, kui avad nakatunud veebisisu."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Rohkem teavet"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Kaitstud akende tugi pole saadaval "
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Uus kaitstud aken"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Lisa leht"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Lisa ajutine reegel"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Muuda lehte"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Muuda ajutist reeglit"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Leht"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "lisa"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Ava automaatselt pangarežiim järgmistel veebilehtedel"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Tühista"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Kaitse minu finantsandmeid, kui ma teen veebis sisseoste ja pangatoiminguid"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Ära näita pangarežiimi kiirteavitusi järgmistel pangaveebilehtedel"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Muuda"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Näita pangarežiimi kiirteavitusi pangaveebilehtedel"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "ava"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Eemalda"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Pangarežiimi täpsemad sätted"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "PANGAREŽIIM"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Brauser SafeZone avab kahtlased lehed automaatselt kaitstud aknas, eraldades lehe sinu arvutist, nii et pahatahtlik sisu ei saa sellesse tungida.\u003C/p>\u003Cp>Kaitstud akna saad avada ka käsitsi, et jääksid sirvimise ajal nähtamatuks. Nii ei jää jälgi sellest, milliseid saite külastasid ja milliseid faile alla laadisid. \u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Brauser SafeZone avab kõik pangalehed automaatselt pangarežiimis. See eraldab seansi ja kaitseb seda võimalike klahvinuhkide või muu ründetarkvara eest, mis võib sinu arvutis peituda.\u003C/p>\u003Cp>Pangarežiimi abil saad teha kõik oma rahalised tehingud rahulikult, tundmata hirmu paroolide või muude isikuandmete varastamise eest. \u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Pangarežiim"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Pangarežiim"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Mine tagasi pangarežiimile"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Soovitus"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Pangarežiim hoiab sinu personaalse informatsiooni võimalike arvutis pesitsevate klahvinuhkide ja muude ohtude eest kaitstud"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Rohkem teavet"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "Hästi, sain aru"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Tere tulemast pangarežiimi"
+   }
+}

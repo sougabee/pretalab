@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Bankläge"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Standardskrivbord"
+   },
+   "blankButtonDEF": {
+      "message": "Öppna standardflik igen"
+   },
+   "blankButtonNG": {
+      "message": "Öppna flik igen i skyddat fönster"
+   },
+   "blankButtonSZ": {
+      "message": "Återgå till Bankläge"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Prova igen"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Webbläsaren i Säker Zon har försatt fliken i vänteläge för att skydda den mot möjliga tangentloggare eller annan skadlig programvara som kan finnas dold på datorn."
+   },
+   "blankPageDescDEF": {
+      "message": "Nuvarande flik är öppen och tillgänglig i Standardläge i Webbläsare för Säker Zon."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Bankläge laddas. Dröj lite."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Dröj en stund. Det tar några sekunder till."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Något gick fel när Bankläge skulle laddas. För att fortsätta, försök att ladda Bankläge igen."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Öppna Standardläge igen"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Öppna igen i skyddat fönster"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Bankläge är i vänteläge..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Laddar Standardläge..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Skyddat fönster laddas..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Bankläge laddas..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Bankläge"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Om detta ofta inträffar, prova något av \u003Ca>följande\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Standardflik"
+   },
+   "blankPageTitleNG": {
+      "message": "Flik för skyddat fönster"
+   },
+   "blankPageTitleSZ": {
+      "message": "Flik för Bankläge"
+   },
+   "emptyList": {
+      "message": "Listan är tom"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Webbplatsen finns redan på listan"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Det här är ingen giltig webbadress"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Har du problem med att använda Bankläge? Testa att starta om webbläsaren eller se \u003Ca target='blank' href='$link$'>Vanliga frågor\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Växla mellan bankläge"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Bankläge"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Sätt igång Bankläge"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Bankläge ställs in"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Bankläge kunde inte laddas"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Stäng av Bankläge"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Bankläge är aktivt"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Visa inte det här meddelandet igen"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Bankläge skyddar din aktivitet från tangentloggare och spioner och skyddar dina personuppgifter"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Gå till Genvägar"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Bankläge är aktiverat"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Nytt inkognitofönster"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Ny flik för Bankläge"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Nytt skyddat fönster"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Ogiltig webbadress"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ignorera"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ÖPPNA I BANKLÄGE"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Visa inte på den här webbplatsen igen"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Bankläget isolerar på ett säkert sätt shopping- och banksessioner för att stoppa hackare\u003C/b> som vill stjäla ditt \u003Cb>kreditkortsnummer, lösenord\u003C/b> och \u003Cb>annan privat information\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Kom ihåg för den här webbplatsen"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Finansiell information kan visas för andra."
+   },
+   "openInIncognitoMode": {
+      "message": "Öppna länk i inkognitofönster"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Öppna länk i flik för Bankläge"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Öppna länk i skyddat fönster"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Vi har automatiskt öppnat den här webbplatsen i Bankläge för att skydda din sekretess när du utför bankärenden"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Stäng"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Visa inte det här meddelandet igen"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Den här sidan har öppnats i bankläge"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Öppna alltid sidan i bankläge"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "STÄNG"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "I bankläget är din personliga information skyddad mot tangentloggar och spioner."
+   },
+   "option_switcher_auto": {
+      "message": "Dina anpassade webbplatser växlar automatiskt till Bankläge"
+   },
+   "option_switcher_disabled": {
+      "message": "Lista på webbplatser du har exkluderat från att visa meddelande om Bankläge"
+   },
+   "option_switcher_hidden": {
+      "message": "Inaktivera meddelande om Bankläge"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Installerar stöd för skyddat fönster..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Skydda ditt privatliv när du betalar eller utför bankärenden på nätet."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Ny flik för Bankläge"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Skydda din dator när du stöter på infekterat webbinnehåll."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Få reda på mer"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Stöd för skyddat fönster ej tillgängligt"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Nytt skyddat fönster"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Lägg till webbplats"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Lägg till temporär regel"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Redigera webbplats"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Redigera temporär regel"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Webbplats"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "lägg till"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Öppna bankläge automatiskt på följande webbplatser"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Avbryt"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Skydda ekonomisk information när jag handlar och uträttar bankärenden online"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Visa inte meddelande om bankläge på följande webbplatser"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Redigera"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Visa meddelande om bankläge på bankwebbplatser"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "öppna"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Ta bort"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Avancerade inställningar för bankläge"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "BANKLÄGE"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Webbläsaren i Säker Zon öppnar automatiskt misstänkta webbplatser i skyddat fönster, så att webbplatsen isoleras från din dator och inget skadligt innehåll kan invadera den.\u003C\\/p>\u003Cp>Du kan också öppna skyddat fönster manuellt för att förbli osynlig när du surfar, så att det inte finns något spår efter vilka webbplatser du har besökt eller vilka filer du har laddat ned.\u003C\\/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Webbläsaren i Säker Zon öppnar automatiskt alla bankwebbplatser i Bankläge. Detta isolerar sessionen och skyddar den mot möjliga tangentloggare eller annan skadlig programvara som kan finnas dold på datorn.\u003C\\/p>\u003Cp>Med Bankläge kan du utföra alla finansiella transaktioner i lugn och ro, utan att behöva oroa dig för att ditt lösenord eller andra personuppgifter ska stjälas.\u003C\\/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Bankläge"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Bankläge"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Återgå till Bankläge"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Tips"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Bankläge skyddar dina personuppgifter mot tangentloggare och andra hot som kan dölja sig på din dator"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Läs mer"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "Ok, jag förstår"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Välkommen till Bankläge"
+   }
+}

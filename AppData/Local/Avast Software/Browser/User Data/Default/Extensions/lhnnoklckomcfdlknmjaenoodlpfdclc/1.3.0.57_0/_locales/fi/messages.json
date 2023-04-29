@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Pankkitila"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Tavanomainen työpöytä"
+   },
+   "blankButtonDEF": {
+      "message": "Avaa oletusvälilehti uudelleen"
+   },
+   "blankButtonNG": {
+      "message": "Avaa välilehti uudelleen suojatussa ikkunassa"
+   },
+   "blankButtonSZ": {
+      "message": "Takaisin pankkitilaan"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Kokeile uudelleen"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "SafeZone-selain on asettanut tämän välilehden odottelemaan suojatakseen sen mahdollisilta näppäintallejjilta ja muilta haitallisilta ohjelmilta, joita tietokoneellasi voi olla."
+   },
+   "blankPageDescDEF": {
+      "message": "Nykyinen välilehti avataan ja on käytettävissä SafeZone-selaimen oletusvälilehdessä."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Pankkitilaa ladataan. Odota hetki."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Odota hetki. Tämä vie vain pari sekuntia."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Pankkitilaa ladattaessa tapahtui virhe. Kokeile ladata pankkitila uudelleen."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Avaa oletusvälilehti uudelleen"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Avaa uudelleen suojatussa ikkunassa"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Pankkitila odottelee..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Ladataan oletusvälilehti"
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Suojattua ikkunaa ladataan..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Pankkitilaa ladataan..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Pankkitila"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Jos näet tämän viestin usein, kokeile näitä \u003Ca>ehdotuksia\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Oletusvälilehti"
+   },
+   "blankPageTitleNG": {
+      "message": "Suojatun ikkunan väliehti"
+   },
+   "blankPageTitleSZ": {
+      "message": "Pankkitilavälilehti"
+   },
+   "emptyList": {
+      "message": "Lista on tyhjä"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Verkkosivu on jo listalla"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "URL-osoite ei kelpaa"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Onko sinulla ongelmia pankkitilan käynnistämisessä? Yritä käynnistää selaimesi uudelleen tai katso \u003Ca target='blank' href='$link$'>usein kysytyt kysymykset\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Pankkitilan valitsin"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Pankkitila"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Kytke pankkitila päälle"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Pankkitilaa määritetään"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Pankkitilaa ei voitu ladata"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Kytke pankkitila pois päältä"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Pankkitila on aktiivinen"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Älä näytä tätä viestiä uudelleen"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Pankkitila suojaa sinut näppäilyntallennusohjelmita ja hakkereilta, jolloin henkilökohtaiset tietosi säilyvät omana tietonasi"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Mene pikakuvakkeisiin"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Pankkitila on aktivoitu"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Uusi incognito-ikkuna"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Uusi pankkitilavälilehti"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Uusi suojattu ikkuna"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Verkko-osoite ei ole kelvollinen"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ohita"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "AVAA PANKKITILASSA"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Älä näytä enää tällä sivustolla"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Pankkitila eristää turvallisesti ostos- ja pankki-istunnot ja estää hakkereita\u003C/b> varastamasta \u003Cb>luottokorttinumeroita, salasanoja\u003C/b> ja \u003Cb>muita yksityisiä tietojasi.\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Muista tämä asetus tälle sivulle"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Rahatietosi saattavat näkyä muille."
+   },
+   "openInIncognitoMode": {
+      "message": "Avaa linkki uudessa incognito-ikkunassa"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Avaa linkki pankkitilavälilehdellä"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Avaa linkki suojatussa ikkunassa"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Tämä sivu on avattu automaattisesti pankkitilassa, jotta pysyisit turvassa verkkopankkia käyttäessäsi"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Sulje"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Älä näytä tätä viestiä uudelleen"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Tämä sivu on avattu Pankkitilassa"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Avaa tämä sivu aina Pankkitilassa"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "SULJE"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Pankkitila pitää henkilötietosi turvassa näppäintallennusohjelmilta ja vakoilijoilta."
+   },
+   "option_switcher_auto": {
+      "message": "Määrittelemäsi verkkosivut avautuvat automaattisesti pankkitilassa"
+   },
+   "option_switcher_disabled": {
+      "message": "Verkkosivut, joilla ei näytetä huomautusta pankkitilaan vaihtamisesta"
+   },
+   "option_switcher_hidden": {
+      "message": "Kytke huomautus pankkitilaan vaihtamisesta pois päältä"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Asennetaan suojatun ikkunan tukea..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Suojele yksityisyyttäsi tehdessäsi maksuja tai käyttäessäsi verkkopankkia."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Uusi pankkitilavälilehti"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Suojaa tietokoneesi, kun käytät haitallista verkkosisältöä."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Lue lisää"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Suojatun ikkunan tukea ei ole saatavilla"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Uusi suojattu ikkuna"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Lisää sivusto"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Lisää väliaikainen sääntö"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Muokkaa sivustoa"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Muokkaa väliaikaista sääntöä"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Sivusto"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "lisää"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Kytke Pankkitila päälle seuraavilla verkkosivuilla"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Peruuta"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Suojaa taloudellisia tietojani ostosten ja verkkopankin käytön yhteydessä"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Älä näytä huomautusta Pankkitilan käyttämisestä seuraavilla sivustoilla"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Muokkaa"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Näytä muistutus Pankkitilan käyttämisestä pankkisivustoilla"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "avaa"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Poista"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Pankkitilan lisäasetukset"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "PANKKITILA"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone avaa epäilyttävät sivut automaattisesti suojatussa ikkunassa, mikä eristää sivun muusta tietokoneestasi, niin että haitallista sisältöä ei voi päästä tietokoneellesi.\u003C\\/p>\u003Cp>Voit avat suojatun ikkunan myös manuaalisesti pitääksesi itsesi näkymättömänä surffaillessasi. Näin tietokoneellesi ei jää jälkiä siitä, millä sivuilla kävit tai mitä latasit.\u003C\\/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>SafeZone-selain avaa kaikki pankkisvustot automaattisesti pankkitilassa. Tämä eristää istunnon ja suojaa sitä näppäilytallentajilta ja muilta haitallisilta ohjelmilta, joita tietokoneellasi voi olla piilossa.\u003C\\/p>\u003Cp>Pankkitilassa voit tehdä kaikki rahasiirrot rauhassa, ilman huolta salasanojesi tai yksityisten tietojesi varastamisesta.\u003C\\/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Pankkitila"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Pankkitila"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Vaihda Pankkitilaan"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Vinkki"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Pankkitila pitää henkilökohtaiset tietosi suojattuna näppäilyntallennusohjelmilta ja muilta uhkilta, joita saattaa piilotella tietokoneellasi"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Lisätietoja"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "OK, ymmärsin"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Tervetuloa pankkitilaan"
+   }
+}

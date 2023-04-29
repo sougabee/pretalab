@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "バンク モード"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "標準デスクトップ"
+   },
+   "blankButtonDEF": {
+      "message": "デフォルト モード タブで再度開く"
+   },
+   "blankButtonNG": {
+      "message": "タブをシールド ウィンドウで再度開く"
+   },
+   "blankButtonSZ": {
+      "message": "バンク モードに戻る"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "再試行"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "コンピューターに潜んでいるかもしれないキーロガーやマルウェアから保護するため､セーフゾーン ブラウザはこのタブを一時停止しました｡"
+   },
+   "blankPageDescDEF": {
+      "message": "現在のタブがセーフゾーン ブラウザ デフォルト モードで開かれ､利用できるようになりました｡"
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "バンク モードの読み込み中です。しばらくお待ちください。"
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "しばらくお待ちください。もう数秒かかります。"
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "バンク モードの読み込み中にエラーが発生しました。もう一度、バンク モードの読み込みをお試しください。"
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "デフォルト モードで再度開く"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "シールド ウィンドウで開く"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "バンク モードが待機中です..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "デフォルト モードの読み込み中..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "シールド ウィンドウの読み込み中..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "バンク モードの読み込み中..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "バンク モード"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "このメッセージが頻繁に表示される場合は、\u003Ca>推奨事項\u003C\\/a>をお試しください。"
+   },
+   "blankPageTitleDEF": {
+      "message": "デフォルト モード タブ"
+   },
+   "blankPageTitleNG": {
+      "message": "シールド ウィンドウ タブ"
+   },
+   "blankPageTitleSZ": {
+      "message": "バンク モード タブ"
+   },
+   "emptyList": {
+      "message": "リストが空です"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "ウェブサイトはすでにリストにあります"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "これは有効な URL アドレスではありません"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "バンク モードの起動でお困りですか? ブラウザを再起動するか \u003Ca target='blank' href='$link$'>FAQ\u003C/a> をご確認ください。",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "バンク モード スイッチャー"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "バンク モード"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "バンク モードをオンにする"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "バンク モードのセットアップ中"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "バンク モードの読み込みに失敗しました"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "バンク モードをオフにする"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "バンク モードが有効です"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "以後このメッセージを表示しない"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "バンク モードはお客様のアクティビティをキーロガーやスパイから守り、お客様の個人情報を保護します"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "ショートカットを開く"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "バンク モードが有効です"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "新規シークレット ウィンドウ"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "新しいバンク モード ウィンドウ"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "新しいシールド ウィンドウ"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "無効なウェブ アドレス"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "無視する"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "バンク モードで開く"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "今後このサイトでは表示しない"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>バンク モードはショッピングとバンキングのセッションを分離して安全性を確保し\u003C/b>、\u003Cb>クレジット カード番号、パスワード\u003C/b>、\u003Cb>その他の個人データを盗もうとするハッカーから保護します。\u003C/b>"
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "このサイトの設定を記憶"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "ユーザーの金融取引データを他のユーザーに見られる可能性があります。"
+   },
+   "openInIncognitoMode": {
+      "message": "リンクをシークレット ウィンドウで開く"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "リンクをバンク モード ウィンドウで開く"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "リンクをシールド ウィンドウで開く"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "オンライン バンキング使用時にプライバシーを保護するため､このサイトを自動的にバンク モードで開きました"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "閉じる"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "次回はこのメッセージを表示しない"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "このページはバンク モードで開かれています"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "このページを常にバンク モードで開く"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "閉じる"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "バンク モードは、キーロガーやスパイからユーザーの個人情報を安全に守ります。"
+   },
+   "option_switcher_auto": {
+      "message": "自動的にバンク モードに切り替えるカスタム ウェブサイト"
+   },
+   "option_switcher_disabled": {
+      "message": "バンク モード通知確認を非表示に設定したウェブサイトの一覧"
+   },
+   "option_switcher_hidden": {
+      "message": "バンク モード通知の確認を無効化"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "シールド ウィンドウ サポートのインストール中..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "オンライン決済やバンキングでプライバシーを保護します｡"
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "新しいバンク モード ウィンドウ"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "感染したウェブコンテンツにアクセスしたときにコンピューターを守ります｡"
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "詳細"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "シールド ウィンドウ サポートを利用できません"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "新しいシールド ウィンドウ"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "サイトを追加"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "一時的なルールを追加"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "サイトを編集"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "一時的なルールを編集"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "サイト"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "追加"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "次のウェブサイトで自動的にバンク モードを開く"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "キャンセル"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "金融データを保護しながら、オンラインでショッピングとバンキング"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "次のウェブサイトにバンク モード通知のメッセージを表示しない"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "編集"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "バンキングのウェブサイトにバンク モード通知のメッセージを表示"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "開く"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "削除"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "バンク モードの詳細設定"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "バンク モード"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>セーフゾーン ブラウザは自動的に疑わしいサイトをシールド ウィンドウで開いてコンピューターから隔離し､有害なコンテンツに占領されないようにします｡\u003C\\/p>\u003Cp>また､手動でシールド ウィンドウを開いてブラウズ時の活動を不可視化することができ､訪問したサイトやダウンロードしたファイルの記録を残さないようにできます｡\u003C\\/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>セーフゾーン ブラウザは自動的にすべてのバンキング サイトをバンク モードで開きます｡このモードはセッションを隔離し､コンピューターに潜んでいるかもしれないキーロガーやマルウェアから守ります｡\u003C\\/p>\u003Cp>バンク モードではすべての金銭取引を安心して行えます｡パスワードやその他の個人情報が盗まれる心配はありません｡\u003C\\/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "バンク モード"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "バンク モード"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "バンク モードに戻る"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "ヒント"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "バンク モードはお客様の個人情報をキーロガーなどの PC に隠れている脅威から守ります"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "もっと詳しく"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "OK、了解"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "バンク モードへようこそ"
+   }
+}

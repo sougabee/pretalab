@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Modo de banco"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Ambiente de trabalho padrão"
+   },
+   "blankButtonDEF": {
+      "message": "Reabrir separador de Modo predefinido"
+   },
+   "blankButtonNG": {
+      "message": "Reabrir separador na janela protegida"
+   },
+   "blankButtonSZ": {
+      "message": "Regressar ao Modo de banco"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Tentar novamente"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "O browser SafeZone colocou este separador em espera para o proteger de possíveis keyloggers ou outro software malicioso que pode estar escondido no seu computador."
+   },
+   "blankPageDescDEF": {
+      "message": "O separador atual está aberto e disponível no Modo predefinido do browser SafeZone."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "O Modo de banco está a ser carregado. Aguarde um momento."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Aguarde. Pode demorar mais alguns segundos."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Ocorreu um erro ao carregar o Modo de banco. Para continuar, tente carregar novamente o Modo de banco."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Reabrir Modo predefinido"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Reabrir na janela protegida"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "O Modo de banco está em espera..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "A carregar Modo predefinido..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "A janela protegida está a carregar..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "O Modo de banco está a carregar..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Modo de banco"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Se visualizar isto frequentemente, experimente estas \u003Ca>sugestões\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Separador de Modo predefinido"
+   },
+   "blankPageTitleNG": {
+      "message": "Separador de Janela protegida"
+   },
+   "blankPageTitleSZ": {
+      "message": "Separador de Modo de banco"
+   },
+   "emptyList": {
+      "message": "A lista está vazia"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "O site Web já está na lista"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Não é um endereço URL válido"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Está a ter problemas ao iniciar o Modo de banco? Experimente reiniciar o browser ou consulte as \u003Ca target='blank' href='$link$'>Perguntas frequentes\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Seletor de Modo de banco"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Modo de banco"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Ativar Modo de banco"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "O Modo de banco está a ser configurado"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Falha ao carregar o Modo de banco"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Desativar Modo de banco"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "O Modo de banco está ativo"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Não mostrar novamente esta mensagem"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "O Modo de banco protege a sua atividade contra keyloggers e espiões, para manter os seus dados pessoais seguros"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Ir para atalhos"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "O Modo de banco está ativado"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Nova janela anónima"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Nova janela de Modo de banco"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Nova janela protegida"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Não é um endereço Web válido"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Ignorar"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ABRIR NO MODO DE BANCO"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Não mostrar neste site novamente"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>O Modo de banco isola sessões de compras e operações bancárias de forma segura para impedir que piratas informáticos\u003C/b> roubem os seus \u003Cb>números de cartões de crédito, palavras-passe\u003C/b> e \u003Cb>outros dados privados\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Lembrar para este site"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Os seus dados financeiros poderão ser vistos por outras pessoas."
+   },
+   "openInIncognitoMode": {
+      "message": "Abrir hiperligação na janela anónima"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Abrir hiperligação na janela de Modo de banco"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Abrir hiperligação na janela protegida"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Abrimos automaticamente este site no Modo de banco para proteger a sua privacidade durante operações bancárias online"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Fechar"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Não mostrar novamente esta mensagem"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Esta página foi aberta no Modo de banco"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Abrir sempre esta página no Modo de banco"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "FECHAR"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "O Modo de banco protege as suas informações pessoais contra keyloggers e espiões."
+   },
+   "option_switcher_auto": {
+      "message": "Sites Web personalizados para mudar para o Modo de banco automaticamente"
+   },
+   "option_switcher_disabled": {
+      "message": "Lista de sites Web que excluiu da apresentação do aviso de notificação do Modo de banco"
+   },
+   "option_switcher_hidden": {
+      "message": "Desativar aviso de notificação do Modo de banco"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "A instalar suporte da janela protegida..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Proteja a sua privacidade ao pagar ou efetuar operações bancárias online."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Nova janela de Modo de banco"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Proteja o seu computador ao aceder a conteúdo Web infetado."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Saber mais"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "O suporte da janela protegida não está disponível"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Nova janela protegida"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Adicionar site"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Adicionar regra temporária"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Editar site"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Editar regra temporária"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Site"
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "adicionar"
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Abrir o Modo de banco automaticamente nos seguintes sites"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Cancelar"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Proteger os meus dados financeiros durante compras e operações bancárias online"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Não mostrar aviso de notificação do Modo de banco nos seguintes sites"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Editar"
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Mostrar aviso de notificação do Modo de banco em sites bancários"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "abrir"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Remover"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Definições avançadas do Modo de banco"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "MODO DE BANCO"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>O browser SafeZone abre automaticamente sites suspeitos na janela protegida, isolando o site do seu computador para que nenhum conteúdo malicioso o invada.\u003C/p>\u003Cp>Também pode abrir a janela protegida manualmente para se manter invisível enquanto navega, para que não haja registos dos sites visitados ou dos ficheiros que transferiu.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>O browser SafeZone abre automaticamente todos os sites de operações bancárias no Modo de banco. Isola a sessão e protege-a de possíveis keyloggers ou outro software malicioso que pode estar escondido no seu computador.\u003C/p>\u003Cp>Com o Modo de banco pode efetuar todas as suas transações financeiras em paz, sem medo que a sua palavra-passe ou outros detalhes pessoais sejam roubados.\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Modo de banco"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Modo de banco"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Regressar ao Modo de banco"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Dica"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "O Modo de banco mantém as suas informações pessoais protegidas contra keyloggers e outras ameaças que podem estar escondidas no seu PC"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Saber mais"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "OK, entendi"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Bem-vindo ao Modo de banco"
+   }
+}

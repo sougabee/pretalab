@@ -1,0 +1,459 @@
+{
+   "checksum": "35a4fcd056b96e0fed84c87576a28557",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13265388124000000",
+            "guid": "28ea6196-7c5b-4df4-bfe4-7115dc5c6aed",
+            "id": "54",
+            "meta_info": {
+               "disable-domain-matching": "false",
+               "disable-title-matching": "false",
+               "hide-bookmark": "false",
+               "hide-omnibox-suggestion": "true",
+               "id": "1999",
+               "index": "0",
+               "keyword": "google-com-tagged",
+               "omnibox-min-chars": "3",
+               "parent": "1",
+               "providers": "1,1001",
+               "sponsored": "false"
+            },
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com/?{google:client}"
+         }, {
+            "date_added": "13254972448865759",
+            "guid": "cf8ac61b-c433-4e8b-a4d7-7f785f34e6d2",
+            "id": "10",
+            "name": "Roundcube Webmail :: Caixa de entrada",
+            "type": "url",
+            "url": "https://webmail.viapaxbio.com.br/cpsess3657457759/3rdparty/roundcube/?_task=mail&_mbox=INBOX"
+         }, {
+            "date_added": "13255027356143815",
+            "guid": "027e1f51-4f94-4e29-9d2c-527a6e110410",
+            "id": "11",
+            "name": "Aliamos princípios alimentares antigos com a inovação da culinária moderna para oferecer alimentos e bebidas naturalmente funcionais",
+            "type": "url",
+            "url": "https://www.urbanremedy.com.br/"
+         }, {
+            "date_added": "13255468400960230",
+            "guid": "6ff4636b-0df1-4a31-8d47-01335ad5ff1c",
+            "id": "12",
+            "name": "",
+            "type": "url",
+            "url": "https://www.comprimirvideo.com.br/"
+         }, {
+            "date_added": "13255064978169440",
+            "guid": "58b8e7c3-47c0-4ef4-848f-17ece6cc5d17",
+            "id": "13",
+            "name": "Como organizar pedidos pelo Whatsapp Business",
+            "type": "url",
+            "url": "https://www.conferecartoes.com.br/blog/organizar-pedidos-whatsapp-business"
+         }, {
+            "date_added": "13256274839105656",
+            "guid": "1fec50c0-8945-4ca8-bea6-a2acb202a1b8",
+            "id": "14",
+            "name": "Vendas globais de alimentos orgânicos crescem de 25 a 100% devido à pandemia – Organis",
+            "type": "url",
+            "url": "https://organis.org.br/pensando_organico/vendas-globais-de-alimentos-organicos-crescem-de-25-a-100-devido-a-pandemia/"
+         }, {
+            "date_added": "13256304862440073",
+            "guid": "e999ed08-e750-4c28-be21-d1f020abbe20",
+            "id": "15",
+            "name": "Natural Food on Behance",
+            "type": "url",
+            "url": "https://www.behance.net/gallery/84753031/Natural-Food?tracking_source=search_projects_recommended"
+         }, {
+            "date_added": "13256305454511878",
+            "guid": "ef4097c0-7a66-4842-9367-196a616e46d0",
+            "id": "16",
+            "name": "ViaPaxBio - OrganicsNet",
+            "type": "url",
+            "url": "https://www.organicsnet.com.br/portfolio/viapaxbio/"
+         }, {
+            "date_added": "13256308006741239",
+            "guid": "d7236f31-8342-41d2-b2a3-0f12717a431b",
+            "id": "17",
+            "name": "Flourish_case_Verde_Campo1.pdf",
+            "type": "url",
+            "url": "http://flourishnegocios.com.br/wp-content/uploads/2015/12/Flourish_case_Verde_Campo1.pdf"
+         }, {
+            "date_added": "13256311574476745",
+            "guid": "bf713835-75fd-4093-8d87-786dd9466b5f",
+            "id": "18",
+            "name": "23 receitas de cappuccino melhores que as de cafeterias",
+            "type": "url",
+            "url": "https://www.receiteria.com.br/receitas-de-cappuccino/"
+         }, {
+            "date_added": "13256334060530476",
+            "guid": "413a6e27-7688-46a5-ba6d-3f7cfd18a215",
+            "id": "19",
+            "name": "Bethai – Original Thailand Beverage",
+            "type": "url",
+            "url": "http://bethai.com.br/"
+         }, {
+            "date_added": "13256334076801229",
+            "guid": "1ef082a4-2f0f-41df-8fb6-5f96f3d1c731",
+            "id": "20",
+            "name": "Design de Embalagens Chia Aqua — Oito Sete Estúdio Criativo",
+            "type": "url",
+            "url": "https://www.oitosete.com/chiaaqua"
+         }, {
+            "date_added": "13256485584343720",
+            "guid": "e69a830f-cda6-44dd-a6a0-b70e99838e2d",
+            "id": "21",
+            "name": "Oléo Essencial auá concentração e foco",
+            "type": "url",
+            "url": "https://www.auanatural.com.br/oleo-essencial-concentracao-foco"
+         }, {
+            "date_added": "13256681484310966",
+            "guid": "6f3c02dd-d18f-40f9-b978-01a1803934a7",
+            "id": "22",
+            "name": "WordPress Themes & Website Templates from ThemeForest",
+            "type": "url",
+            "url": "https://themeforest.net/"
+         }, {
+            "date_added": "13256709494060726",
+            "guid": "1f005cd0-9b71-4d2c-ad63-c020ebca4bea",
+            "id": "23",
+            "name": "Galeria Árvore - Festival de Arte Digital",
+            "type": "url",
+            "url": "https://www.arvore.com.br/festival"
+         }, {
+            "date_added": "13257292876623623",
+            "guid": "529b0ce5-a5fb-4d7a-bb26-1dc4a0909098",
+            "id": "24",
+            "name": "Download Instagram Stories and Highlights - StorySaver.net",
+            "type": "url",
+            "url": "https://www.storysaver.net/"
+         }, {
+            "date_added": "13257306264845857",
+            "guid": "36e19485-4307-4a4f-8fbd-2faccb8ca6b1",
+            "id": "25",
+            "name": "Catálogo Viapax 2020 - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1FNXPgvknAdZ7Ocsp9zJIywOdhsuRDd8q"
+         }, {
+            "date_added": "13258683695028214",
+            "guid": "046cbb97-6069-460e-a95b-16dcc110ea6c",
+            "id": "26",
+            "name": "Assinatura de Lentes de Contato – e-lens – Blog de Lentes de Contato",
+            "type": "url",
+            "url": "https://blog.e-lens.com.br/assinatura-de-lentes-de-contato/"
+         }, {
+            "date_added": "13259132367805304",
+            "guid": "e7cce462-957f-4601-96bf-aa7e512c4543",
+            "id": "27",
+            "name": "https://superopa.com/about_us_page.html#duvidas",
+            "type": "url",
+            "url": "https://superopa.com/about_us_page.html#duvidas"
+         }, {
+            "date_added": "13259430592879143",
+            "guid": "590751af-15d9-42d6-ad75-5d007b917f99",
+            "id": "28",
+            "name": "Alimentação Saudável - Saúde Brasil",
+            "type": "url",
+            "url": "https://saudebrasil.saude.gov.br/alimentacao-saudavel"
+         }, {
+            "date_added": "13259529630857555",
+            "guid": "251260cc-4ba6-4ed5-9302-dc6b74476f4b",
+            "id": "29",
+            "name": "Currículo do Sistema de Currículos Lattes (Danielle de Carla Divardin)",
+            "type": "url",
+            "url": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4301607P1"
+         }, {
+            "date_added": "13259986218993174",
+            "guid": "baaf2920-a718-4d65-ae2e-b860d0e9f234",
+            "id": "30",
+            "name": "DownloadGram - Instagram photo, video, IGTV, and Reels downloader online",
+            "type": "url",
+            "url": "https://downloadgram.com/"
+         }, {
+            "date_added": "13261805573205862",
+            "guid": "a87b6df3-18fa-459e-934d-cc394ea4f0f1",
+            "id": "31",
+            "name": "Será que você nasceu inteligente? - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=s07UdIXXVdY"
+         }, {
+            "date_added": "13262487368289150",
+            "guid": "485898cf-5dae-47d3-a572-65b55fefff10",
+            "id": "32",
+            "name": "Nova guia",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13263940584537173",
+            "guid": "d16b4319-27ff-46ef-ad2a-b30dd0f03b12",
+            "id": "33",
+            "name": "Plano de comunicação - Suco de soja do bem",
+            "type": "url",
+            "url": "https://pt.slideshare.net/heloisafelix/plano-de-comunicacao-suco-de-soja-do-bem"
+         }, {
+            "date_added": "13263952685716031",
+            "guid": "822e2c3b-2d51-4ed9-a9aa-d7f21a06ca6e",
+            "id": "34",
+            "name": "Escolas fechadas na pandemia: Crianças explicam: o ensino remoto não é brincadeira | Atualidade | EL PAÍS Brasil",
+            "type": "url",
+            "url": "https://brasil.elpais.com/brasil/2021-04-18/criancas-explicam-o-ensino-remoto-nao-e-brincadeira.html#?sma=newsletter_brasil_diaria20210419"
+         }, {
+            "date_added": "13264090563694648",
+            "guid": "8154329e-83ef-4fbf-9efc-3938e71d2f5c",
+            "id": "35",
+            "name": "10º Congresso Brasileiro de Avaliação Psicológica - Programação",
+            "type": "url",
+            "url": "https://www.congresso2021.ibapnet.org.br/programacao"
+         }, {
+            "date_added": "13264224173749844",
+            "guid": "79bcdbed-14a8-4fb7-a21c-7c5ede173ebf",
+            "id": "36",
+            "name": "viapaxbio ~ Financeiro ~ Dooca Commerce",
+            "type": "url",
+            "url": "https://viapaxbio.dooca.store/dc-admin/configuracoes/financeiro"
+         }, {
+            "date_added": "13264224178273112",
+            "guid": "3d15b446-7195-4ffe-b79e-36a4f9da9144",
+            "id": "37",
+            "name": "Franquia de Comida Saudável - Vida Leve",
+            "type": "url",
+            "url": "https://www.redevidaleve.com.br/franquia/comida-saudavel?gclid=Cj0KCQjwsqmEBhDiARIsANV8H3Zy7N2YTsjo2lmPPhop9W1ruIFCFk873xZV2SCBf9Y1cTIxbU8ZSDoaAtCbEALw_wcB"
+         }, {
+            "date_added": "13265504727685399",
+            "guid": "b25b1d2b-48bf-4d36-9fa5-fb6f8dd45e73",
+            "id": "38",
+            "name": "Um em cada cinco brasileiros afirma dirigir usando o celular",
+            "type": "url",
+            "url": "https://www.portaldotransito.com.br/noticias/um-em-cada-cinco-brasileiros-afirma-dirigir-usando-o-celular-2/"
+         }, {
+            "date_added": "13265512760407221",
+            "guid": "12a86208-b954-4f41-8c86-2b8e6526f20e",
+            "id": "39",
+            "name": "Nova lei de trânsito entra em vigor em abril: veja tabela com antes e depois das principais mudanças - Portal do Trânsito",
+            "type": "url",
+            "url": "https://www.portaldotransito.com.br/noticias/nova-lei-de-transito-entra-em-vigor-em-abril-veja-tabela-com-antes-e-depois-das-principais-mudancas/"
+         }, {
+            "date_added": "13265512976748723",
+            "guid": "75af6361-ad98-47cd-8a43-01c9d2aea1ba",
+            "id": "40",
+            "name": "ONU define período de 2021 a 2030 como Segunda Década de Ação pela Segurança no Trânsito - ABRAMET",
+            "type": "url",
+            "url": "https://www.abramet.com.br/noticias/onu-define-periodo-de-2021-a-2030-como-segunda-decada-de-acao-pela-seguranca-no-transito/"
+         }, {
+            "date_added": "13265515290189917",
+            "guid": "edcca5c8-6ed6-4845-b514-4e82abf4ef45",
+            "id": "41",
+            "name": "Psicologia do Trânsito - Como ela age na prevenção de acidentes",
+            "type": "url",
+            "url": "https://veltec.com.br/psicologia-do-transito-prevencao-acidentes/"
+         }, {
+            "date_added": "13266457025316764",
+            "guid": "856f7e89-77a7-4fda-97f0-e5f42e26d09c",
+            "id": "42",
+            "name": "Como desenvolver habilidades socioemocionais",
+            "type": "url",
+            "url": "https://www.proposito21.com.br/blog/como-desenvolver-habilidades-socioemocionais"
+         }, {
+            "date_added": "13267851846998230",
+            "guid": "d9c2e4ff-fffd-454a-bd68-71bfa687c791",
+            "id": "43",
+            "name": "Experimente o livro O Caminho dos Justos",
+            "type": "url",
+            "url": "https://materiais.sefer.com.br/degustacao-o-caminho-dos-justos"
+         }, {
+            "date_added": "13268448249202383",
+            "guid": "fb2c4c6b-e15a-4b77-9784-de0bcfb199df",
+            "id": "44",
+            "name": "Ebook | Autismo: Escola e família como aliados na educação",
+            "type": "url",
+            "url": "https://materiais.agendaedu.com/autismo-escola-e-familia-como-aliados-na-educacao"
+         }, {
+            "date_added": "13268465551044680",
+            "guid": "9db3fa49-3c35-4e1c-91c9-9af8cd87d035",
+            "id": "45",
+            "name": "Ligaponto | MailerLite",
+            "type": "url",
+            "url": "https://app.mailerlite.com/sites/template/4281037"
+         }, {
+            "date_added": "13268890219978889",
+            "guid": "c673b3ce-0a6e-4d5f-bded-f8f156caf667",
+            "id": "46",
+            "name": "E-Books | Revelo",
+            "type": "url",
+            "url": "https://www.revelo.com.br/recursos/e-books?_ga=2.233326555.452200963.1624415741-1717930620.1624415741"
+         }, {
+            "date_added": "13269648046910601",
+            "guid": "5aaaed13-c9e9-4e38-99f3-972a228c90ca",
+            "id": "47",
+            "name": "Gravador de tela grátis da Apowersoft – Grava Grátis a Tela do PC",
+            "type": "url",
+            "url": "https://www.apowersoft.com.br/gravador-de-tela-gratis"
+         }, {
+            "date_added": "13272062773894336",
+            "guid": "4a26b74e-621b-42cb-8e89-1abe587ab1ba",
+            "id": "48",
+            "name": "Conheça transexual mineiro que inspirou Ivana, da novela A Força do Querer - Gerais - Estado de Minas",
+            "type": "url",
+            "url": "https://www.em.com.br/app/noticia/gerais/2017/09/15/interna_gerais,900749/transexual-mineiro-inspirou-personagem-ivana-de-a-forca-do-querer.shtml"
+         }, {
+            "date_added": "13274336532192983",
+            "guid": "eb3169b3-f14b-4a45-b946-27f630c8cefe",
+            "id": "49",
+            "name": "Ser Psicóloga… vida de paixões e descobertas! – Psicologia Acessível",
+            "type": "url",
+            "url": "https://psicologiaacessivel.net/2018/08/24/ser-psicologa-vida-de-paixoes-e-descobertas/"
+         } ],
+         "date_added": "13275278302904583",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13275278302904589",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "sponsored": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13272025503000000",
+               "guid": "f99574b9-59aa-4163-ac4f-8b2355655681",
+               "id": "52",
+               "meta_info": {
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1995",
+                  "index": "0",
+                  "keyword": "google-com-tagged-obx",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://www.google.com/?{google:client}",
+                  "sponsored": "false"
+               },
+               "name": "Google",
+               "type": "url",
+               "url": "http://www.google.com/"
+            }, {
+               "date_added": "13254495188000000",
+               "guid": "c6590a2a-31c4-4792-9439-674a50f55e4b",
+               "id": "51",
+               "meta_info": {
+                  "description": "The best hotels & accommodations",
+                  "description-separator": " | ",
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "9203",
+                  "index": "0",
+                  "keyword": "booking-com-row-obx-sponsored",
+                  "omnibox-min-chars": "5",
+                  "parent": "0",
+                  "sponsored": "true"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://www.booking.com/index.html?aid=935088"
+            }, {
+               "date_added": "13260984951000000",
+               "guid": "22b82b7a-e73c-4779-8f2f-48db466d88d1",
+               "id": "50",
+               "meta_info": {
+                  "description-separator": " | ",
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "10099",
+                  "index": "0",
+                  "keyword": "aliexpress-com-row-obx-ggl-sponsored",
+                  "omnibox-min-chars": "3",
+                  "omnibox-providers": "1,1001",
+                  "parent": "0",
+                  "redirect-url": "https://rd-adm.avastbrowser.com/?u=https://www.aliexpress.com/&cid={campaignId}&country=us&src=obx&provider=ggl&aid=74443",
+                  "sponsored": "true"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://www.aliexpress.com/"
+            } ],
+            "date_added": "13275278303229172",
+            "date_modified": "0",
+            "guid": "76b3cb0f-e0c7-47ec-b1df-924b9cd85804",
+            "id": "6",
+            "name": "ActiveUrls",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13272025496000000",
+               "guid": "b3fec560-4858-4f66-a7cf-8ed0e72230f1",
+               "id": "53",
+               "meta_info": {
+                  "disable-domain-matching": "false",
+                  "disable-title-matching": "false",
+                  "hide-bookmark": "true",
+                  "hide-omnibox-suggestion": "false",
+                  "id": "1997",
+                  "index": "0",
+                  "keyword": "google-com-tagged-bing-obx",
+                  "omnibox-min-chars": "2",
+                  "omnibox-providers": "2,3,1002,1003",
+                  "parent": "0",
+                  "redirect-url": "https://www.google.com/?{google:client}",
+                  "sponsored": "false"
+               },
+               "name": "Google",
+               "type": "url",
+               "url": "http://www.google.com/"
+            } ],
+            "date_added": "13275278303229188",
+            "date_modified": "0",
+            "guid": "15146105-9d8e-4469-b079-34bac4923d47",
+            "id": "7",
+            "name": "HiddenUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13275278303229194",
+            "date_modified": "0",
+            "guid": "8da59d64-c0ab-4837-bdc1-7c9c09be59ff",
+            "id": "8",
+            "name": "RemovedUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13275278303229197",
+            "date_modified": "0",
+            "guid": "c349f7e5-0c7b-4e28-b214-27b67b8fb0a1",
+            "id": "9",
+            "name": "AllSubfolders",
+            "type": "folder"
+         } ],
+         "date_added": "13275278302904598",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000099",
+         "id": "4",
+         "name": "Patrocinado",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13275278302904592",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

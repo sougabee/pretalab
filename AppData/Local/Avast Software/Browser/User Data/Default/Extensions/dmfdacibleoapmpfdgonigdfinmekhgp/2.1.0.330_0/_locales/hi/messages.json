@@ -1,0 +1,374 @@
+{
+   "activate_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "इस फीचर का उपयोग करने के लिए आपको अपने Avast SecureLine VPN को सक्रिय करना होगा."
+   },
+   "activate_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "इस फीचर का उपयोग करने के लिए आपको अपने Avast One VPN को सक्रिय करना होगा."
+   },
+   "connected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connected.",
+      "message": "कनेक्ट है"
+   },
+   "connecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connecting.",
+      "message": "कनेक्ट हो रहा है"
+   },
+   "connection_failed": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connection failed.",
+      "message": "कनेक्शन विफल रहा"
+   },
+   "connection_status_connected_text": {
+      "description": "Text displayed on locations dashboard when the user is connected.",
+      "message": "कनेक्शन एन्क्रिप्ट कर दिया गया है और आपकी लोकेशन गुप्त है."
+   },
+   "connection_status_connected_title": {
+      "description": "Title displayed on locations dashboard when the user is connected. (Please use short text in the marker html code)",
+      "message": "आपका VPN \u003Cspan class=\"marker-green\">सक्रिय है\u003C/span>"
+   },
+   "connection_status_disconnected_free_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.",
+      "message": "अपनी ब्राउजिंग के लिए मुफ्त में \u003Cb>5 GB\u003C/b> तक का आनंद लें"
+   },
+   "connection_status_disconnected_free_title": {
+      "description": "Title displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.  (Please use short text in the marker html code)",
+      "message": "आपकी ब्राउजिंग के लिए शक्तिशाली \u003Cspan class=\"marker-orange\">सुरक्षा\u003C/span>"
+   },
+   "connection_status_disconnected_text": {
+      "description": "Text displayed on locations dashboard when the user is disconnected.",
+      "message": "कनेक्शन एन्क्रिप्ट नहीं किया गया है और आपकी लोकेशन दिखाई पड़ रही है."
+   },
+   "connection_status_disconnected_title": {
+      "description": "Title displayed on locations dashboard when the user is disconnected. (Please use short text in the marker html code)",
+      "message": "आपका VPN \u003Cspan class=\"marker-red\">निष्क्रिय है\u003C/span>"
+   },
+   "connection_status_limit_reached_promotion_list_item_1": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 1",
+      "message": "एक ही क्लिक में कुल ऑनलाइन गोपनीयता प्राप्त करें."
+   },
+   "connection_status_limit_reached_promotion_list_item_2": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 2",
+      "message": "VPN के साथ 24/7 सुरक्षित रूप से कनेक्ट करें"
+   },
+   "connection_status_limit_reached_promotion_list_item_3": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 3",
+      "message": "अगर पासवर्ड के साथ छेड़छाड़ हुई है तो पता लगाएं"
+   },
+   "connection_status_limit_reached_promotion_text": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "कहीं भी अधिक निजी और सुरक्षित बनें, इसके साथ ही प्रीमियम में असीमित VPN के साथ स्ट्रीमिंग सामग्री में एक्सेस प्राप्त करें."
+   },
+   "connection_status_limit_reached_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "आपने इस सप्ताह उपलब्ध अपने सभी मुफ्त VPN का उपयोग कर चुके हैं."
+   },
+   "connection_status_limit_reached_title": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit. (Please use short text in the marker html code)",
+      "message": "आप अंतिम सीमा तक \u003Cspan class=\"marker-orange\">पहुंच चुके हैं\u003C/span>"
+   },
+   "disconnected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnected.",
+      "message": "डिस्कनेक्ट है"
+   },
+   "disconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnecting.",
+      "message": "डिस्कनेक्ट हो रहा है"
+   },
+   "dismiss": {
+      "description": "Caption on the button displayed on the error notification view.",
+      "message": "निरस्त करें"
+   },
+   "extension_icon_overlay_text_connected": {
+      "description": "Extension icon tooltip text in connected state.",
+      "message": "Avast SecureLine VPN – कनेक्ट है"
+   },
+   "extension_icon_overlay_text_connecting": {
+      "description": "Extension icon tooltip text in connecting state.",
+      "message": "Avast SecureLine VPN – कनेक्ट हो रहा है"
+   },
+   "extension_icon_overlay_text_disconnected": {
+      "description": "Extension icon tooltip text in disconnected state.",
+      "message": "Avast SecureLine VPN – डिस्कनेक्ट किया गया"
+   },
+   "extension_icon_overlay_text_disconnecting": {
+      "description": "Extension icon tooltip text in disconnecting state.",
+      "message": "Avast SecureLine VPN – डिस्कनेक्ट हो रहा है"
+   },
+   "extension_icon_overlay_text_reconnecting": {
+      "description": "Extension icon tooltip text in reconnecting state.",
+      "message": "Avast SecureLine VPN – दोबारा कनेक्ट हो रहा है"
+   },
+   "fastest_location": {
+      "description": "Text displayed on main dashboard if the user selected the optimal location.",
+      "message": "निकटतम लोकेशन"
+   },
+   "free_data_allowed_day": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/दिन",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_month": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/महीने",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_week": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/सप्ताह",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_year": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$/वर्ष",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_free": {
+      "description": "Text on top of the bar with the free data displayed in locations dashboard when the user is on trial.",
+      "message": "मुफ्त़ VPN डेटा"
+   },
+   "free_data_renew_in": {
+      "description": "Text on top of the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DAYS$ दिन(दिनों) में नवीनीकृत करें",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "free_data_used": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ उपयोग किया गया",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "if_that_does_not_work_try_reinstalling_browser_product": {
+      "description": "Message shown to user when extension suggests user to reinstall Secure browser.",
+      "message": "यदि वह काम नहीं करता, तो Avast Secure Browser को फिर से इंस्टॉल करने की कोशिश करें"
+   },
+   "information": {
+      "description": "Text to show in the tooltip.",
+      "message": "जानकारी"
+   },
+   "install_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "इस फीचर को इस्तेमाल करने के लिए आपको नवीनतम Avast SecureLine VPN इंस्टॉल करना चाहिए।"
+   },
+   "install_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "इस फीचर को इस्तेमाल करने के लिए आपको Avast One का नवीनतम संस्करण इंस्टॉल करने की जरूरत होगी"
+   },
+   "ip_address": {
+      "description": "The real IP of the user. Text to show in the tooltip.",
+      "message": "वास्तविक IP: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12 "
+         }
+      }
+   },
+   "ip_info_connected": {
+      "description": "Text after the selected location when the user is connected.",
+      "message": "आपको निजता प्राप्त हो गई है."
+   },
+   "ip_info_disconnected": {
+      "description": "Text after the selected location when the user is disconnected.",
+      "message": "अपनी ब्राउजिंग को एनक्रिप्ट करने के लिए VPN चालू करें."
+   },
+   "learn_more": {
+      "description": "Text that appears in a tooltip above Info buitton (i) in a dashboard popup.",
+      "message": "अधिक जानें"
+   },
+   "loading": {
+      "description": "Message shown to user when extension is loading data (upon launch).",
+      "message": "लोड हो रहा है"
+   },
+   "locating": {
+      "description": "Text displayed instead of public IP address during fetching it via GeoIp service.",
+      "message": "खोज रहा है"
+   },
+   "location": {
+      "description": "The location the user is connected to. Text to show in the tooltip.",
+      "message": "लोकेशनः $DATA$",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "USA, Las Vegas"
+         }
+      }
+   },
+   "make_sure_your_internet_connection_works_properly": {
+      "description": "Message shown to user when extension detects that there is no Internet connection.",
+      "message": "ऐसा लगता है कि आप ऑफ़लाइन हैं, कृपया सुनिश्चित करें कि आपका इंटरनेट कनेक्शन ठीक से काम कर रहा है।"
+   },
+   "offline": {
+      "description": "Text which is displayed instead of Public IP address when host is offline.",
+      "message": "ऑफ़लाइन"
+   },
+   "optimal_location": {
+      "description": "Used to prepend name of location which is optimal.",
+      "message": "इष्टतम स्थान"
+   },
+   "please_try_reinstalling_vpn_product": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "अवास्ट Avast SecureLine VPN क्लाइंट को फिर से इंस्टॉल करने की कोशिश करें"
+   },
+   "please_try_reinstalling_vpn_product_avast_one": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "कृपया Avast One VPN क्लाइंट को फिर से इंस्टॉल करने की कोशिश करें"
+   },
+   "product_description": {
+      "description": "Extension description.",
+      "message": "वास्तविक ऑनलाइन गोपनीयता के लिए केवल एक बटन क्लिक करके अपने इंटरनेट कनेक्शन को इन्क्रिप्ट करें."
+   },
+   "product_name": {
+      "description": "Product name which is used for this application.",
+      "message": "Avast SecureLine VPN"
+   },
+   "promotion_button": {
+      "description": "Button for the promotion text displayed on locations dashboard when the user is on trial.",
+      "message": "प्रीमियम बनें"
+   },
+   "promotion_text": {
+      "description": "Text for the promotion text displayed at the bottom of locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "VPN से अधिकतम प्राप्त करें और अपनी निजता में सुधार लाएं."
+   },
+   "promotion_title": {
+      "description": "Title for the promotion text displayed at the bottom of the on locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "असीमित डेटा और 55 लोकेशन"
+   },
+   "reconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Reconnecting.",
+      "message": "दोबारा कनेक्ट हो रहा है"
+   },
+   "secure_connection": {
+      "description": "Text displayed on locations dashboard",
+      "message": "सुरक्षित कनेक्शन"
+   },
+   "see_how": {
+      "description": "Text of the hyperlink with URL of the Help page.",
+      "message": "देखें कैसे"
+   },
+   "select_location": {
+      "description": "Text displayed on locations dashboard for the user to select a new location.",
+      "message": "लोकेशन का चुनाव करें"
+   },
+   "something_is_not_right": {
+      "description": "Message shown to user when extension detects an error.",
+      "message": "कुछ गड़बड़ है"
+   },
+   "something_not_right_please_restart": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Avast SecureLine VPN के साथ कुछ गड़बड़ है। कृपया अपने कंप्यूटर को पुनरारंभ करें।"
+   },
+   "something_not_right_please_restart_avast_one": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "Avast One VPN के साथ कुछ गड़बड़ है. कृपया अपने कंप्यूटर को रीस्टार्ट करें."
+   },
+   "this_is_your_current_ip_address": {
+      "description": "Text that appears in a tooltip above current IP address in notification popups.",
+      "message": "यह आपका मौजूदा IP पता है।"
+   },
+   "time_connected": {
+      "description": "The time the user is connected to the VPN. Text to show in the tooltip.",
+      "message": "कनेक्ट किया गया समयः $TIME$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "01:12:34"
+         }
+      }
+   },
+   "turn_on_vpn_reason": {
+      "description": "Text that appears in the tooltop above the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "यह आपका मौजूदा IP पता है। वेबसाइट्स आपकी आसानी से पहचान करने के लिए इसका इस्तेमाल कर सकती हैं। अपने कनेक्शन को गुप्त बनाने के लिए VPN चालू करें।"
+   },
+   "update_browser_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update Secure browser.",
+      "message": "इस फीचर को इस्तेमाल करने के लिए आपको अपने Avast Secure Browser को अपडेट करना होगा।"
+   },
+   "update_now": {
+      "description": "Message shown on the button in a popup suggesting user to update browser or VPN client.",
+      "message": "अभी अपडेट करें"
+   },
+   "update_vpn_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "इस फीचर को इस्तेमाल करने के लिए आपको अपने Avast SecureLine VPN क्लाइंट को अपडेट करना होगा।"
+   },
+   "update_vpn_product_to_use_this_feature_avast_one": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "इस फीचर को इस्तेमाल करने के लिए आपको अपने Avast One VPN क्लाइंट को अपडेट करना होगा."
+   },
+   "virtual_ip": {
+      "description": "The virtual IP. Text to show in the tooltip.",
+      "message": "नया IP: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12"
+         }
+      }
+   },
+   "virtual_ip_address": {
+      "description": "Text before the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "वर्चुअल IP पता:"
+   },
+   "virtual_ip_address_explanation": {
+      "description": "Text that appears in the tooltop above the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "वर्चुअल IP पता का मतलब है कि अन्य साइटें आपको कैसे देखती हैं, जिसका अर्थ है कि आपका असली स्थान अब छिपा दिया गया है और आपका ट्रैफ़िक एन्क्रिप्ट कर दिया गया है।"
+   },
+   "vpn_location": {
+      "description": "Text above the currently selected location in dashboard popup.",
+      "message": "VPN स्थान:"
+   },
+   "waiting_for_ip_address_to_be_assigned_to_your_computer": {
+      "description": "Text that appears in the tooltop above the 'Locating...' string at the footer of the dashboard popup.",
+      "message": "आपके कंप्यूटर को IP पता असाइन होने का इंतजार किया जा रहा है।"
+   },
+   "you_need_to_update_your_vpn_product_extension": {
+      "description": "Message shown to user when extension suggests user to update VPN extension.",
+      "message": "आपको अपने Avast VPN एक्सटेंशन को अपडेट करना होगा।"
+   },
+   "your_computer_seems_to_be_offline": {
+      "description": "IP Address tooltip text when host is offline.",
+      "message": "लगता है कि आपका कंप्यूटर ऑफ़लाइन है"
+   },
+   "your_ip_address": {
+      "description": "Text before the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "आपका IP पता:"
+   },
+   "your_location_connected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is connected.",
+      "message": "आपका लोकेशन अब दूसरों के सामने इस रूप में प्रकट होता है:"
+   },
+   "your_location_disconnected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is disconnected.",
+      "message": "लोकेशम इस प्रकार दिखाई देगीः"
+   }
+}

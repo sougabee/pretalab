@@ -1,0 +1,4 @@
+﻿2021-07-25 23:08:56,409 [5] INFO  WebSocketServer-4032828 - The server instance WebSocketServer-4032828 has been started!
+2021-07-25 23:08:56,465 [5] INFO  WebSocketServer-32901400 - The server instance WebSocketServer-32901400 has been started!
+2021-07-25 23:08:56,755 [12] INFO  WebSocketServer-32901400 - Session: 28cfe47a-e67c-4475-a210-4c0e6df31ccb/127.0.0.1:49501
+A new session connected!

@@ -1,0 +1,4 @@
+﻿2022-10-17 22:53:45,263 [5] DEBUG WebSocketServer-4032828 - SubProtocol Basic found the commands: []
+2022-10-17 22:53:45,284 [5] DEBUG WebSocketServer-4032828 - Listener (127.0.0.1:18600) was started
+2022-10-17 22:53:45,411 [5] DEBUG WebSocketServer-32901400 - SubProtocol Basic found the commands: []
+2022-10-17 22:53:45,420 [5] DEBUG WebSocketServer-32901400 - Listener (127.0.0.1:18610) was started

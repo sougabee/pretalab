@@ -1,0 +1,374 @@
+{
+   "activate_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "คุณจำเป็นต้องเปิดใช้งาน Avast SecureLine VPN ของคุณเพื่อใช้คุณสมบัตินี้"
+   },
+   "activate_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN license has not been activated.",
+      "message": "คุณจำเป็นต้องเปิดใช้งาน Avast One VPN ของคุณเพื่อใช้คุณสมบัตินี้"
+   },
+   "connected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connected.",
+      "message": "เชื่อมต่อแล้ว"
+   },
+   "connecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connecting.",
+      "message": "กำลังเชื่อมต่อ"
+   },
+   "connection_failed": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Connection failed.",
+      "message": "การเชื่อมต่อล้มเหลว"
+   },
+   "connection_status_connected_text": {
+      "description": "Text displayed on locations dashboard when the user is connected.",
+      "message": "การเชื่อมต่อได้รับการเข้ารหัสและตำแหน่งที่ตั้งของคุณได้รับการซ่อนไว้"
+   },
+   "connection_status_connected_title": {
+      "description": "Title displayed on locations dashboard when the user is connected. (Please use short text in the marker html code)",
+      "message": "VPN ของคุณ\u003Cspan class=\"marker-green\">เปิดใช้งานอยู่\u003C/span>"
+   },
+   "connection_status_disconnected_free_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.",
+      "message": "เพลิดเพลินกับการปกป้อง VPN สูงสุด \u003Cb>5GB\u003C/b> สำหรับการท่องเว็บของคุณได้\u003Cb>ฟรี\u003C/b>"
+   },
+   "connection_status_disconnected_free_title": {
+      "description": "Title displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.  (Please use short text in the marker html code)",
+      "message": "\u003Cspan class=\"marker-orange\">การป้องกัน\u003C/span>ที่ทรงพลังสำหรับการท่องเว็บของคุณ"
+   },
+   "connection_status_disconnected_text": {
+      "description": "Text displayed on locations dashboard when the user is disconnected.",
+      "message": "การเชื่อมต่อไม่ได้รับการเข้ารหัสและตำแหน่งที่ตั้งของคุณมองเห็นได้"
+   },
+   "connection_status_disconnected_title": {
+      "description": "Title displayed on locations dashboard when the user is disconnected. (Please use short text in the marker html code)",
+      "message": "VPN ของคุณ\u003Cspan class=\"marker-red\">ปิดใช้งานอยู่\u003C/span>"
+   },
+   "connection_status_limit_reached_promotion_list_item_1": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 1",
+      "message": "รับความเป็นส่วนตัวอย่างสมบูรณ์บนโลกออนไลน์ได้ด้วยคลิกเดียว"
+   },
+   "connection_status_limit_reached_promotion_list_item_2": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 2",
+      "message": "เชื่อมต่ออย่างปลอดภัยได้ทุกเวลาด้วย VPN"
+   },
+   "connection_status_limit_reached_promotion_list_item_3": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 3",
+      "message": "ตรวจสอบว่ารหัสผ่านเสี่ยงที่จะรั่วไหลหรือไม่"
+   },
+   "connection_status_limit_reached_promotion_text": {
+      "description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "เป็นส่วนตัวและปลอดภัยยิ่งขึ้นได้ทุกที่ พร้อมเข้าถึงเนื้อหาการสตรีมด้วย VPN พรีเมียมแบบไม่จำกัด"
+   },
+   "connection_status_limit_reached_text": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit.",
+      "message": "คุณใช้ VPN ฟรีทั้งหมดที่มีในสัปดาห์นี้แล้ว"
+   },
+   "connection_status_limit_reached_title": {
+      "description": "Text displayed on locations dashboard when the user is on trial and has reach the limit. (Please use short text in the marker html code)",
+      "message": "คุณได้ใช้\u003Cspan class=\"marker-orange\">ถึง\u003C/span>ขีดจำกัดแล้ว"
+   },
+   "disconnected": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnected.",
+      "message": "ยกเลิกการเชื่อมต่อแล้ว"
+   },
+   "disconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Disconnecting.",
+      "message": "การยกเลิกการเชื่อมต่อ"
+   },
+   "dismiss": {
+      "description": "Caption on the button displayed on the error notification view.",
+      "message": "ปิด"
+   },
+   "extension_icon_overlay_text_connected": {
+      "description": "Extension icon tooltip text in connected state.",
+      "message": "Avast SecureLine VPN - เชื่อมต่อแล้ว"
+   },
+   "extension_icon_overlay_text_connecting": {
+      "description": "Extension icon tooltip text in connecting state.",
+      "message": "Avast SecureLine VPN - กำลังเชื่อมต่อ"
+   },
+   "extension_icon_overlay_text_disconnected": {
+      "description": "Extension icon tooltip text in disconnected state.",
+      "message": "Avast SecureLine VPN - ตัดการเชื่อมต่อแล้ว"
+   },
+   "extension_icon_overlay_text_disconnecting": {
+      "description": "Extension icon tooltip text in disconnecting state.",
+      "message": "Avast SecureLine VPN - กำลังตัดการเชื่อมต่อ"
+   },
+   "extension_icon_overlay_text_reconnecting": {
+      "description": "Extension icon tooltip text in reconnecting state.",
+      "message": "Avast SecureLine VPN - กำลังเชื่อมต่อใหม่"
+   },
+   "fastest_location": {
+      "description": "Text displayed on main dashboard if the user selected the optimal location.",
+      "message": "ตำแหน่งที่ตั้งที่เร็วที่สุด"
+   },
+   "free_data_allowed_day": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ / วัน",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_month": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ / เดือน",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_week": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ / สัปดาห์",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_allowed_year": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "$DATA$ / ปี",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "free_data_free": {
+      "description": "Text on top of the bar with the free data displayed in locations dashboard when the user is on trial.",
+      "message": "ข้อมูล VPN ฟรี"
+   },
+   "free_data_renew_in": {
+      "description": "Text on top of the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "ต่ออายุในอีก $DAYS$ วัน",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "3"
+         }
+      }
+   },
+   "free_data_used": {
+      "description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+      "message": "ใช้แล้ว $DATA$",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "5.0 GB"
+         }
+      }
+   },
+   "if_that_does_not_work_try_reinstalling_browser_product": {
+      "description": "Message shown to user when extension suggests user to reinstall Secure browser.",
+      "message": "หากไม่ได้ผล ให้ติดตั้ง Avast Secure Browser ใหม่อีกครั้ง"
+   },
+   "information": {
+      "description": "Text to show in the tooltip.",
+      "message": "ข้อมูล"
+   },
+   "install_vpn_product": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "คุณจำเป็นต้องติดตั้ง Avast SecureLine VPN เวอร์ชันล่าสุดเพื่อใช้คุณสมบัตินี้"
+   },
+   "install_vpn_product_avast_one": {
+      "description": "Message shown to user when extension detects that VPN client has not been installed.",
+      "message": "คุณจำเป็นต้องติดตั้ง Avast One เวอร์ชันล่าสุดเพื่อใช้คุณสมบัตินี้"
+   },
+   "ip_address": {
+      "description": "The real IP of the user. Text to show in the tooltip.",
+      "message": "IP ดั้งเดิม: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12 "
+         }
+      }
+   },
+   "ip_info_connected": {
+      "description": "Text after the selected location when the user is connected.",
+      "message": "คุณได้รับความเป็นส่วนตัวแล้ว"
+   },
+   "ip_info_disconnected": {
+      "description": "Text after the selected location when the user is disconnected.",
+      "message": "เปิด VPN เพื่อเข้ารหัสการท่องเว็บของคุณ"
+   },
+   "learn_more": {
+      "description": "Text that appears in a tooltip above Info buitton (i) in a dashboard popup.",
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "loading": {
+      "description": "Message shown to user when extension is loading data (upon launch).",
+      "message": "กำลังโหลด"
+   },
+   "locating": {
+      "description": "Text displayed instead of public IP address during fetching it via GeoIp service.",
+      "message": "กำลังหาตำแหน่งที่ตั้ง"
+   },
+   "location": {
+      "description": "The location the user is connected to. Text to show in the tooltip.",
+      "message": "ตำแหน่งที่ตั้ง: $DATA$",
+      "placeholders": {
+         "data": {
+            "content": "$1",
+            "example": "USA, Las Vegas"
+         }
+      }
+   },
+   "make_sure_your_internet_connection_works_properly": {
+      "description": "Message shown to user when extension detects that there is no Internet connection.",
+      "message": "ดูเหมือนว่า คุณจะออฟไลน์อยู่ โปรดตรวจสอบให้แน่ใจว่าการเชื่อมต่ออินเทอร์เน็ตของคุณทำงานอย่างถูกต้อง"
+   },
+   "offline": {
+      "description": "Text which is displayed instead of Public IP address when host is offline.",
+      "message": "ออฟไลน์"
+   },
+   "optimal_location": {
+      "description": "Used to prepend name of location which is optimal.",
+      "message": "ตำแหน่งที่ตั้งที่เหมาะสม"
+   },
+   "please_try_reinstalling_vpn_product": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "โปรดลองติดตั้งไคลเอ็นต์ Avast SecureLine VPN ใหม่อีกครั้ง"
+   },
+   "please_try_reinstalling_vpn_product_avast_one": {
+      "description": "Message shown to user when extension suggests user to reinstall VPN client.",
+      "message": "โปรดลองติดตั้งไคลเอ็นต์ Avast One VPN ใหม่อีกครั้ง"
+   },
+   "product_description": {
+      "description": "Extension description.",
+      "message": "เข้ารหัสการเชื่อมต่ออินเทอร์เน็ตของคุณด้วยการคลิกปุ่มเดียวเพื่อความเป็นส่วนตัวทางออนไลน์อย่างแท้จริง"
+   },
+   "product_name": {
+      "description": "Product name which is used for this application.",
+      "message": "Avast SecureLine VPN"
+   },
+   "promotion_button": {
+      "description": "Button for the promotion text displayed on locations dashboard when the user is on trial.",
+      "message": "ใช้พรีเมียมเลย"
+   },
+   "promotion_text": {
+      "description": "Text for the promotion text displayed at the bottom of locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "รับประโยชน์สูงสุดจาก VPN และเพิ่มความเป็นส่วนตัวของคุณ"
+   },
+   "promotion_title": {
+      "description": "Title for the promotion text displayed at the bottom of the on locations dashboard when the user is on trial and do not reach the limit.",
+      "message": "ข้อมูลแบบไม่จำกัดพร้อมตำแหน่งที่ตั้ง 55 แห่ง"
+   },
+   "reconnecting": {
+      "description": "Text displayed on main dashboard to show that current VPN state is Reconnecting.",
+      "message": "กำลังเชื่อมต่อใหม่"
+   },
+   "secure_connection": {
+      "description": "Text displayed on locations dashboard",
+      "message": "การเชื่อมต่อที่ปลอดภัย"
+   },
+   "see_how": {
+      "description": "Text of the hyperlink with URL of the Help page.",
+      "message": "ดูวิธีการ"
+   },
+   "select_location": {
+      "description": "Text displayed on locations dashboard for the user to select a new location.",
+      "message": "เลือกตำแหน่งที่ตั้ง"
+   },
+   "something_is_not_right": {
+      "description": "Message shown to user when extension detects an error.",
+      "message": "มีบางอย่างไม่ถูกต้อง"
+   },
+   "something_not_right_please_restart": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "มีบางอย่างไม่ถูกต้องเกิดขึ้นกับ Avast SecureLine VPN โปรดรีสตาร์ทคอมพิวเตอร์ของคุณใหม่อีกครั้ง"
+   },
+   "something_not_right_please_restart_avast_one": {
+      "description": "Message shown to user when extension suggests user to restart their computer.",
+      "message": "มีบางอย่างไม่ถูกต้องเกิดขึ้นกับ Avast One VPN โปรดรีสตาร์ทคอมพิวเตอร์ของคุณ"
+   },
+   "this_is_your_current_ip_address": {
+      "description": "Text that appears in a tooltip above current IP address in notification popups.",
+      "message": "นี่คือที่อยู่ IP ปัจจุบันของคุณ"
+   },
+   "time_connected": {
+      "description": "The time the user is connected to the VPN. Text to show in the tooltip.",
+      "message": "เวลาที่เชื่อมต่อ: $TIME$",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": "01:12:34"
+         }
+      }
+   },
+   "turn_on_vpn_reason": {
+      "description": "Text that appears in the tooltop above the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "นี่คือที่อยู่ IP ปัจจุบันของคุณ เว็บไซต์สามารถใช้ที่อยู่ดังกล่าวเพื่อระบุตัวคุณได้อย่างง่ายดาย โปรดเปิด VPN เพื่อทำให้การเชื่อมต่อของคุณเป็นส่วนตัว"
+   },
+   "update_browser_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update Secure browser.",
+      "message": "คุณจำเป็นต้องอัปเดต Secure Browser ของคุณเพื่อใช้คุณสมบัตินี้"
+   },
+   "update_now": {
+      "description": "Message shown on the button in a popup suggesting user to update browser or VPN client.",
+      "message": "อัปเดตตอนนี้"
+   },
+   "update_vpn_product_to_use_this_feature": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "คุณจำเป็นต้องอัปเดตไคลเอ็นต์ Avast SecureLine VPN ของคุณเพื่อใช้คุณสมบัตินี้"
+   },
+   "update_vpn_product_to_use_this_feature_avast_one": {
+      "description": "Message shown to user when extension suggests user to update VPN client.",
+      "message": "คุณจำเป็นต้องอัปเดตไคลเอ็นต์ Avast One VPN ของคุณเพื่อใช้คุณสมบัตินี้"
+   },
+   "virtual_ip": {
+      "description": "The virtual IP. Text to show in the tooltip.",
+      "message": "IP ใหม่: $IP$",
+      "placeholders": {
+         "ip": {
+            "content": "$1",
+            "example": "12.123.123.12"
+         }
+      }
+   },
+   "virtual_ip_address": {
+      "description": "Text before the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "ที่อยู่ IP เสมือน:"
+   },
+   "virtual_ip_address_explanation": {
+      "description": "Text that appears in the tooltop above the current IP address, in Connected state, at the footer of the dashboard popup.",
+      "message": "เว็บไซต์อื่นๆจะเห็นที่อยู่ IP เสมือนของคุณซึ่งหมายความว่าในขณะนี้ที่อยู่จริงของคุณจะถูกปกปิดและการรับส่งข้อมูลจะถูกเข้ารหัส"
+   },
+   "vpn_location": {
+      "description": "Text above the currently selected location in dashboard popup.",
+      "message": "ตำแหน่งที่ตั้ง VPN:"
+   },
+   "waiting_for_ip_address_to_be_assigned_to_your_computer": {
+      "description": "Text that appears in the tooltop above the 'Locating...' string at the footer of the dashboard popup.",
+      "message": "กำลังรอที่อยู่ IP ซึ่งจะถูกกำหนดไปยังคอมพิวเตอร์ของคุณ"
+   },
+   "you_need_to_update_your_vpn_product_extension": {
+      "description": "Message shown to user when extension suggests user to update VPN extension.",
+      "message": "คุณจำเป็นต้องอัปเดตส่วนขยาย Avast VPN ของคุณ"
+   },
+   "your_computer_seems_to_be_offline": {
+      "description": "IP Address tooltip text when host is offline.",
+      "message": "ดูเหมือนคอมพิวเตอร์ของคุณออฟไลน์อยู่"
+   },
+   "your_ip_address": {
+      "description": "Text before the current IP address, in Disconnected state, at the footer of the dashboard popup.",
+      "message": "ที่อยู่ IP ของคุณ:"
+   },
+   "your_location_connected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is connected.",
+      "message": "ขณะนี้ตำแหน่งที่ตั้งของคุณจะปรากฏต่อผู้อื่นเป็น:"
+   },
+   "your_location_disconnected": {
+      "description": "Text displayed on main dashboard on top of the selected location when the user is disconnected.",
+      "message": "ตำแหน่งที่ตั้งจะปรากฏเป็น:"
+   }
+}

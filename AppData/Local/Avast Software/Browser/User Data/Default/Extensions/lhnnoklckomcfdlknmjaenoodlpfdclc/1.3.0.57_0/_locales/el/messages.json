@@ -1,0 +1,360 @@
+{
+   "BankMode": {
+      "description": "Bank Mode button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Τραπεζ. Λειτουργία"
+   },
+   "StandardDesktop": {
+      "description": "Standard Desktop button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Κανονική Επιφάνεια Εργασίας"
+   },
+   "blankButtonDEF": {
+      "message": "Άνοιγμα ξανά Προεπιλεγμ. Λειτουργίας"
+   },
+   "blankButtonNG": {
+      "message": "Επανάληψη ανοίγματος καρτέλας σε Ασφαλές Παράθυρο"
+   },
+   "blankButtonSZ": {
+      "message": "Επιστροφή στην Τραπεζική Λειτουργία"
+   },
+   "blankPageButtonLoadingSZPhase3": {
+      "message": "Δοκιμή ξανά"
+   },
+   "blankPageDescActiveSZ": {
+      "description": "Bank mode description when tab is active in Bank mode but seen from default mode.",
+      "message": "Το πρόγραμμα SafeZone έθεσε την καρτέλα σε αναμονή για να την προστατεύσει από προγράμματα καταγραφής πληκτρολογήσεων ή άλλο κακόβουλο λογισμικό που μπορεί να κρύβεται στον υπολογιστή σας."
+   },
+   "blankPageDescDEF": {
+      "message": "Η τρέχουσα καρτέλα άνοιξε και είναι διαθέσιμη στην Προεπιλεγμένη Λειτουργία του προγράμματος SafeZone."
+   },
+   "blankPageDescLoadingSZPhase1": {
+      "message": "Γίνεται φόρτωση της Τραπεζικής Λειτουργίας. Παρακαλούμε περιμένετε ένα λεπτό."
+   },
+   "blankPageDescLoadingSZPhase2": {
+      "message": "Παρακαλούμε περιμένετε. Θα χρειαστούν μερικά λεπτά ακόμη."
+   },
+   "blankPageDescLoadingSZPhase3": {
+      "message": "Κάτι πήγε στραβά κατά τη φόρτωση της Τραπεζικής Λειτουργίας. Για να συνεχίσετε, δοκιμάστε να φορτώσετε ξανά την Τραπεζική Λειτουργία."
+   },
+   "blankPageHeaderActiveDEF": {
+      "message": "Άνοιγμα ξανά Προεπιλεγμ. Λειτουργίας"
+   },
+   "blankPageHeaderActiveNG": {
+      "message": "Επανάληψη ανοίγματος σε Ασφαλές Παράθυρο"
+   },
+   "blankPageHeaderActiveSZ": {
+      "message": "Η Τραπεζική Λειτουργία βρίσκεται σε αναμονή..."
+   },
+   "blankPageHeaderLoadingDEF": {
+      "message": "Φόρτωση Προεπιλεγμένης Λειτουργίας..."
+   },
+   "blankPageHeaderLoadingNG": {
+      "message": "Φόρτωση Ασφαλούς Παραθύρου..."
+   },
+   "blankPageHeaderLoadingSZ": {
+      "description": "Bank mode page header displayed when Bank mode is beeing started.",
+      "message": "Φόρτωση της Τραπεζικής Λειτουργίας..."
+   },
+   "blankPageHeaderLoadingSZPhase": {
+      "message": "Τραπεζ. Λειτουργία"
+   },
+   "blankPageLoadingPanicSuggestions": {
+      "message": "Αν το βλέπετε αυτό συχνά, δοκιμάστε αυτές τις \u003Ca>προτάσεις\u003C/a>."
+   },
+   "blankPageTitleDEF": {
+      "message": "Καρτέλα Προεπιλεγμ. Λειτουργίας"
+   },
+   "blankPageTitleNG": {
+      "message": "Καρτέλα Ασφαλούς Παραθύρου"
+   },
+   "blankPageTitleSZ": {
+      "message": "Κάρτα Τραπεζ. Λειτουργίας"
+   },
+   "emptyList": {
+      "message": "Η λίστα είναι κενή"
+   },
+   "errDuplicatedUrl": {
+      "description": "Error text, which informs that input URL is already in list",
+      "message": "Η ιστοσελίδα βρίσκεται ήδη στη λίστα"
+   },
+   "errNotUrl": {
+      "description": "Error text, which informs that string is not URL",
+      "message": "Αυτή δεν είναι έγκυρη διεύθυνση URL"
+   },
+   "errorText": {
+      "description": "Message, which is shown in popup, when native application connection has been lost",
+      "message": "Υπάρχει πρόβλημα με το άνοιγμα της Τραπεζικής Λειτουργίας; Ανοίξτε ξανά το πρόγραμμα περιήγησης ή δείτε τις \u003Ca target='blank' href='$link$'>FAQ\u003C/a>",
+      "placeholders": {
+         "link": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensionDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Διακόπτης Τραπεζικής Λειτουργίας"
+   },
+   "extensionName": {
+      "description": "The title of the application, displayed in the web store, in extension management.",
+      "message": "Τραπεζ. λειτουργία"
+   },
+   "iconTitleDEF": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Ενεργοπ. Τραπεζικής Λειτουργίας"
+   },
+   "iconTitleNone": {
+      "description": "The title of the 'card' icon displayed in the browser, enabling user to switch to the Bank mode.",
+      "message": "Γίνεται ρύθμιση της Τραπεζικής Λειτουργίας"
+   },
+   "iconTitleNotLoaded": {
+      "description": "The title of the 'card' icon displayed, when connection to communication was not established.",
+      "message": "Αποτυχία φόρτωσης Τραπεζικής Λειτουργίας"
+   },
+   "iconTitleSZ": {
+      "description": "The title of the 'card' icon displayed in the Bank mode, it enables user to switch the Bank mode off.",
+      "message": "Απενεργοπ. Τραπεζικής Λειτουργίας"
+   },
+   "iconTitleSZActive": {
+      "description": "The title of the 'card' icon displayed in the Bank mode. Bank mode is active, but user cannot click the icon.",
+      "message": "Η Τραπεζική Λειτουργία είναι ενεγή"
+   },
+   "landingDoNotShow": {
+      "description": "Do not show again button on landing page.",
+      "message": "Να μην εμφανιστεί ξανά αυτό το μήνυμα"
+   },
+   "landingInfo": {
+      "description": "Detailed information about Bank Mode on landing page.",
+      "message": "Η Τραπεζική Λειτουργία σας προστατεύει από καταγραφείς πληκτρολογήσεων και κατασκόπους και κρατά ασφαλή τα προσωπικά σας στοιχεία"
+   },
+   "landingOk": {
+      "description": "OK button on landing page.",
+      "message": "Μετάβαση στις Συντομεύσεις"
+   },
+   "landingTitle": {
+      "description": "Title of landing page.",
+      "message": "Ενεργοποιήθηκε η Τραπεζική Λειτουργία"
+   },
+   "newIncognitoModeTab": {
+      "description": "Menu item to open new tab in an Incognito mode window.",
+      "message": "Νέο Παράθυρο Incognito"
+   },
+   "newPayModeTab": {
+      "description": "Menu item to open new empty SafeZone Browser Bank mode window.",
+      "message": "Νέο παράθυρο Τραπεζικής Λειτουργίας"
+   },
+   "newSafeModeWin": {
+      "description": "Menu item to open new SazeZone Browser Shielded window.",
+      "message": "Νέο Ασφαλές Παράθυρο"
+   },
+   "notAValidWebAddress": {
+      "description": "Settings dialog label",
+      "message": "Δεν είναι έγκυρη διεύθυνση web"
+   },
+   "notificationButtonIgnore": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Παράβλεψη"
+   },
+   "notificationButtonSwitch": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "ΆΝΟΙΓΜΑ ΣΕ ΤΡΑΠΕΖΙΚΗ ΛΕΙΤΟΥΡΓΙΑ"
+   },
+   "notificationDoNotShow": {
+      "description": "It allows the user to disable the notification for a specific website",
+      "message": "Να μην εμφανιστεί ξανά σε αυτήν την ιστοσελίδα"
+   },
+   "notificationInfoMessage": {
+      "description": "Context help opened from the notification bar to explain the user the goal of Bank Mode",
+      "message": "\u003Cb>Η Τραπεζική Λειτουργία απομονώνει με ασφάλεια αγορές και συνδέσεις σε ιστοσελίδες τραπεζών για να μην μπορούν οι χάκερ\u003C/b> να υποκλέψουν \u003Cb>αριθμούς πιστωτικών καρτών, κωδικούς\u003C/b> και \u003Cb>άλλα απόρρητα στοιχεία\u003C/b>."
+   },
+   "notificationRemember": {
+      "description": "Notification bar switch to Bank Mode button text.",
+      "message": "Να το θυμάσαι για αυτήν την ιστοσελίδα"
+   },
+   "notificationTitle": {
+      "description": "Notification bar title. Message showed when the extension wants to offer the user the chance of open Bank Mode",
+      "message": "Τα οικονομικά σας στοιχεία ενδέχεται να είναι ορατά σε άλλους."
+   },
+   "openInIncognitoMode": {
+      "message": "Άνοιγμα συνδέσμου στο παράθυρο του Incognito"
+   },
+   "openInPayMode": {
+      "description": "Context menu item to open the link in Bank mode.",
+      "message": "Άνοιγμα συνδέσμου στην καρτέλα Τραπεζικής Λειτουργίας"
+   },
+   "openInSafeMode": {
+      "description": "Context menu item to open the link in Shielded window.",
+      "message": "Άνοιγμα συνδέσμου στο Ασφαλές Παράθυρο"
+   },
+   "openPayModeNotification": {
+      "description": "Notification shown to the user when he opens the page in Bank mode for first time.",
+      "message": "Η ιστοσελίδα άνοιξε αυτόματα σε Τραπεζική Λειτουργία για προστασία του απορρήτου σας στη διάρκεια των online τραπεζικών συναλλαγών"
+   },
+   "openPayModeNotificationCloseButton": {
+      "description": "Close button for open in Bank Mode notitfication",
+      "message": "Κλείσιμο"
+   },
+   "openPayModeNotificationDontShowAgain": {
+      "description": "Check box label for Bank Mode notification to disable the message",
+      "message": "Να μην εμφανιστεί ξανά αυτό το μήνυμα"
+   },
+   "openedInPayMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Η σελίδα έχει ανοίξει σε Τραπεζική Λειτουργία"
+   },
+   "openedInPayModeAutomatically": {
+      "description": "Checkbox which can be checked when user wants to open the website automatically in Bank Mode next time.",
+      "message": "Να ανοίγει πάντα η σελίδα σε Τραπεζική Λειτουργία"
+   },
+   "openedInPayModeClose": {
+      "description": "Close button, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "ΚΛΕΙΣΙΜΟ"
+   },
+   "openedInPayModeDescription": {
+      "description": "Detailed description, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Η Τραπεζική Λειτουργία κρατά τα στοιχεία σας ασφαλή από υποκλοπές πληκτρολογήσεων και κατασκόπους."
+   },
+   "option_switcher_auto": {
+      "message": "Να μεταβαίνουν αυτόματα σε Τραπεζική Λειτουργία οι προσωπικές σας ιστοσελίδες"
+   },
+   "option_switcher_disabled": {
+      "message": "Λίστα με τοποθεσίες Web που δεν θα εμφανίζουν την ειδοποίηση για απενεργοποίηση Τραπεζικής Λειτουργίας"
+   },
+   "option_switcher_hidden": {
+      "message": "Ειδοποίηση για απενεργοποίηση Τραπεζικής Λειτουργίας"
+   },
+   "popupInstallingSafeModeTitle": {
+      "description": "Title notification that the Shielded window is being installed.",
+      "message": "Εγκατάσταση υποστήριξης Ασφαλούς Παραθύρου..."
+   },
+   "popupPayModeDescription": {
+      "description": "Bank mode description displayed in browser popup.",
+      "message": "Προστατέψτε το απόρρητό σας όταν κάνετε πληρωμές ή οnline τραπεζικές συναλλαγές."
+   },
+   "popupPayModeTitle": {
+      "description": "Bank mode title displayed in browser popup.",
+      "message": "Νέο παράθυρο Τραπεζικής Λειτουργίας"
+   },
+   "popupSafeModeDescription": {
+      "description": "Shielded window description displayed in browser popup.",
+      "message": "Προστατέψτε τον υπολογιστή σε ιστοσελίδες με μολυσμένο περιεχόμενο."
+   },
+   "popupSafeModeNotAvailableLink": {
+      "description": "Link to provide more information that Safe mode is not available.",
+      "message": "Μάθετε περισσότερα"
+   },
+   "popupSafeModeNotAvailableTitle": {
+      "description": "Title notification that the Shielded window is not available.",
+      "message": "Δεν είναι διαθέσιμη η υποστήριξη Ασφαλούς Παραθύρου"
+   },
+   "popupSafeModeTitle": {
+      "description": "Shielded window title displayed in browser popup.",
+      "message": "Νέο Ασφαλές Παράθυρο"
+   },
+   "settingsDialogAddSite": {
+      "description": "Settings dialog title",
+      "message": "Προσθ. ιστότοπου"
+   },
+   "settingsDialogAddTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Προσθήκη προσωρινού κανόνα"
+   },
+   "settingsDialogEditSite": {
+      "description": "Settings dialog title",
+      "message": "Επεξεργ. ιστότοπου"
+   },
+   "settingsDialogEditTemporaryRule": {
+      "description": "Settings dialog title",
+      "message": "Επεξεργασία προσωρινού κανόνα"
+   },
+   "settingsDialogLabelSite": {
+      "description": "Settings dialog label",
+      "message": "Ιστότοπ."
+   },
+   "settingsPageAddButton": {
+      "description": "Add a value to the list",
+      "message": "προσθ."
+   },
+   "settingsPageAutomaticSwitchToBankModeList": {
+      "description": "Your custom websites to switch to Bank Mode automatically",
+      "message": "Αυτόματο άνοιγμα Τραπεζικής Λειτουργίας στις παρακάτω ιστοσελίδες"
+   },
+   "settingsPageCancelButton": {
+      "description": "Cancel dialog",
+      "message": "Ακύρωση"
+   },
+   "settingsPageDescription": {
+      "description": "Extension description",
+      "message": "Προστατέψτε τα οικονομικά μου στοιχεία ενώ ψωνίζω & κάνω συναλλαγές"
+   },
+   "settingsPageDisableNotificationList": {
+      "description": "List of websites you excluded from displaying Bank Mode notification prompt",
+      "message": "Να μην εμφανιστεί η ειδοποίηση Τραπεζικής Λειτουργίας στις παρακάτω ιστοσελίδες"
+   },
+   "settingsPageEditButton": {
+      "description": "Edit an existing list value",
+      "message": "Επεξεργ."
+   },
+   "settingsPageEnableNotification": {
+      "description": "Lever text for enabling bank mode notification prompt",
+      "message": "Εμφάνιση ειδοποίησης Τραπεζικής Λειτουργίας στις ιστοσελίδες τραπεζών"
+   },
+   "settingsPageOpenBankModeButton": {
+      "description": "Open button for opening bank mode through the settings page",
+      "message": "άνοιγμα"
+   },
+   "settingsPageRemoveButton": {
+      "description": "Remove a value from the list",
+      "message": "Κατάργηση"
+   },
+   "settingsPageTitle": {
+      "description": "Settings page main title",
+      "message": "Τραπεζική Λειτουργία: Ρυθμίσεις για Προχωρημένους"
+   },
+   "settingsTitle": {
+      "description": "The title of the application on settings page",
+      "message": "ΤΡΑΠΕΖ. ΛΕΙΤΟΥΡΓΙΑ"
+   },
+   "startPageDescNG": {
+      "description": "Shielded window page: Shielded window description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Το πρόγραμμα SafeZone ανοίγει αυτόματα ύποπτες τοποθεσίες στο Ασφαλές Παράθυρο απομονώνοντας την ιστοσελίδα από τον υπολογιστή σας, για να μην μπορεί να εισβάλει κακόβουλο περιεχόμενο.\u003C/p>\u003Cp>Μπορείτε επίσης να ανοίξετε το Ασφαλές Παράθυρο με μη αυτόματο τρόπο για να παραμείνετε αόρατοι κατά την περιήγηση και να μην καταγράφονται οι ιστοσελίδες που έχετε επισκεφτεί ή τα αρχεία που έχετε κατεβάσει.\u003C/p>"
+   },
+   "startPageDescSZ": {
+      "description": "Bank mode page: Bank mode description. Paragraphs in paragraph tags.",
+      "message": "\u003Cp>Το πρόγραμμα SafeZone ανοίγει αυτόματα όλες τις τραπεζικές ιστοσελίδες στην Τραπεζική Λειτουργία. Αυτή απομονώνει τη συνεδρία και προστατεύει από προγράμματα καταγραφής πληκτρολογήσεων ή άλλο κακόβουλο λογισμικό που μπορεί να κρύβεται στον υπολογιστή σας.\u003C/p>\u003Cp>Με την Τραπεζική Λειτουργία μπορείτε να εκτελείτε με ηρεμία όλες οικονομικές σας συναλλαγές, χωρίς το φόβο να σας υποκλέψουν κωδικούς πρόσβασης ή άλλα προσωπικά στοιχεία\u003C/p>"
+   },
+   "startPageHeaderSZ": {
+      "description": "Paymode page header",
+      "message": "Τραπεζ. Λειτουργία"
+   },
+   "startPageTitleSZ": {
+      "description": "Bank Mode page title, visible in page tab.",
+      "message": "Τραπεζ. Λειτουργία"
+   },
+   "switchBackToBankMode": {
+      "description": "Title, which is shown in popup after an bank page was switched to Bank Mode.",
+      "message": "Επιστροφή στην Τραπεζική Λειτουργία"
+   },
+   "tip": {
+      "description": "Word 'tip' on any place",
+      "message": "Συμβουλή"
+   },
+   "welcomeInfo": {
+      "description": "Detailed information about Bank Mode on welcome page.",
+      "message": "Η Τραπεζική Λειτουργία προστατεύει τα στοιχεία σας από καταγραφείς πληκτρολογήσεων και άλλες απειλές που μπορεί να κρύβονται στον υπολογιστή σας"
+   },
+   "welcomeLink": {
+      "description": "Link for more information about Bank mode.",
+      "message": "https://www.avast.com/en-us/lp-safezone-bankmode"
+   },
+   "welcomeMore": {
+      "description": "More button on welcome page.",
+      "message": "Μάθετε περισσότερα"
+   },
+   "welcomeOk": {
+      "description": "OK button on welcome page.",
+      "message": "Εντάξει, το κατάλαβα"
+   },
+   "welcomeTitle": {
+      "description": "Title of welcome page.",
+      "message": "Καλώς ήρθατε στην Τραπεζική Λειτουργία"
+   }
+}
